@@ -54,12 +54,14 @@
   - [SCAVO PELVICO (CAVO DEL DOUGLAS)](#scavo-pelvico-cavo-del-douglas)
   - [TESSUTO ADIPOSO INTRADDOMINALE](#tessuto-adiposo-intraddominale)
   - [PARETE ADDOMINALE](#parete-addominale)
+  - [CANALE INGUINALE](#canale-inguinale)
   - [ARTERIE ILIACHE (INTERNE / ESTERNE)](#arterie-iliache-interne--esterne)
   - [VENE ILIACHE](#vene-iliache)
   - [ARTERIE FEMORALI](#arterie-femorali)
   - [VENE FEMORALI](#vene-femorali)
   - [SACRO](#sacro)
   - [FEMORE](#femore)
+  - [MUSCOLI ARTO INFERIORE](#muscoli-arto-inferiore)
   - [ALTRI REPERTI](#altri-reperti)
   - [CONCLUSIONE](#conclusione)
   - [NEGATIVI GENERICI](#negativi-generici)
@@ -414,17 +416,27 @@
 
 
 ## MEDIASTINO
-- **linfadenopatie?** 
+- **LINFOADENOPATIE** 
   - **assenti** <br>
   `Non si osservano linfoadenopatie in sede ilare o mediastinica.`
   - **presenti** <br>
-  `Si rileva la comparsa di (alcuni) linfonodi mediastinici a livello (della finestra aorto-polmonare)` ed in sede (ilare) (sinistra)
+  `Si rileva la comparsa di (alcuni) linfonodi mediastinici a livello (della finestra aorto-polmonare) ed in sede (ilare) (sinistra)`
     - **dimensioni** <br>`di dimensioni massime di circa __ x __ mm` 
-    - **core ipodenso &rarr; colliquazione necrotica?** `con core centrale di aspetto ipodenso per possibili fenomeni di colliquazione necrotica;`
+    - **core ipodenso &rarr; colliquazione necrotica?**
+    <br> `con core centrale di aspetto ipodenso per possibili fenomeni di colliquazione necrotica;`
   - **linfonodi rispetto a un precedente controllo**<br>
   `I linfonodi a sede mediastinica, hanno dimensioni (aumentate / ridotte), con asse corto fino a massimo __ mm.`
 
-
+- **RACCOLTE MEDIASTINICHE**<br>
+`In sede mediastinica si evidenzia una raccolta (disomogenea)`
+  - **localizzazione**<br>
+    `in corrispondenza (della parete posteriore) di (destra) dell'esofago a livello di due clip chirurgiche`
+  - **dimensioni**<br>
+    `delle dimensioni massime circa 22 x 16 mm ed estensione cranio-caudale di 35 mm` 
+    - **bolle aeree**<br>
+      `con alcune bolle aeree nella compagine` 
+    - **comunicazione (tramiti / fistole)** <br>
+      `in (apparente) comunicazione con (millimetrica) breccia esofagea`
 
 
 
@@ -683,6 +695,11 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **atrofia**<br>
 `il pancreas presenta aspetto (modicamente) atrofico.`
 
+- **RACCOLTA FLUIDA PERIPANCREATICA**<br>
+`permangono (alcune) (circoscritte) raccolte fluide, con attuale evidenza di esili pareti caratterizzate da enhancement contrastografico, la maggiore localizzata (antero-cranialmente alla testa pancreatica) in regione (ilare epatica), del volume di (__ x __ x _ mm) e alcune del diametro intorno a __ mm rispettivamente in sede (caudale alla testa e al corpo del pancreas) prossimalmente alla regione della coda.`<br><br>
+`Risultano (invariate) le dimensioni delle più (piccole) raccolte cistiche in sede sottopancreatica.`
+
+
 
 ## SURRENI
 
@@ -744,6 +761,11 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 ## ILEO
 
 
+- **ANASTOMOSI**
+  - **raccolte perianastomotiche**<br>
+  `(Non) sono apprezzabili segni di raccolte perianastomotiche`
+  - **bolle aerre perianastomotiche**<br>
+  `né evidenti immagini di bolle aeree circostanti.`
 
 
 
@@ -787,11 +809,25 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 ## PARETE ADDOMINALE
-- **laparocele?** <br>
+- **LAPAROCELE** <br>
 `Si osserva inoltre la comparsa di laparocele (paramediano) (destro) contenente alcune anse di piccolo intestino` 
   - **segni di ischemia?** <br> 
 `in assenza di segni di sofferenza delle stesse.`
 
+- **RACCOLTA FLUIDA**<br>
+  `si osserva una raccolta fluida`
+  - **localizzazione**<br>
+    `in sede (mediana), a livello (sottombelicale) nel contesto dei (tessuti molli sottocutanei),` 
+      - **dimensioni**<br>
+      `con dimensioni massime di __ x __ x __ mm (LL x APx CC)`
+      - **estensione**<br>
+    `estesa in profondità fino al (piano fasciale dei muscoli retti addominali).`
+
+
+
+## CANALE INGUINALE
+- **RACCOLTA FLUIDA**<br>
+`E' presente una (minima) raccolta fluida lungo il decorso del canale inguinale omolaterale (__ mm sul piano assiale).`
 
 
 
@@ -828,6 +864,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `Sono (stabili) le sfumate aree di alterazione osteostrutturale addensante a livello dell'emisacro omolaterale e dell'arco anteriore della III costa destra, in quadro di grossolana spondiloartrosi a carattere osteofitario.`
 
 
+
+
+
 ## FEMORE
 - **aree di alterazione osteostrutturale addensate** <br>
 `Sono (stabili) le sfumate aree di alterazione osteostrutturale addensante a livello del (collo) femorale (destro)`
@@ -836,13 +875,34 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 
-## ALTRI REPERTI
-- **immodificati rispetto al precedente** <br> 
+## MUSCOLI ARTO INFERIORE
 
-`Sono sostanzialmente immodificati tutti i restanti reperti.` <br><br>
+- **RACCOLTA SOVRAFLUIDA - EMATOMA**<br>
+`Si rileva una (voluminosa) raccolta`
+  - **contenuto**<br>
+  `a contenuto (disomogeneo), (misto fluido e sovrafluido),`
+  - **ipotesi diagnostica**<br>
+  `riferibile ad ematoma intrafasciale.`
+
+- **RACCOLTA**<br>
+  `Concomita la presenza di raccolte fluide`
+  - **localizzazione**<br>
+    `nel contesto del muscolo (vasto laterale) (omolaterale) a livello (sottofasciale) ed in minor misura in sede (immediatamente periferica) alla (componente femorale della protesi d'anca), nel contesto del (vasto intermedio),`
+    - **significato ematico o sanguinamento attivo?**<br>
+    `reperti privi di carattere ematico o di segni di sanguinamento attivo.`
+
+
+
+## ALTRI REPERTI
+- **immodificati rispetto al precedente** 
+<br> 
+`Sono sostanzialmente immodificati tutti i restanti reperti.` 
+<br><br>
 `Sono sostanzialmente immodificati tutti i restanti reperti rispetto al precedente controllo eseguito (in altra Sede) in data __/__/____.`
 
-- **reperti di nuovo riscontro di non univoca interpretazione** <br>`Tali reperti sono meritevoli di correlazione con i dati clinico-anamnestici (ipotesi 1? ipotesi 2?).`
+- **reperti di nuovo riscontro di non univoca interpretazione** 
+<br>
+`Tali reperti sono meritevoli di correlazione con i dati clinico-anamnestici (ipotesi 1? ipotesi 2?).`
 
 - **ulteriori nuove localizzazioni neoplastiche** <br>
 `Non sono comparse per il resto lesioni focali o linfoadenopatie riferibili a localizzazioni secondarie della malattia di base in ambito toraco-addominale.`
@@ -852,6 +912,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 - **protesi vascolare** <br>
 `È presente protesi al tratto prossimale dell'arteria (succlavia sinistra).`
+
+
+
 
 
 ## CONCLUSIONE
@@ -864,10 +927,14 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **vie biliari e urinarie non dilatate**<br>
 `Le vie biliari e le vie escretrici urinarie non sono dilatate.`
 
-- <br>
-`Con i limiti dello studio basale non si riconoscono significative alterazioni di segnale a carico del (fegato), della (milza) e dei (reni).  `
+- **Organi parenchimatosi nella norma in basale**<br>
+`Con i limiti dello studio basale non si riconoscono significative alterazioni tomografiche a carico del (fegato), della (milza) e dei (reni).`
 
+- **Non linfoadenopatie o raccolte**<br>
+`Non sono presenti linfoadenopatie o raccolte fluide in sede addominali.`
 
+- **Non segni di perforazione**<br>
+`Non si riconoscono raccolte fluide né segni di gas libero in addome.`
 
 ## FOLLOW-UP (RISTADIAZIONE) LESIONI NEOPLASTICHE
 
