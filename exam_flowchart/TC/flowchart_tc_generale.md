@@ -37,9 +37,7 @@
   - [ARTERIE & VENA MESENTERICA SUPERIORE & INFERIORE](#arterie--vena-mesenterica-superiore--inferiore)
   - [STOMACO](#stomaco)
   - [DUODENO](#duodeno)
-  - [DIGIUNO & ILEO](#digiuno--ileo)
-  - [COLON](#colon)
-  - [RETTO](#retto)
+  - [RETROCAVITA' DEGLI EPIPLON](#retrocavita-degli-epiplon)
   - [FEGATO](#fegato)
   - [COLECISTI](#colecisti)
   - [VIE BILIARI](#vie-biliari)
@@ -51,7 +49,9 @@
   - [VESCICA](#vescica)
   - [PROSTATA](#prostata)
   - [ILEO](#ileo)
-  - [COLON](#colon-1)
+  - [COLON](#colon)
+  - [RETTO](#retto)
+  - [SCAVO PELVICO (CAVO DEL DOUGLAS)](#scavo-pelvico-cavo-del-douglas)
   - [TESSUTO ADIPOSO INTRADDOMINALE](#tessuto-adiposo-intraddominale)
   - [PARETE ADDOMINALE](#parete-addominale)
   - [ARTERIE ILIACHE (INTERNE / ESTERNE)](#arterie-iliache-interne--esterne)
@@ -473,7 +473,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 ## ARTERIE & VENA MESENTERICA SUPERIORE & INFERIORE
-- **difetti di riempimento?**<br>
+- **difetti di riempimento (trombosi o embolia)**<br>
 `L'arteria e la vena mesenterica superiore ed inferiore sono pervie e di calibro regolare, ove attendibilmente esplorabili.`
 
 
@@ -483,6 +483,14 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 ## STOMACO
 
 
+- **Massa**<br>
+  >Si riconosce 
+  > - un (grossolano) ispessimento (mammellonato) del (fondo gastrico) 
+  >   - associata ad una (voluminosa) massa di __cm 
+  >     - con centro necrotico che interessa (la retrocavità degli epiploon) e che 
+  >       - impronta da un lato (la piccola curvatura) gastrica 
+  >       - mentre dal lato opposto il (fegato) 
+  >         - con il quale non si notano dei piani di clivaggio.
 
 
 ## DUODENO
@@ -491,19 +499,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 
-## DIGIUNO & ILEO
-
-
-
-
-
-## COLON
-
-
-
-
-
-## RETTO
+## RETROCAVITA' DEGLI EPIPLON
 
 
 
@@ -511,18 +507,21 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 ## FEGATO
 
-- **normale**<br>
-`Il fegato presenta regolare aspetto TC.`<br>
-`Il fegato è regolare per dimensioni e margini.`<br />
-`Il fegato conserva regolare aspetto TC, privo di lesioni focali.`<br />
-`Il fegato preserva normale aspetto tomodensitometrico.`
+- **NORMALE**<br>
+`Il fegato presenta regolare aspetto TC.`<br><br>
+`Il fegato è regolare per dimensioni e margini.`<br><br>
+`Il fegato conserva regolare aspetto TC, privo di lesioni focali.`<br><br>
+`Il fegato preserva normale aspetto tomodensitometrico.`<br><br>
+`Tenuto conto delle sole condizioni basali, non si riconoscono grossolane alterazioni in corrispondenza del fegato.`
+
 
 - **dimensioni**
 
-  - ***regolari***
+  - ***regolari***<br>
+`Il fegato è regolare per dimensioni`
 
-  - ***incrementate***<br />
-  `IL fegato di presenta dimensioni incrementate`
+  - ***incrementate***<br>
+  `Il fegato di presenta dimensioni incrementate`
 
 
 
@@ -530,8 +529,11 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
   - ***regolari***
 
-  - ***irregolari***<br />
-  `Fegato di dimensioni (modicamente) aumentate, con margini attualmente regolari e con ecostruttura tendenzialmente iperecogena.`
+  - ***irregolari***<br>
+  `Fegato di dimensioni (modicamente) aumentate, con margini irregolari e con struttura disomogenea.`
+
+  - ***bozzuti***<br>
+  `Fegato di dimensioni (incrementate), a margini bozzuti,`
 
 
 - **struttura**
@@ -539,59 +541,101 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
   - ***omogenea***<br>
   `Fegato a struttura omogenea`
 
-
   - ***disomogena***
 
 
 
-- **ipertrofia del caudato**<br />
+
+- **IPERTROFIA DEL LOBO CAUDATO**<br>
 `Fegato di dimensioni (nei limiti) con margini (sostanzialmente regolari) di cui si rileva esclusivamente un (lieve) aspetto ipertrofico del lobo caudato.`
 
 
 
-- **ipertrofia del lobo sinistro**
+- **IPERTROFIA DEL LOBO SINISTRO**<br>
+`relativa ipertrofia del lobo sinistro, come nei quadri di epatopatia cronica cirrotica`
 
 
 
-- steatosi<br />
-`Il fegato presenta aspetto steatosico`<br>
+- **STEATOSI**<br>
+`Il fegato presenta aspetto steatosico`<br><br>
 `Fegato ingrandito di aspetto steatosico`
 
+  - **area di risparmio**<br>
+`Il fegato, in prossimità della colecisti presenta una sfumata area di ipodensità di incerto significato; la sede suggerire in prima ipotesi la presenza di un'area di risparmio da steatosi, a scopo prudenziale può anche essere utile un completamento con metodica ecografica`
 
 
-- **epatopatia cronica cirrotica**
-> Il fegato ha 
+- **EPATOPATIA CRONICA CIRROTICA**
+> Il fegato presenta 
 >  - dimensioni (incrementate) e 
 >  - margini (irregolarmente bozzuti) 
 >    - come nei quadri di (epatopatia cronica cirrotica), 
 >      - con relativa ipertrofia del lobo sinistro; 
 >        - non sono (con certezza) riconoscibili lesioni focali.
 
+> - In quadro di epatopatia cronica cirrotica caratterizzata da 
+>   - fegato a margini (bozzuti) e
+>   - ipertrofia relativa del lobo sinistro, 
+>     - non si evidenziano lesioni focali di aspetto evolutivo; 
+>       - al ______ segmento è visibile una piccola calcificazione parenchimale.
+
+- **EPATOPATIA FIBRO-DEGENERATIVA**
+> Il fegato presenta 
+> - dimensioni complessive (ancora) (nei limiti della normalità), ma 
+> - margini (irregolari) e (bozzuti) e 
+> - struttura tomodensitometrica (disomogenea), 
+>   - per la nota epatopatia fibro-rigenerativa.
 
 
-- **lesioni focali?**
+- **LESIONI FOCALI**
 
   - ***assenti***<br>
-  `Non lesioni focali a carico del fegato.`
+  `Non lesioni focali a carico del fegato.`<br><br>
+  `A livello addominale non si riconoscono lesioni focali a carico del fegato.`<br><br>
+  `Il fegato non presenta focalità.`
 
-  - **cisti**<br>
-  `(piccola) formazione ipodensa, a livello del lobo (sinistro) del fegato di verosimile natura cistica`<br>
-    `segnalandosi (piccola franca) ipodensità di aspetto cistico al __ segmento, (subglissoniana), del diametro assiale massimo di circa _-_ mm.`
-    - **diametro**
-    - **numero**<br>
+  - **CISTI**<br>
+  **(Lesione ipodensa a margini regolari - non prende MdC)**
+  `(piccola) formazione ipodensa, a livello del lobo (sinistro) del fegato di verosimile natura cistica`<br><br>
+    `segnalandosi (piccola) franca ipodensità di aspetto cistico al __ segmento, (subglissoniana), del diametro assiale massimo di circa _-_ mm.`
+    - **numero**
+      - ***singole***
+      - ***multiple***<br>
     `Il fegato è sede di (multiple) formazioni cistiche, in noto quadro di policistosi epato-renale.`<br><br>
     `Il fegato è sede di (numerose) formazioni ipodense di aspetto cistico, la maggiore di __ mm al passaggio S_-S_.`<br><br>
     `Il fegato presenta (alcune) lesioni cistiche con diametro fino a __mm.`
-    - **lobo epatico**
-    - **segmento epatico**
+        - **diametro**
+        - **lobo epatico**
+        - **segmento epatico**
+        - **enhancemente contrastografico**<br>
+          `presenza di una piccola ipodensità di __mm priva di enhancement contrastografico, di verosimile natura cistica, al passaggio S_/_.`
 
-  - **lesioni ripetitive**
-    - **assenti**
-    - **presenti**<br />
-    `Il fegato ha ecostruttura diffusamente disomogenea, per le multiple (note) lesioni ripetitive.`
+    > A carico del fegato si osservano rade e millimetriche lesioni ipodense di natura cistica la maggiore di circa __ mm.
 
-  - **lesioni ipervascolari *(fase arteriosa parenchimale 40")***<br />
+- **CALCIFICAZIONI PARENCHIMALI EPATICHE**<br>
+`non si evidenziano lesioni focali di aspetto evolutivo; al ___ segmento è visibile una (piccola) calcificazione parenchimale.`
+
+  - **ANGIOMA** <br>
+  **(Lesione focale ipodensa - pattern di riempimento tipico)**<br>
+  `in presenza di formazione focale ipodensa a sede (subglissoniana) del __ segmento,  del diamtero di circa __ mm, compatibile con angioma oppure con piccola cisti.`
+
+  - **LESIONI RIPETITIVE (METASTASI)**<br>
+    **(Lesione ipodensa a margini irregolari - prende MdC)**
+    - ***assenti***
+    - ***singola***
+    - ***multiple***<br>
+    `Il fegato ha ecostruttura diffusamente disomogenea, per le multiple (note) lesioni ripetitive.`<br><br>
+    `Il fegato presenta in (entrambi i lobi), (multiple) lesioni focali ipodense, con diametro fino a __ mm, di verosimile significato ripetitivo.`
+    <br>
+    <br>
+
+    > Si conferma sovvertimento strutturale del fegato in relazione a presenza di multiple formazioni secondarie, rilevandosi dilatazione delle vie biliari intraepatiche.
+
+  - **LESIONE IPODENSA ASPECIFICA**<br>
+  `A livello del fegato si riconosce un'area (ovalare) ipodensa a livello del __ segmento.`
+
+  - **LESIONI IPERVASCOLARI *(fase arteriosa parenchimale 40")***<br>
   `Il fegato (conserva) aspetto TC (nei limiti della normalità), in presenza di una (sfumata) area di ipervascolarizzazione in sede (subglissoniana) nel (VI) segmento, (stabile) per dimensionni (__ mm) e (priva) di caratteristiche TC di evolutività.`
+
 
 
 
@@ -620,7 +664,8 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 - **milza accessoria?** <br>
 `(Si conferma) la presenza di una milza accessoria di __ mm,`<br><br>
-`segnalandosi la presenza di due milze accessorie del diametro massimo di __ e __ mm`
+`segnalandosi la presenza di due milze accessorie del diametro massimo di __ e __ mm`<br><br>
+`è visibile una (piccola) milza accessoria, priva di significativo clinico.`
 
 
 
@@ -641,8 +686,13 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 ## SURRENI
 
-- **ispessimento surrenale?** <br>
+- **ispessimento surrenalico** 
+<br>
 `Si rileva la presenza di diffuso ispessimento del surrene (sinistro).`
+
+- **nodularit**
+<br>
+`(lieve) ispessimento (bilaterale) delle alette surrenaliche, associato a due (limitate) lesioni (psudonodulari) ipodense di entrambi i corpi surrenialici, delle dimensioni di __mm, non ulteriormente tipizzabili senza però dimostrare caratteristiche TC di aggressività.`
 
 
 
@@ -711,6 +761,19 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `si confermano gli esiti di pregresso intervento chirurgico di emicolectomia (destra).`
 
 
+
+
+
+## RETTO
+
+
+
+## SCAVO PELVICO (CAVO DEL DOUGLAS)
+- **falda fluida (versamento pelvico)**<br>
+`Si osserva (esile) falda fluida nello scavo pelvico`
+
+
+
 ## TESSUTO ADIPOSO INTRADDOMINALE
 - **imbibizione?**<br>
 `Si osserva (minima) imbibizione fluida del tessuto adiposo intra-addominale`
@@ -720,11 +783,17 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `in assenza di linfoadenopatie.`
 
 
+
+
+
 ## PARETE ADDOMINALE
 - **laparocele?** <br>
 `Si osserva inoltre la comparsa di laparocele (paramediano) (destro) contenente alcune anse di piccolo intestino` 
   - **segni di ischemia?** <br> 
 `in assenza di segni di sofferenza delle stesse.`
+
+
+
 
 
 ## ARTERIE ILIACHE (INTERNE / ESTERNE)
@@ -795,7 +864,7 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **vie biliari e urinarie non dilatate**<br>
 `Le vie biliari e le vie escretrici urinarie non sono dilatate.`
 
-- <br />
+- <br>
 `Con i limiti dello studio basale non si riconoscono significative alterazioni di segnale a carico del (fegato), della (milza) e dei (reni).  `
 
 

@@ -30,7 +30,7 @@
 
 - - -
 
-introduzione &rarr; sviluppo temporale &rarr; reperto &rarr; caratterizzazione &rarr; localizzazione
+> **introduzione** &rarr; **sviluppo temporale** &rarr; **reperto** &rarr; **caratterizzazione** &rarr; **localizzazione**
 
 ---
 
@@ -70,6 +70,7 @@ introduzione &rarr; sviluppo temporale &rarr; reperto &rarr; caratterizzazione &
 - multiple
 - tenuemente
 - grossolane
+- franca
 
 ---
 
@@ -80,7 +81,8 @@ introduzione &rarr; sviluppo temporale &rarr; reperto &rarr; caratterizzazione &
 - conserva
 - permane
 - persiste
-- immodificate (per numero e dimensioni)
+- immodificate 
+  - per (numero e dimensioni) 
 - precedentemente descritte
 - sempre di poco superiore a
 - incrementate
@@ -137,10 +139,15 @@ introduzione &rarr; sviluppo temporale &rarr; reperto &rarr; caratterizzazione &
 ---
 
 ## FRASI PREFATTE
-- Tali reperti sono meritevoli di correlazione con i dati clinico-anamnestici (ipotesi 1? ipotesi 2?).
 - Sono sostanzialmente immodificati tutti i restanti reperti.
 - Sono sostanzialmente immodificati tutti i restanti reperti rispetto al precedente controllo eseguito (in altra Sede) in data \_\_/__/____.
-- non sono con certezza riconoscibili ___________.
+- Si osserva ______________, non presente al precedente controllo TC.
+- Tali reperti sono meritevoli di correlazione con i dati clinico-anamnestici (ipotesi 1? ipotesi 2?).
+- non sono con certezza riconoscibili ______________.
+- ______________, priva di significativo clinico.
+- ______________ di incerto significato; (la sede suggerire in prima ipotesi la presenza di ______________,) a scopo prudenziale può anche essere utile un completamento con metodica (ecografica)`
+- Tenuto conto delle sole condizioni basali, non si riconoscono grossolane alterazioni in corrispondenza del ______________.
+-______________ non ulteriormente tipizzabile senza però dimostrare caratteristiche TC di aggressività.
 
 ---
 
