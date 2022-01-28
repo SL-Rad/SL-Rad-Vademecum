@@ -24,6 +24,10 @@ your_data = DICOM_file.pixel_array
 your_df = pd.DataFrame(your_data)
 your_df.to_csv('lab/pydicom_snippets/output.csv')
 
-now = datetime.datetime.now()
+# Stampa a schermo
+print(DICOM_file.pixel_array)
+
+# Esporta il data array in csv
+now = datetime.datetime.now().strftime("%H.%M.%S_%m-%d-%Y")
 os.rename('lab/pydicom_snippets/output.csv',
-          'lab/pydicom_snippets/'+str(now)+'output.csv')
+          'lab/pydicom_snippets/' + now + 'output.csv')
