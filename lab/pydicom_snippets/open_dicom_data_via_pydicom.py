@@ -12,5 +12,5 @@ DICOM_file_path = 'lab\python_dicom_anonymization\dicom\ddd.DCM'
 # Definisci il file
 DICOM_file = dcmread(DICOM_file_path)
 
-# Apri il file → Mostra le informazioni dentro il file dicom
+# Apri il file Mostra le informazioni dentro il file dicom
 print(DICOM_file)
