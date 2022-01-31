@@ -14,8 +14,8 @@
   - Refertazione TC
 - RISONANZA MAGNETICA
   - Agenda & gestione della sala
-  - Acquisizione delle fasi di RM
   - Manovre medico-infermieristiche
+  - Sequenze di acquisizione RM
   - Refertazione RM
 - CONTRASTOGRAFICI
   - Agenda & gestione della sala
