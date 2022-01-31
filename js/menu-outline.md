@@ -21,8 +21,10 @@
   - Agenda & gestione della sala
   - Esecuzione dell'esame contastografico
   - Refertazione contrastografici
+- PRONTO SOCCORSO 
 - PROGETTO MSK
 - APPUNTI DI UN GIOVANE RADIOLOGO
+- CASEUAL WEDNESDAY
 - TELEFONI
   - Ambulatori e Reparti Ospedalieri
   - Radiologia Centrale
