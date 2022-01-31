@@ -14,6 +14,7 @@ optionally remove curves and private tags, and write the results in a new file.
 # license : MIT
 
 
+from pickletools import anyobject
 import tempfile
 
 import pydicom
@@ -25,7 +26,7 @@ print(__doc__)
 # Anonymize a single file
 ###############################################################################
 
-filename = get_testdata_file('MR_small.dcm')
+filename = 'lab\python_dicom_anonymization\dicom\ddd.DCM'
 dataset = pydicom.dcmread(filename)
 
 data_elements = ['PatientID',
@@ -90,3 +91,11 @@ for de in data_elements:
 
 output_filename = tempfile.NamedTemporaryFile().name
 dataset.save_as(output_filename)
+
+
+###
+
+anonym = dataset.remove_private_tags()
+print(anonym)
+with open(filename, 'w') as i:
+    i.write(anonym)
