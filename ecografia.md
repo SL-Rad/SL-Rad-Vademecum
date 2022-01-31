@@ -32,8 +32,7 @@
     - [Casi particolari](#casi-particolari)
     - [Accortezze](#accortezze)
   - [**ESAMI ECOGRAFICI**](#esami-ecografici)
-  - [**ECOGRAFIA INTERVENTISTICA MSK**](#ecografia-interventistica-msk)
-    - [PROCEDURE INTERVENTISTICA MSK](#procedure-interventistica-msk)
+  - [ECOGRAFIA INTERVENTISTICA MSK](#ecografia-interventistica-msk)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
@@ -148,7 +147,8 @@ Da compilare entro fine giornata.
 
 ---
 
-## **ECOGRAFIA INTERVENTISTICA MSK**
+
+## ECOGRAFIA INTERVENTISTICA MSK
 
 <!--- Fiat iustitia et pereat mundus -->
 
@@ -157,14 +157,6 @@ Il Venerdì pomeriggio l'attività in sala ecografica termina all'ora di pranzo,
 Il progetto si occupa di radiologia interventistica ecoguidata del distretto muscoloschelettrico.
 
 Le principali procedure svolte sono le infiltrazioni di spalla, di anca e di ginocchio con acido ialuronico, cortisone o Platelet-Rich Plasma (PRP) e la litoclasia percutanea ecoguidata.
-
-### PROCEDURE INTERVENTISTICA MSK
-
-- [INFILTRAZIONE ECOGUIDATA DI SPALLA]()
-- [INFILTRAZIONE ECOGUIDATA DI ANCA]()
-- [INFILTRAZIONE ECOGUIDATA DI GINOCCHIO]()
-- [LITOCLASIA PERCUTANEA ECOGUIDATA]()
-- [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTRO INTRARTICOLARE PER ARTRO-RMN](exam_flowchart\ECO\INTERVENTISTICA-MSK\infiltrazione_mdc_artro_rmn.html)
 
 <div style="text-align: right">
 <a href="#ecografia">⬆️</a>
