@@ -7,7 +7,7 @@ import numpy as np
 from pydicom import dcmread
 
 # Definisci dove si trova il file
-DICOM_file_path = 'lab\python_dicom_anonymization\dicom\DICOM_sample2.DCM'
+DICOM_file_path = 'lab\python_dicom_anonymization\\1_dicom_non_anonimizzati\DICOM_sample.DCM'
 
 # Definisci il file
 DICOM_file = dcmread(DICOM_file_path)
