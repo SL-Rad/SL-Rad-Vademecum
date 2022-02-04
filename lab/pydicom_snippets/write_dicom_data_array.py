@@ -11,7 +11,7 @@ import datetime
 import os
 
 # Definisci dove si trova il file
-DICOM_file_path = 'lab\python_dicom_anonymization\dicom\DICOM_sample.DCM'
+DICOM_file_path = 'lab\python_dicom_anonymization\\1_dicom_non_anonimizzati\DICOM_sample.DCM'
 
 # Definisci il file
 DICOM_file = dcmread(DICOM_file_path)
@@ -30,4 +30,4 @@ print(DICOM_file.pixel_array)
 # Esporta il data array in csv
 now = datetime.datetime.now().strftime("%H.%M.%S_%m-%d-%Y")
 os.rename('lab/pydicom_snippets/output.csv',
-          'lab/pydicom_snippets/' + now + 'output.csv')
+          'lab/pydicom_snippets/' + now + '-output.csv')

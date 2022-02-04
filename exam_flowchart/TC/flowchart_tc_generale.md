@@ -95,6 +95,8 @@
 	`L'esame è stato acquisito in fase arteriosa.`
     - **Venosa** <br>
 	`L'esame è stato acquisito in fase venosa.`
+    - **Quadrifasica**<br>
+        `L'esame è stato eseguito in condizioni basali e dopo somministrazione e.v. di MdC iodato (__________ mL) in fase arteriosa parenchimale, portale e tardiva (e confrontato con il precedente analogo del __/__/____).`
 	
   > Si specifica in quale fase è stata acquisita la scansione quando viene evidenziato un reperto che avrebbe richiesto una fase differente per essere caratterizzato meglio come per esempio il rilevamento di embolia polmonare durante una scansione di torace in fase portale oppure quando per motivi tecnici non è stato eseguito un ripassaggio dove poteva essere utile come per esempio sola fase arteriosa senza portale per valutare lo spandimento.
 
@@ -629,6 +631,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
   - **ANGIOMA** <br>
   **(Lesione focale ipodensa - pattern di riempimento tipico)**<br>
   `in presenza di formazione focale ipodensa a sede (subglissoniana) del __ segmento,  del diamtero di circa __ mm, compatibile con angioma oppure con piccola cisti.`
+
+  - **IPERPLASIA NODULARE FOCALE**<br>
+    `Lesione marcatamente ipervascolare in S__ presenta sostanziale isodensità con le strutture vascolari arteriose in tutte le fasi (in particolare, senza significativo wash-out), appare in contiguità sul versante anteriore con un ramo arterioso epatico e risulta stabile nel tempo (__ mm); il reperto è pertanto compatibile con iperplasia nodulare focale o emangioma "ad alto flusso". Il focolaio lievemente ipervascolare lungo il margine antero-superiore del lobo epatico sinistro (probabilmente coincidente col nodulo relativamente ipoecogeno descritto all'ecografia) appare anch'esso stabile (diametro massimo sul piano assiale circa 1.5 cm) e senza significativo wash-out, e pertanto al momento non tipizzabile (indicata pertanto la prosecuzione della sorveglianza ecografica ravvicinata, con prossimo controllo tra circa 4 mesi).`
 
   - **LESIONI RIPETITIVE (METASTASI)**<br>
     **(Lesione ipodensa a margini irregolari - prende MdC)**
