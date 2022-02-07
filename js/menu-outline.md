@@ -20,8 +20,8 @@
   - Agenda & gestione della sala
   - Esecuzione dell'esame contastografico
   - Refertazione contrastografici
-- PRONTO SOCCORSO 
-- PROGETTO MSK
+- PRONTO SOCCORSO ???
+- PROGETTO MSK ???
 - TELEFONI
   - Ambulatori e Reparti Ospedalieri
   - Radiologia Centrale
