@@ -5,7 +5,7 @@
 # che converte ogni pdf in un txt dallo stesso titolo nella stessa directory.
 
 # Set work dir
-setwd("lab/referto_txt_to_referto_txt_anonimizzato/1_PDF_to_text.R")
+#setwd("lab/referto_txt_to_referto_txt_anonimizzato/1_PDF_to_text.R")
 
 # folder with 1000s of PDFs
 dest <- "C:/Users/rusla/Desktop/referto_txt_to_referto_txt_anonimizzato/1_dir_referti_pdf_non_anonimi"
