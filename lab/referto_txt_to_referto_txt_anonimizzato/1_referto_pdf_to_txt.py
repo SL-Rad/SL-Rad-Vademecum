@@ -1,12 +1,12 @@
 import pdftotext
 
 # Load your PDF
-with open("lorem_ipsum.pdf", "rb") as f:
+with open("lab\referto_txt_to_referto_txt_anonimizzato\1_dir_referti_pdf_non_anonimi\Flat-panel_detector.pdf", "rb") as f:
     pdf = pdftotext.PDF(f)
 
 # If it's password-protected
-with open("secure.pdf", "rb") as f:
-    pdf = pdftotext.PDF(f, "secret")
+# with open("secure.pdf", "rb") as f:
+#    pdf = pdftotext.PDF(f, "secret")
 
 # How many pages?
 print(len(pdf))
