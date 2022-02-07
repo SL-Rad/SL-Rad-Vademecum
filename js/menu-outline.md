@@ -1,4 +1,3 @@
-- HOME
 - RADIOLOGIA TRADIZIONALE
   - Agenda & gestione della sala
   - Proiezioni radiografiche
@@ -23,9 +22,12 @@
   - Refertazione contrastografici
 - PRONTO SOCCORSO 
 - PROGETTO MSK
-- APPUNTI DI UN GIOVANE RADIOLOGO
-- CASEUAL WEDNESDAY
 - TELEFONI
   - Ambulatori e Reparti Ospedalieri
   - Radiologia Centrale
   - Pronto Soccorso (DEA)
+
+- HOME → Banner cliccabile
+
+- APPUNTI DI UN GIOVANE RADIOLOGO → Home page
+- CASEUAL WEDNESDAY → Home page
