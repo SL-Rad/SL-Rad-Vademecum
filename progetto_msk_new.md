@@ -1,6 +1,6 @@
 <div class="topnav">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>z
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html">Ecografia</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">Tomografia Computerizzata</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html">Risonanza Magnetica</a>
@@ -18,12 +18,16 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
 - [PROGETTO MSK](#progetto-msk)
   - [AGENDA](#agenda)
   - [PROCEDURE INTERVENTISTICA MSK](#procedure-interventistica-msk)
+    - [Indicazioni generali](#indicazioni-generali)
+    - [Controindicazioni generali](#controindicazioni-generali)
   - [INFILTRAZIONE ECOGUIDATA DI SPALLA](#infiltrazione-ecoguidata-di-spalla)
+    - [Indicazioni cliniche](#indicazioni-cliniche)
     - [Materiale](#materiale)
     - [Esecuzione della procedura](#esecuzione-della-procedura)
     - [Refertazione](#refertazione)
       - [Referto prefatto](#referto-prefatto)
   - [LITOCLASIA PERCUTANEA ECOGUIDATA](#litoclasia-percutanea-ecoguidata)
+    - [Indicazioni cliniche](#indicazioni-cliniche-1)
     - [Materiale](#materiale-1)
     - [Esecuzione della procedura](#esecuzione-della-procedura-1)
     - [Refertazione](#refertazione-1)
@@ -34,6 +38,7 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Refertazione](#refertazione-2)
       - [Referto prefatto](#referto-prefatto-2)
   - [INFILTRAZIONE ECOGRAFIA DI GINOCCHIO](#infiltrazione-ecografia-di-ginocchio)
+    - [Indicazioni cliniche](#indicazioni-cliniche-2)
     - [Materiale](#materiale-3)
     - [Esecuzione della procedura](#esecuzione-della-procedura-3)
     - [Refertazione](#refertazione-3)
@@ -54,7 +59,23 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
 
 ## AGENDA
 
-Il centro del Progetto MSK è l'ambulatorio di muscoloscheletrica che si svolge il venerdì pomeriggio dalle 14:00 alle 16:00 circa con quattro slot dedicati presso l'ecografia della Radiologia Centrale.
+Il centro del Progetto MSK è l'ambulatorio di muscoloscheletrica che si svolge il Venerdì pomeriggio e talvolta il Mercoledì pomeriggio dalle 14:00 alle 16:00 circa con quattro slot dedicati presso l'ecografia della Radiologia Centrale.
+
+Segnare gli appuntamenti sul Calendar del progettomsk indicando:
+- Quesito diagnostico
+- Relazione clinica 
+- Medico inviante (solitamente Ortopedico)
+- Recapito paziente
+
+Indicare al paziente di presentarsi portando la documentazione del medico richiedente e i precedenti esami, soprattuto radiologici.
+
+| Codici DEMA |        Prestazione         | Quantità |
+| :---------: | :------------------------: | :------: |
+|    81.92    |  Infiltrazione articolare  |    1x    |
+|    89.7     |   Consulenza radiologica   |    1x    |
+|   88.79.9   | Ecografia osteo articolare |    1x    |
+
+
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
@@ -64,7 +85,28 @@ Il centro del Progetto MSK è l'ambulatorio di muscoloscheletrica che si svolge 
 
 ## PROCEDURE INTERVENTISTICA MSK
 
+### Indicazioni generali
+- Raccolta di aspirato per analisi di patologica clinica
+  - diagnosi di artrite settica
+- Decompressione dell'articolazione
+- Iniezione di farmaci
+  - cortisonici locali
+  - acido ialuronico
 
+### Controindicazioni generali
+
+- Infezioni sistemiche
+- Danno cutaneo o malattie cutanee del sito di iniezione
+- Tumori del sito di iniezione
+- Fratture recenti prossimali al sito di iniezione
+- Infezione batterica, accertata o sospetta, dell'articolazione interessata
+- Trattamenti infruttuosi della stessa articolazione nelle sei settimane precedenti
+- Assenza del consenso informato
+- Alterazione degli indici di coagualazione
+  - aPTT
+  - PT/INR
+
+>Data l'importanza della diagnosi di artrite settica la presenza di infezione del sito di interevento non rappresenta una controindicazione alla procedura
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
@@ -74,7 +116,25 @@ Il centro del Progetto MSK è l'ambulatorio di muscoloscheletrica che si svolge 
 
 ## INFILTRAZIONE ECOGUIDATA DI SPALLA
 
+### Indicazioni cliniche
+
 ### Materiale
+
+- telo allievo
+- telo con buco
+- garze sterili
+- gel sterile
+- ago chiba 21G x 100mm
+- guanti sterili
+- guanti sterili per sonda
+- **ChloraPrep**
+- Pennarello marker
+- **Cortisonico**
+	- **Kenacort (40 mg/mL)**
+	- **Depomedrol (40 mg/mL)**
+	> Nelle articolazioni sono maggiormente indicati i prodotti non "depo" perché i depo tendono a precipitare e formare cristalli.
+- **Acido Ialuronico**
+  - **Coxarthum (Sodio Ialuronato 75mg/3mL)**
 
 ### Esecuzione della procedura
 
@@ -91,6 +151,8 @@ Il centro del Progetto MSK è l'ambulatorio di muscoloscheletrica che si svolge 
 ---
 
 ## LITOCLASIA PERCUTANEA ECOGUIDATA
+
+### Indicazioni cliniche
 
 ### Materiale
 
@@ -189,7 +251,27 @@ Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione 
 
 ## INFILTRAZIONE ECOGRAFIA DI GINOCCHIO
 
+>In generale l'infiltrazione ecografica di ginocchio offre vantaggi limitati rispetto all'accesso non ecografico. I reperi anatomici per eseguire la procedura sono ben evidenziabili con la sola anatomia di superificie.
+
+### Indicazioni cliniche
+
 ### Materiale
+
+- telo allievo
+- telo con buco
+- garze sterili
+- gel sterile
+- ago chiba 21G x 100mm
+- guanti sterili
+- guanti sterili per sonda
+- **ChloraPrep**
+- pennarello marker
+- **Cortisonico**
+	- **Kenacort (40 mg/mL)**
+	- **Depomedrol (40 mg/mL)**
+	> Nelle articolazioni sono maggiormente indicati i prodotti non "depo" perché i depo tendono a precipitare e formare cristalli.
+- **Acido Ialuronico**
+  - **Coxarthum (Sodio Ialuronato 75mg/3mL)**
 
 ### Esecuzione della procedura
 
@@ -350,22 +432,15 @@ Adesso si può precedere ad acquisire scansioni in risonanza.
 
 ## BIBILIOGRAFIA
 
-- **Ecografia Muscoloscheletrica**
-*Eugene G. McNally* (Autore),
-*Carlo Faletti* (Curatore)
-Elsevier, 2007
+- **Ecografia Muscoloscheletrica** - *Eugene G. McNally* (Autore),
+*Carlo Faletti* (Curatore), Elsevier, 2007.
 
-- **Ecografia dell’Apparato Muscolo Scheletrico**
-*Sans Nicolas*, *Lapegue Franck*
-Verducci Editore, 2011
+- **Ecografia dell’Apparato Muscolo Scheletrico** - *Sans Nicolas*, *Lapegue Franck*, Verducci Editore, 2011.
 
-- **Introduction to Musculoskeletal Ultrasound**
-*Jeffrey A. Strakowski*
-Desmosmedical, 2015
+- **Introduction to Musculoskeletal Ultrasound** - *Jeffrey A. Strakowski*, Desmosmedical, 2015.
 
-- **The Netter Collection of Medical Illustrations**
-*Frank Netter*
-Elsevier, 2016
+- **The Netter Collection of Medical Illustrations** - *Frank Netter*
+Elsevier, 2016.
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
