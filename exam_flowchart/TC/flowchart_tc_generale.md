@@ -721,6 +721,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 ## RENI
+ - **Regolari**<br>
+`I reni sono regolari per sede, dimensioni, spessore ed enhancement cortico-midollare.`
+
 - **cisti renali?** <br>
 `si segnala la presenza di multiple cisti (corticali e parapieliche) a livello di entrambi i reni`<br><br>
 `una cisti (mesorenale) (sinistra) del diametro massimo di __ mm.`

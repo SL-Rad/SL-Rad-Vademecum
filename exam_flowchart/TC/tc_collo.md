@@ -47,20 +47,25 @@
    - Diabete grave con danno renale?
 2. Valutare la **creatinina**
 3. Acquisire le **scout**
-Collo Basale
-respiro libero
-non deglutire
-braccia giù
-
-1. TOR/TOR+AC
-braccia su
-inspirio max 
-arterioso torace 40"/ venoso torace 60"/ portale 80"/ nefrografica 90"
-
-3. Collo MdC
-respiro libero
-non deglutire
-venoso collo 100"
+4. Acquisire le scansioni
+   - **Collo Basale**
+     - braccia lungo i fianchi
+     - respiro libero
+     - non deglutire
+   - *eventuale* **Torace / Torace + Addome Completo**
+     - mani sopra la testa
+     - massimo inspirio
+     - deglutizione libera
+     - fase necessaria:
+       - arterioso torace (40")
+       - venoso torace (60")
+       - portale (80")
+       - nefrografica (90")
+   - **Collo con MdC**
+     - braccia lungo i fianchi
+     - respiro libero
+     - non deglutire
+     - collo in fase venosa (100")
 
 ---
 
