@@ -38,17 +38,17 @@ Esame Angio-TC eseguito prima di svolgere una procedura di Impianto Valvolare Ao
 - - -
 
 - [ANGIO-TC PER TAVI](#angio-tc-per-tavi)
-	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
-	- [CONTROINDICAZIONI](#controindicazioni)
-	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-	- [REFERTAZIONE](#refertazione)
-		- [REFERTO PREFATTO #1](#referto-prefatto-1)
-	- [PATOLOGIE](#patologie)
-		- [Patologia #1](#patologia-1)
-		- [Patologia #2](#patologia-2)
-		- [Patologia #3](#patologia-3)
-	- [BIBILIOGRAFIA](#bibiliografia)
-	- [NOTE](#note)
+  - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
+  - [CONTROINDICAZIONI](#controindicazioni)
+  - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
+  - [REFERTAZIONE](#refertazione)
+    - [REFERTO PREFATTO #1](#referto-prefatto-1)
+  - [PATOLOGIE](#patologie)
+    - [Patologia #1](#patologia-1)
+    - [Patologia #2](#patologia-2)
+    - [Patologia #3](#patologia-3)
+  - [BIBILIOGRAFIA](#bibiliografia)
+  - [NOTE](#note)
 
 - - -
 
@@ -101,7 +101,7 @@ L'accesso può avvenire per via:
 3. Posizionare il paziente sulla macchina e collegare le **derivazioni assiali dell'ECG** per la **cardio-sincranizzazione**
 	- Non è necessario il saturimetro né lo sfigmomanometro, la procedura viene tipicamente svolta senza somministrazione farmacologica
 4.  Acquisire le **scout**
-5.  Posizionare il **bolus tracker** (HU) in *aorta discendente*
+5.  Posizionare il **bolus tracker** (cut-off 110 HU) in *aorta discendente*
 6.  Somministrazione di **mezzo di contrasto** (**105mL di MdC totali**) ed eseguire le acquisizioni secondo lo schema:
     - **60mL MdC** con *flusso 3,5mL/s* &rarr; **Scansione cardio-sincronizzata 30% ciclo R-R** su cuore ed aorta ascendente
     - **70mL SF** con *flusso 3,5mL/s* &rarr; somministrare Soluzione Fisiologica come flusso continuo senza creare interruzioni tra il primo bolo di MdC e il secondo bolo di MdC
