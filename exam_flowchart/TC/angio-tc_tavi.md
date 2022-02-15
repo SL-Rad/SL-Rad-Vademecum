@@ -115,6 +115,7 @@ L'accesso può avvenire per via:
       - arterie **femorali** comuni
     - **40mL SF** con *flusso 3,5mL/s*
 
+> Il **Calcium Score** non è compreso nell'Angio-TC, nel caso deve venir richiesto in maniera esplicita e bisogna ricordasi di inserirlo nel protocollo prendendolo dal protocollo della Coro-tc
 
 ---
 
