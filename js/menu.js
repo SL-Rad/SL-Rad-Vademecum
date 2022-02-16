@@ -1,5 +1,5 @@
 function menu() {
-    document.getElementById("topnav").innerHTML = ""<style>
+    document.getElementById("topnav").innerHTML = "<style>
     ul {
       list-style-type: none;
       margin: 0;
