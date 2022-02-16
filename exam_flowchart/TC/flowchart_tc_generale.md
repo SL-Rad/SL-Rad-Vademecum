@@ -726,7 +726,10 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 - **cisti renali?** <br>
 `si segnala la presenza di multiple cisti (corticali e parapieliche) a livello di entrambi i reni`<br><br>
-`una cisti (mesorenale) (sinistra) del diametro massimo di __ mm.`
+`una cisti (mesorenale) (sinistra) del diametro massimo di __ mm.`<br><br>
+`In entrambi i reni si riconoscono grossolane formazioni cistiche tendenti alla conglomerazione a disposizione corticale e parapielica del diametro massimo a sinistra di __mm.`<br><br>
+`I reni sono regolari per sede, dimensioni e morfologia, in presenza di multiple cisti corticali bilateralmente, la maggiore delle quali del diametro massimo di __mm a destra.`
+
 
   - **diametro** <br>
   `del diametro massimo sino a 75 mm (a destra).`
