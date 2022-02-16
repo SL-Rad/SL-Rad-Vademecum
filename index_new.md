@@ -2,14 +2,14 @@
   
   <div id="topnav"></div>
   
-  <script src="../js/menu.js"></script>
+  <script src="/js/menu.js"></script>
   <script> menu(); </script>
 
 <!--Nemo vir est qui mundum non reddat meliorem-->
   
   <div id="topnav"></div>
   
-  <script src="../js/menu.js"></script>
+  <script src="/js/menu.js"></script>
   <script> menu(); </script>
   
   - - -
