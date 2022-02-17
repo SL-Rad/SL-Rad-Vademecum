@@ -1378,6 +1378,6 @@ Tumore (prima diagnosi &rarr; stadiazione &rarr; ristadizone = follow-up
 
 </div>
 
-<script src="../js/toc-manager.js"></script>
+<script src="js/toc-manager.js"></script>
 
 <!--- FOOTER -->
