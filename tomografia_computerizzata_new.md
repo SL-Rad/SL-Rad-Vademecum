@@ -1,6 +1,6 @@
 <!--- HEADER -->
 
-<div id="topnav"></div>
+<div id="topnav" class="sticky-main-menu"></div>
 
 <script src="js/menu.js"></script>
 <script> menu(); </script>
