@@ -51,9 +51,11 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
 	- [FASI](#fasi)
 	- [**PROTOCOLLI**](#protocolli)
-		- [TRAUMA CRANICO](#trauma-cranico)
-		- [CIRCOLO DI WILLIS (ROSSO TROMBOLISI)](#circolo-di-willis-rosso-trombolisi)
-		- [TUMORE TIROIDE](#tumore-tiroide)
+		- [CRANIO](#cranio)
+			- [TRAUMA CRANICO](#trauma-cranico)
+			- [CIRCOLO DI WILLIS (ROSSO TROMBOLISI)](#circolo-di-willis-rosso-trombolisi)
+		- [TIROIDE](#tiroide)
+			- [TUMORE TIROIDE](#tumore-tiroide)
 		- [COLLO ORL](#collo-orl)
 		- [TUMORE LARINGE (follow-up)](#tumore-laringe-follow-up)
 		- [TORACE](#torace)
@@ -74,16 +76,18 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 			- [TUMORE RENE - Prima Stadiazione](#tumore-rene---prima-stadiazione)
 			- [TUMORE RENE - Ristadiazione](#tumore-rene---ristadiazione)
 			- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
-			- [TUMORE UROTELIALE](#tumore-uroteliale)
+		- [URETERI](#ureteri)
+			- [TUMORE UROTELIALE - Stadiazione](#tumore-uroteliale---stadiazione)
 		- [VESCICA](#vescica)
-			- [TUMORE VESCICALE - Stadiazione](#tumore-vescicale---stadiazione)
-			- [TUMORE VESCICALE - Ristadiazione](#tumore-vescicale---ristadiazione)
+			- [TUMORE VESCICALE (O UROTELIALE) - Stadiazione](#tumore-vescicale-o-uroteliale---stadiazione)
+			- [TUMORE VESCICALE (O UROTELIALE) - Ristadiazione](#tumore-vescicale-o-uroteliale---ristadiazione)
 		- [URO-TC](#uro-tc)
 		- [COLON](#colon)
 			- [TUMORE COLON](#tumore-colon)
 			- [COLON TC - COLONSCOPIA VIRTUALE (CV)](#colon-tc---colonscopia-virtuale-cv)
 		- [PROSTATA](#prostata)
-			- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
+			- [TUMORE PROSTATA - Stadiazione](#tumore-prostata---stadiazione)
+			- [TUMORE PROSTATA - Ristadiazione](#tumore-prostata---ristadiazione)
 		- [UTERO](#utero)
 			- [TUMORE ENDOMETRIO](#tumore-endometrio)
 		- [ARTI INFERIORI](#arti-inferiori)
@@ -649,7 +653,9 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 
 ---
 
-### TRAUMA CRANICO
+### CRANIO
+
+#### TRAUMA CRANICO
 - CR Basale
 
 <div style="text-align: right">
@@ -658,7 +664,7 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 
 ---
 
-### CIRCOLO DI WILLIS (ROSSO TROMBOLISI)
+#### CIRCOLO DI WILLIS (ROSSO TROMBOLISI)
 
 - CR Basale
 	- valutare aree interessate 
@@ -672,7 +678,9 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 
 ---
 
-### TUMORE TIROIDE
+### TIROIDE
+
+#### TUMORE TIROIDE
 - TOR + AC portale (80")
 - CR (5')
 
@@ -944,7 +952,8 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 <br>
 
-> fase arteriosa parenchimale = fase arteriosa corticomidollare = 18" post-injection 
+> fase arteriosa parenchimale = fase arteriosa corticomidollare
+> 40" post-injection oppure 18" post-bolus tracking 
 
 
 <!---AS arterioso **solo in prima stadiazione, non in ristadiazione**
@@ -963,12 +972,12 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 ---
 
 #### TUMORE RENE - Ristadiazione
-- AS basale (solo se no precedenti)
+- *AS basale? (solo se no precedenti)*
 - AC nefrografica (90")
 - AC tardiva (10')
-	> Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
-	> - nelle scansioni precedenti si estende fino alla pelvi renale
-	> - il paziente ha avuto ematuria
+	> - Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
+	> 	- nelle scansioni precedenti si estende fino alla pelvi renale
+	>	 - il paziente ha avuto ematuria
 
 <br>
 
@@ -994,11 +1003,13 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ---
 
-#### TUMORE UROTELIALE
+### URETERI
+
+#### TUMORE UROTELIALE - Stadiazione
 - AC basale
 - AC nefrografica (90")
 - AC tardiva (10') 
-	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
+	> - eventuale pronazione se ureteri non visualizzabili in toto
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -1008,10 +1019,11 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ### VESCICA
 
-#### TUMORE VESCICALE - Stadiazione
+#### TUMORE VESCICALE (O UROTELIALE) - Stadiazione
 - AS basale
 - AC nefrografica (90")
 - AC tardiva (10')
+	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -1019,11 +1031,11 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ---
 
-#### TUMORE VESCICALE - Ristadiazione
-- AS basale
-	> Basale solo se non precedenti
+#### TUMORE VESCICALE (O UROTELIALE) - Ristadiazione
+- *AS basale? (solo se no precedenti)*
 - AC nefrografica (90")
 - AC tardiva (10')
+	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -1032,7 +1044,7 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 ---
 
 ### URO-TC
-- AC basale, se:
+- *AC basale?* Solo se:
 	- non disponibile precedente esame basale
 	- primo controllo post-TURB oppure post-RT
 	- calcolosi
@@ -1109,16 +1121,29 @@ selezionati si fa con mdc e.v.
 
 ### PROSTATA
 
-#### TUMORE PROSTATA (stadiazione)
-- AS Basale (a discerzione dello strutturato)
+#### TUMORE PROSTATA - Stadiazione
+- *AS basale? (solo se no precedenti)*
 - TOR + AC portale (80")
 
+<!---
 >Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
 >
 >**Gleason Score *inferiore* a 3+4**: solo AC portale <br>
 >**Gleason Score *superiore* a 3+4**: TOR + AC portale
+-->
 
 <!--- Prima c'era anche [CR basale + CR tardiva (5')] ma non capisco perché -->
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+
+#### TUMORE PROSTATA - Ristadiazione
+- *AS basale? (solo se no precedenti)*
+- TOR + AC portale (80")
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -1333,6 +1358,11 @@ La linea guida **non si applica**
 - Stadiazione Tumori Neuroendocrini (NET)
 - Stadiazione Feocromocitoma
 - Stadiazione Paraganglioma
+
+---
+
+Tumore (prima diagnosi &rarr; stadiazione &rarr; ristadizone = follow-up
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
