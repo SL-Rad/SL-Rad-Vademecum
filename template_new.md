@@ -32,6 +32,6 @@
 
 </div>
 
-<script src="../js/toc-manager.js"></script>
+<script src="js/toc-manager.js"></script>
 
 <!--- FOOTER -->
