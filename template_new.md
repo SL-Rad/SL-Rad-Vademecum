@@ -1,9 +1,3 @@
-<!--- HEADER -->
-
-<div id="topnav"></div>
-
-<script src="js/menu.js"></script>
-<script> menu(); </script>
 
 - - -
 
@@ -31,7 +25,3 @@
 </div>
 
 </div>
-
-<script src="js/toc-manager.js"></script>
-
-<!--- FOOTER -->

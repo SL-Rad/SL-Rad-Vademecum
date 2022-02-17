@@ -7,8 +7,11 @@
 <div class="flex-container">
 
 <!-- Sidebar sinistra -->
-<div style="width: 25%;border:1px solid #777777">  
+
+<div style="width: 25%;border:1px solid #777777">
+
 <div class="sticky">
+
 <nav class="section-nav">
 
 <!-- QUI TOC -->
