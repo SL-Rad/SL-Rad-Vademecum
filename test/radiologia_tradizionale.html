@@ -29,51 +29,6 @@
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
 <!-- Setup Google Analytics -->
-<style>
-
-/* Custom style ne layout by Giux */
-
-@media screen and (min-width: 64em) {
-.main-content {
-    max-width: 90rem;
-    padding: 1rem 1rem;
-    margin: 0 auto;
-    font-size: 1.1rem;
-}
-}
-
-.flex-container {
-  display: flex;
-}
-
-.flex-container > div {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 10px;
-}
-
-.sticky-main-menu {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  font-size: 14px;
-  z-index: 9999999999999;
-}
-
-
-.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 50px !important;
-  font-size: 14px;
-}
-
-.section-nav li.active > a {
-	color: #FA6E32;
-	font-weight: 500;
-}
-
-</style>
 
 
 <!-- You can set your favicon here -->
@@ -115,8 +70,7 @@
 
 <div class="flex-container">
 
-<div style="width: 25%;border:1px solid #777777">
-                
+<div style="width: 25%;border:1px solid #777777">             
     <div class="sticky">
         <nav class="section-nav">
                     <ol>
@@ -174,8 +128,8 @@
                     </ol>
 
                     <hr />
-                </nav>
-        </div>
+        </nav>
+    </div>
 </div>
 
 <div style="width: 75%;">
@@ -654,35 +608,6 @@
 </div>
 </div>
 
-
-<script>
-
-    window.addEventListener('DOMContentLoaded', () => {
-    
-    const observer = new IntersectionObserver(entries => {
-        entries.forEach(entry => {
-            const id = entry.target.getAttribute('id');
-            if (entry.intersectionRatio > 0) {
-                document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.add('active');
-            } else {
-                document.querySelector(`nav li a[href="#${id}"]`).parentElement.classList.remove('active');
-            }
-        });
-    });
-    
-    // Track all sections that have an `id` applied
-    document.querySelectorAll('h1[id]').forEach((h1) => {
-        observer.observe(h1);
-    });
-
-    document.querySelectorAll('h2[id]').forEach((h2) => {
-        observer.observe(h2);
-    });
-    
-    });
-    
-    
-      </script>
     
 
       <footer class="site-footer">
