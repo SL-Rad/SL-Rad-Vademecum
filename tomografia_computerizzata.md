@@ -923,31 +923,31 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### TUMORE RENE
+### RENE
 
-#### Prima Stadiazione
+#### TUMORE RENE - Prima Stadiazione
 
 - AS Basale
-- AS Arterioso cortico-midollare
+- AS Arterioso parenchimale (40")
 - AC Nefrografica (90")
-
 - AC Tardiva (10')
-	> Se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
+	> Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
 	> - nelle scansioni precedenti si estende fino alla pelvi renale
 	> - il paziente ha avuto ematuria
 
+<br>
+
+> fase arteriosa parenchimale = fase arteriosa corticomidollare = 18" post-injection 
 
 
-
-
-- AC Arteriosa cortico-midollare (equivalente ad arteriosa parenchimale a 40")
-   - AS arterioso **solo in prima stadiazione, non in ristadiazione**
-   	- Per follow-up e ristadiazione vedere la voce successiva &darr; 
-   - solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
-- Nefrografica (90")
-- Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
+<!---AS arterioso **solo in prima stadiazione, non in ristadiazione**
+Per follow-up e ristadiazione vedere la voce successiva &darr; 
+solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
+Nefrografica (90")
+Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
 
 Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazione in fare arteriosa; i tumori papillari hanno una maggiore impregnazione tardiva.
+-->
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -955,14 +955,19 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ---
 
-
-
-#### Ristadiazione e follow-up
+#### TUMORE RENE - Ristadiazione
 - AS basale (solo se no precedenti)
-- TOR + AC nefrografica (90")
-- eventualmente Tardiva (10')
+- AC nefrografica (90")
+- AC Tardiva (10')
+	> Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
+	> - nelle scansioni precedenti si estende fino alla pelvi renale
+	> - il paziente ha avuto ematuria
 
-Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase arteriosa vascolare.
+<br>
+
+> Se viene richiesto una TC Torace (TOR) si acquisisce inseme all'addome completo (AC) in fase nefrografica (90").
+
+<!--- Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase arteriosa vascolare.-->
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -988,7 +993,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### CISTI RENALE COMPLICATA
+#### CISTI RENALE COMPLICATA
 - AS basale
 - AS cortico-midollare (40")
 - AC nefrografica (90")
@@ -1000,7 +1005,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### TUMORE UROTELIALE
+#### TUMORE UROTELIALE
 - AC basale
 - AC nefrografica (90")
 - AC tardiva (10') 
