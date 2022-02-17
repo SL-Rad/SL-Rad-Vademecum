@@ -70,17 +70,24 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
 		- [TUMORE NEUROENDOCRINO](#tumore-neuroendocrino)
 		- [SURRENI](#surreni)
-		- [TUMORE RENE](#tumore-rene)
-			- [Prima Stadiazione](#prima-stadiazione)
-			- [Ristadiazione e follow-up](#ristadiazione-e-follow-up)
+		- [RENE](#rene)
+			- [TUMORE RENE - Prima Stadiazione](#tumore-rene---prima-stadiazione)
+			- [TUMORE RENE - Ristadiazione](#tumore-rene---ristadiazione)
+			- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
+			- [TUMORE UROTELIALE](#tumore-uroteliale)
+		- [VESCICA](#vescica)
+			- [TUMORE VESCICALE - Stadiazione](#tumore-vescicale---stadiazione)
+			- [TUMORE VESCICALE - Ristadiazione](#tumore-vescicale---ristadiazione)
 		- [URO-TC](#uro-tc)
-		- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
-		- [TUMORE UROTELIALE](#tumore-uroteliale)
-		- [TUMORE COLON](#tumore-colon)
-		- [COLON TC - COLONSCOPIA VIRTUALE (CV)](#colon-tc---colonscopia-virtuale-cv)
-		- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
-		- [TUMORE ENDOMETRIO](#tumore-endometrio)
-		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
+		- [COLON](#colon)
+			- [TUMORE COLON](#tumore-colon)
+			- [COLON TC - COLONSCOPIA VIRTUALE (CV)](#colon-tc---colonscopia-virtuale-cv)
+		- [PROSTATA](#prostata)
+			- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
+		- [UTERO](#utero)
+			- [TUMORE ENDOMETRIO](#tumore-endometrio)
+		- [ARTI INFERIORI](#arti-inferiori)
+			- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 		- [COMPLETAMENTO ECOGRAFICO CISTI RENALE ISODENSA](#completamento-ecografico-cisti-renale-isodensa)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
@@ -901,7 +908,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ### TUMORE NEUROENDOCRINO
 
-- AS Basale
+- AS basale
 - AS arterioso (40")
 - AC portale (80")
   - Se è un follow-up può essere sufficiente la portale (chiedere allo strutturato)
@@ -927,10 +934,10 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 #### TUMORE RENE - Prima Stadiazione
 
-- AS Basale
-- AS Arterioso parenchimale (40")
-- AC Nefrografica (90")
-- AC Tardiva (10')
+- AS basale
+- AS arterioso parenchimale (40")
+- AC nefrografica (90")
+- AC tardiva (10')
 	> Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
 	> - nelle scansioni precedenti si estende fino alla pelvi renale
 	> - il paziente ha avuto ematuria
@@ -958,7 +965,7 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 #### TUMORE RENE - Ristadiazione
 - AS basale (solo se no precedenti)
 - AC nefrografica (90")
-- AC Tardiva (10')
+- AC tardiva (10')
 	> Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
 	> - nelle scansioni precedenti si estende fino alla pelvi renale
 	> - il paziente ha avuto ematuria
@@ -968,24 +975,6 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 > Se viene richiesto una TC Torace (TOR) si acquisisce inseme all'addome completo (AC) in fase nefrografica (90").
 
 <!--- Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase arteriosa vascolare.-->
-
-<div style="text-align: right">
-<a href="#tomografia-computerizzata">⬆️</a>
-</div>
-
----
-
-### URO-TC
-- AC basale, se:
-	- non disponibile precedente esame basale
-	- primo controllo post-TURB oppure post-RT
-	- calcolosi
-	- ematuria
-- AC nefrografica (90")
-- AC tardiva (10')
-	- Se non si opacizzano le vie urinarie pronare il paziente.
-
-Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -1017,7 +1006,52 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### TUMORE COLON
+### VESCICA
+
+#### TUMORE VESCICALE - Stadiazione
+- AS basale
+- AC nefrografica (90")
+- AC tardiva (10')
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+#### TUMORE VESCICALE - Ristadiazione
+- AS basale
+	> Basale solo se non precedenti
+- AC nefrografica (90")
+- AC tardiva (10')
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### URO-TC
+- AC basale, se:
+	- non disponibile precedente esame basale
+	- primo controllo post-TURB oppure post-RT
+	- calcolosi
+	- ematuria
+- AC nefrografica (90")
+- AC tardiva (10')
+	- Se non si opacizzano le vie urinarie pronare il paziente.
+
+Se viene richiesto anche il TOR eseguire in nefrografica (90")
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### COLON
+
+#### TUMORE COLON
 - TOR + AC portale (80")
 - CR basale + CR tardiva 5' (se richiesto)
 
@@ -1027,7 +1061,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### COLON TC - COLONSCOPIA VIRTUALE (CV)
+#### COLON TC - COLONSCOPIA VIRTUALE (CV)
 - 30mL Grafin in 1L di H20 2h prima dell'esame
 - Buscopan 30 min prima dell'esame
 
@@ -1073,7 +1107,9 @@ selezionati si fa con mdc e.v.
 
 ---
 
-### TUMORE PROSTATA (stadiazione)
+### PROSTATA
+
+#### TUMORE PROSTATA (stadiazione)
 - AS Basale (a discerzione dello strutturato)
 - TOR + AC portale (80")
 
@@ -1090,7 +1126,9 @@ selezionati si fa con mdc e.v.
 
 ---
 
-### TUMORE ENDOMETRIO
+### UTERO
+
+#### TUMORE ENDOMETRIO
 - TOR e AC portale (80")
 
 <div style="text-align: right">
@@ -1100,7 +1138,9 @@ selezionati si fa con mdc e.v.
 
 ---
 
-### STUDIO ANGIOGRAFICO ARTI INFERIORI
+### ARTI INFERIORI
+
+#### STUDIO ANGIOGRAFICO ARTI INFERIORI
 
 - Basale dal carrefour iliaco ai piedi
 - Fase arteriosa con bolus tracking (ROI in aorta addominale sotto-renale)
