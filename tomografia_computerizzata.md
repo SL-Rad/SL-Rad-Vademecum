@@ -70,8 +70,9 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
 		- [TUMORE NEUROENDOCRINO](#tumore-neuroendocrino)
 		- [SURRENI](#surreni)
-		- [TUMORE RENE (prima stadiazione)](#tumore-rene-prima-stadiazione)
-		- [TUMORE RENE (ristadiazione e follow-up)](#tumore-rene-ristadiazione-e-follow-up)
+		- [TUMORE RENE](#tumore-rene)
+			- [Prima Stadiazione](#prima-stadiazione)
+			- [Ristadiazione e follow-up](#ristadiazione-e-follow-up)
 		- [URO-TC](#uro-tc)
 		- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
 		- [TUMORE UROTELIALE](#tumore-uroteliale)
@@ -922,8 +923,24 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### TUMORE RENE (prima stadiazione)
-- Arteriosa Cortico-Midollare (equivalente ad arteriosa parenchimale a 40")
+### TUMORE RENE
+
+#### Prima Stadiazione
+
+- AS Basale
+- AS Arterioso cortico-midollare
+- AC Nefrografica (90")
+
+- AC Tardiva (10')
+	> Se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
+	> - nelle scansioni precedenti si estende fino alla pelvi renale
+	> - il paziente ha avuto ematuria
+
+
+
+
+
+- AC Arteriosa cortico-midollare (equivalente ad arteriosa parenchimale a 40")
    - AS arterioso **solo in prima stadiazione, non in ristadiazione**
    	- Per follow-up e ristadiazione vedere la voce successiva &darr; 
    - solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
@@ -940,7 +957,7 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 
 
-### TUMORE RENE (ristadiazione e follow-up)
+#### Ristadiazione e follow-up
 - AS basale (solo se no precedenti)
 - TOR + AC nefrografica (90")
 - eventualmente Tardiva (10')
