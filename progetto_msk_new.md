@@ -202,6 +202,9 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e l'**assistente** regola l'ecografo e aiuta con il materiale.
 
+> Per una più agevole esecuzione della procedura è preferibile che il paziente sia quanto più steso possibile in clinostatismo. Nel caso in cui la presenza di dolori cervicali o di difficoltà respiratorie impediscano un perfetto clinostatismo si mantiene il pazinete nella posizione più reclinata possibile tenendo conto che questo rendera più difficoltosa la procedura.
+> Nel caso in cui si formi una piega cutanea l'assistente (messi i guanti sterili) può aiutare l'operatore tirando la pelle in modo da agevolare l'accesso dell'ago.
+
 - Stendere il telo sterile su allievo
 - Disporre il materiale in sterilità sul telo
 - Eseguire valutazione ecografica per definire il target
@@ -413,7 +416,10 @@ Come drenaggio raccolta ma con infiltrazione di cosrtisonico (due fiale di kenac
 - ChloraPrep
 - pennarello marker
 - siringa luerlock da 60mL
-- contenitore per versare il materiale dreanto, in alternativa:
+- raccordo a tre vie con cavo
+- siringa 2,5mL per cortisonico
+- ago 18G per aspirare il farmaco dalla vial
+- contenitore per versare il materiale dreanto (se voluminoso), in alternativa:
   - arcella in metallo
   - sanibox
 
@@ -429,34 +435,44 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - Eseguire valutazione ecografica per definire il target
 - Prendere repere anatomico col pennarello
 	>Il repere anatomico può essere preso tracciando una linea retta sul piano su cui è posizionato l'ecografo a partire dalla terminazione della sonda in modo da sapere dove riposizionare la sonda e con quale orinetamento. 
-- Disinfettare la cute (**Neoxinal alcolico**)
+- Disinfettare la cute (**Neoxinal alcolico** oppure **ChloraPrep**)
 
 **DA QUI PROCEDERE IN STERILITÀ**
 - Mettere guanti sterili
-- Posizionare telo forato sterile
+- Montare il raccordo a tre vie sulla siringa da 60mL
+- Aspirare il farmaco (cortisonico - Kenacort)
+  - Montare ago da 21G su siringa da 2,5 mL
+  - L'assistente tiene la vial (flacone) di farmaco non sterile
+  - L'operatore aspira in sterilità il farmaco
+  - Lascaire il farmaco tappato sull'alievo in sterilità
+- Posizionare telo forato sterile sul paziente
 - Disinfettare accuratamente con il **ChloraPrep** seguendo un andamento circolare dal centro verso i bordi del telo.
-- Posizionare la **sonda ecografica (lineare L4-15)** in guanto sterile con del gel all'interno del guanto
+- Posizionare la **sonda ecografica (lineare L3-11)** in guanto sterile con del gel all'interno del guanto
+  > Con la sonda ecografica L3-11 si vede meglio l'ago
   - l'operatore tiene il guanto sterile mentre l'assitente versa prima il gel ecografico all'interno del guanto e poi vi cala la sonda
   - avvolgere le dita del guanto attorno alla sonda
   - fare attenzione a non toccare con i guanti sterili il filo della sonda non sterile
-- Prendere **l'ago per citologico (18G x 100mm)** e chiedere all'assistente di rimuovere il copriago
-- Eseguire l'accesso con l'ago di chiba dal lato opposto al marker luminoso della sonda
+- Prendere **l'ago spinale (18G x 40mm)** e chiedere all'assistente di rimuovere il copriago
+- Eseguire l'accesso con l'ago spinale dal lato opposto al marker luminoso della sonda
 - Raggiungere con l'apice dell'ago lo spazio interno della raccolta
 - Appoggiare da parte la sonda (sul campo sterile) per avere entrambe le mani libere
 - Ritrarre il pungente
-  - dopo aver rimosso il pungente è necessario avvitare velocemente la siringa luerlock all'ago
-  >La raccoltà è sotto pressione e getterà spontanemente il contenuto verso l'esterno
-- Aspirare il contenuto della raccolta
-  - durante l'aspirazione l'assistente comprime i bordi della lesione in modo da favorire la raccoltà del materiale liquido intorno alla punta dell'ago
-  - fare attenzione a non lesionare la parete inferiore della raccolta con la punta dell'ago; una volta che la raccolta è drenata e le pareti sono vicine estrarre l'ago
+  - dopo aver rimosso il pungente è necessario avvitare il tubo lungo del raccordo a tre vie alla siringa
+  - Aspirare il contenuto della raccolta
+  - durante l'aspirazione la cisti di becker tenderà a collabire
+  - una volta drenata la raccolta rimuovere il tubo del raccordo a tre vie e montare sull'ago spinale la siringa luer-lock da 2,5mL con all'interno il cortisonico.
+  - posizionarsi con l'ago a livello del canale anatomico al passaggio tra la cisti di becker e l'articolazione
+  - grattare con l'ago (curettage) la parete della cisti
+    - dopo il curettage aspirare con la siringa - è normale e anzi voluto assistere ad un lieve gemizio ematico
+      > Il curettage ha lo scopo di indurre un processo di fibrosi locale e prevenire la riformazione della cisti di becker.
+    - iniettare il cortisonico
+- Rimuovere l'ago
 - Tenere premuto sul punto di accesso
 - Pulire il gel
 - Mettere un cerotto (**Cosmopor E**)
-- Eseguire bendaggio compressivo (**Peha-haft**)
-
-<!--- L'ago da citologico ha davvero un pungente o solo una valvola a chiusura? -->
 
 <!--- Differenze tra ago, ago-canula, ago mandrinato et al. -->
+
 
 ### Refertazione
 
@@ -483,9 +499,9 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
    - bendaggio compressivo
 
 #### Referto prefatto
-Sotto guida ecografica, mediante ago 18G, viene effettuato drenaggio di circa 40 mL di fluido sieroso dalla nota cisti del cavo popliteo di destra. 
-Viene effettuato curetage ecoguidato. 
-Al termine della procedura si effettua infiltrazione di 4 ml di triamcinolone acetonide. 
+Sotto guida ecografica, mediante ago 18G, viene effettuato drenaggio di circa 40 mL di fluido sieroso dalla nota cisti del cavo popliteo di destra.
+Viene effettuato curetage ecoguidato.
+Al termine della procedura si effettua infiltrazione di 4 ml di triamcinolone acetonide.
 Al termine della procedura non si rilevano complicanze.
 
 
