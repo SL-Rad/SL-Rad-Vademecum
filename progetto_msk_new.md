@@ -462,25 +462,31 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 
 1. Sotto guida ecografica
 2. Con quale ago?
-   - Ago da citologico (18G)
-   - Ago Chiba (21G)
+   - Ago spinale (18G)
 3. E' stato drenato cosa?
    - liquido ematico
    - liquido sieroso
    - liquido siero-ematico
+   - liquido sinoviale
    - materiale purulento
 4. Quanto?
    - __mL
-5. Complicanze ecografiche?
-6. Sono state eseguite medicazioni?
+5. E' stata eseguita procedura di?
+   - Curettage ecoguidato
+6. Sono stati infiltrati farmaci?
+   - Cortisonico
+     - Kenacort (triamcinolone acetonide)
+   - Quanto?
+     - __mL 
+7. Complicanze ecografiche?
+8. Sono state eseguite medicazioni?
    - bendaggio compressivo
 
 #### Referto prefatto
-Sotto guida ecografica, mediante ago da 18G, è stato effetuato drenaggio del noto (sieroma) (peritrocanterico sinistro).
-Sono stati aspirati circa (100mL) di fluido (siero-ematico).
-Al termine della procedura non si rilevano complicanze ecografiche precoci. 
-E' stato eseguito bendaggio compressivo.
-
+Sotto guida ecografica, mediante ago 18G, viene effettuato drenaggio di circa 40 mL di fluido sieroso dalla nota cisti del cavo popliteo di destra. 
+Viene effettuato curetage ecoguidato. 
+Al termine della procedura si effettua infiltrazione di 4 ml di triamcinolone acetonide. 
+Al termine della procedura non si rilevano complicanze.
 
 
 <div style="text-align: right">
