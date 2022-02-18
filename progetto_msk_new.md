@@ -234,14 +234,19 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - Pulire il gel
 - Mettere un cerotto (**Cosmopor E**)
 
-
+> Non si somministra acido ialuronico su di una articolarizone molto infiammata, la flogosi degragerebbe velocemente l'acido ialuronico inattivandolo. In questi casi si sfiamma prima con del cortisonico.
 
 ### Refertazione
 
-#### Referto prefatto
+#### Referto prefatto - Acido Ialuronico
 Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (3mL) di (Coxartrum) a livello
 
 
+#### Referto prefatto - Cortisonico + Appuntamento
+Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (2mL) di cortisonico
+(Kenacort) nell'articolazione coxo femorale sinistra. Al termine della procedura non si rilevano complicanze ecografiche precoci. Si programma rivalutazione ecografica per il giorno __/__ ore __.
+
+> Solitamente si fissa un secondo appuntamneto a 1 settimana se poco infiammato o 2/3 settimane se molto infiammato.
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
