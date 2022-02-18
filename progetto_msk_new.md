@@ -240,12 +240,22 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 ### Refertazione
 
 #### Referto prefatto - Acido Ialuronico
-Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (3mL) di (Coxartrum) a livello
 
+Con guida ecotomografica, mediante ago Chiba 21G, è stata eseguita l'infiltrazione di sodio ialuronato 75mg/3ml (Coxarthrum) nell'articolazione coxo-femorale di destra.
+Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori immediate.
+
+---
 
 #### Referto prefatto - Cortisonico + Appuntamento
-Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (2mL) di cortisonico
-(Kenacort) nell'articolazione coxo femorale sinistra. Al termine della procedura non si rilevano complicanze ecografiche precoci. Si programma rivalutazione ecografica per il giorno __/__ ore __.
+Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (2mL) di cortisonico (Kenacort) nell'articolazione coxo femorale sinistra. 
+Al termine della procedura non si rilevano complicanze ecografiche precoci. 
+Si programma rivalutazione ecografica per il giorno _______ ore _____.
+
+---
+
+Con guida ecotomografica è stata eseguita l'infiltrazione di cortisonico  nell'articolazione coxo-femorale di destra.
+Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori immediate.
+Si programma infiltrazione di acido ialuronico per il giorno _______ alle ore _____.
 
 > Solitamente si fissa un secondo appuntamneto a 1 settimana se poco infiammato o 2/3 settimane se molto infiammato.
 
