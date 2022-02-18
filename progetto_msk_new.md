@@ -49,10 +49,15 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Esecuzione della procedura](#esecuzione-della-procedura-4)
     - [Refertazione](#refertazione-4)
       - [Referto prefatto](#referto-prefatto-3)
-  - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
-    - [Indicazioni](#indicazioni)
+  - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
     - [Materiale](#materiale-5)
     - [Esecuzione della procedura](#esecuzione-della-procedura-5)
+    - [Refertazione](#refertazione-5)
+      - [Referto prefatto](#referto-prefatto-4)
+  - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
+    - [Indicazioni](#indicazioni)
+    - [Materiale](#materiale-6)
+    - [Esecuzione della procedura](#esecuzione-della-procedura-6)
   - [BIBILIOGRAFIA](#bibiliografia)
   - [NOTE](#note)
 
@@ -385,6 +390,98 @@ Sotto guida ecografica, mediante ago da 18G, è stato effetuato drenaggio del no
 Sono stati aspirati circa (100mL) di fluido (siero-ematico).
 Al termine della procedura non si rilevano complicanze ecografiche precoci. 
 E' stato eseguito bendaggio compressivo.
+
+<div style="text-align: right">
+<a href="#progetto-msk">⬆️</a>
+</div>
+
+---
+
+## DRENAGGIO CISTI DI BECKER
+
+Come drenaggio raccolta ma con infiltrazione di cosrtisonico (due fiale di kenacort in borsa) e inoltre si gratta un po con l'ago per indurre del sanguinamento e permettere un po di fibrosi in modo da evitare che la borsa si riformi.
+
+### Materiale
+
+- telo allievo
+- telo con buco
+- garze sterili
+- gel sterile
+- **ago spinale 18Gx4cm**
+- guanti sterili
+- guanti sterili per sonda
+- ChloraPrep
+- pennarello marker
+- siringa luerlock da 60mL
+- contenitore per versare il materiale dreanto, in alternativa:
+  - arcella in metallo
+  - sanibox
+
+>Nel drenaggio si preferisce utilizzare un ago di calibro maggiore come il 18G al fine di permettere un più agevole deflusso del materiale contenuto nella raccolta.
+
+
+### Esecuzione della procedura
+
+Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e l'**assistente** regola l'ecografo e aiuta con il materiale.
+
+- Stendere il telo sterile su allievo
+- Disporre il materiale in sterilità sul telo
+- Eseguire valutazione ecografica per definire il target
+- Prendere repere anatomico col pennarello
+	>Il repere anatomico può essere preso tracciando una linea retta sul piano su cui è posizionato l'ecografo a partire dalla terminazione della sonda in modo da sapere dove riposizionare la sonda e con quale orinetamento. 
+- Disinfettare la cute (**Neoxinal alcolico**)
+
+**DA QUI PROCEDERE IN STERILITÀ**
+- Mettere guanti sterili
+- Posizionare telo forato sterile
+- Disinfettare accuratamente con il **ChloraPrep** seguendo un andamento circolare dal centro verso i bordi del telo.
+- Posizionare la **sonda ecografica (lineare L4-15)** in guanto sterile con del gel all'interno del guanto
+  - l'operatore tiene il guanto sterile mentre l'assitente versa prima il gel ecografico all'interno del guanto e poi vi cala la sonda
+  - avvolgere le dita del guanto attorno alla sonda
+  - fare attenzione a non toccare con i guanti sterili il filo della sonda non sterile
+- Prendere **l'ago per citologico (18G x 100mm)** e chiedere all'assistente di rimuovere il copriago
+- Eseguire l'accesso con l'ago di chiba dal lato opposto al marker luminoso della sonda
+- Raggiungere con l'apice dell'ago lo spazio interno della raccolta
+- Appoggiare da parte la sonda (sul campo sterile) per avere entrambe le mani libere
+- Ritrarre il pungente
+  - dopo aver rimosso il pungente è necessario avvitare velocemente la siringa luerlock all'ago
+  >La raccoltà è sotto pressione e getterà spontanemente il contenuto verso l'esterno
+- Aspirare il contenuto della raccolta
+  - durante l'aspirazione l'assistente comprime i bordi della lesione in modo da favorire la raccoltà del materiale liquido intorno alla punta dell'ago
+  - fare attenzione a non lesionare la parete inferiore della raccolta con la punta dell'ago; una volta che la raccolta è drenata e le pareti sono vicine estrarre l'ago
+- Tenere premuto sul punto di accesso
+- Pulire il gel
+- Mettere un cerotto (**Cosmopor E**)
+- Eseguire bendaggio compressivo (**Peha-haft**)
+
+<!--- L'ago da citologico ha davvero un pungente o solo una valvola a chiusura? -->
+
+<!--- Differenze tra ago, ago-canula, ago mandrinato et al. -->
+
+### Refertazione
+
+1. Sotto guida ecografica
+2. Con quale ago?
+   - Ago da citologico (18G)
+   - Ago Chiba (21G)
+3. E' stato drenato cosa?
+   - liquido ematico
+   - liquido sieroso
+   - liquido siero-ematico
+   - materiale purulento
+4. Quanto?
+   - __mL
+5. Complicanze ecografiche?
+6. Sono state eseguite medicazioni?
+   - bendaggio compressivo
+
+#### Referto prefatto
+Sotto guida ecografica, mediante ago da 18G, è stato effetuato drenaggio del noto (sieroma) (peritrocanterico sinistro).
+Sono stati aspirati circa (100mL) di fluido (siero-ematico).
+Al termine della procedura non si rilevano complicanze ecografiche precoci. 
+E' stato eseguito bendaggio compressivo.
+
+
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
