@@ -100,6 +100,9 @@ L'accesso può avvenire per via:
 2. Valutare la **creatinina**
 3. Posizionare il paziente sulla macchina e collegare le **derivazioni assiali dell'ECG** per la **cardio-sincranizzazione**
 	- Non è necessario il saturimetro né lo sfigmomanometro, la procedura viene tipicamente svolta senza somministrazione farmacologica
+       > Sulla Philips 128 il protocollo si trova sotto "ANGIO".
+       >
+       > Nelle scansioni cardiache non c'è la voce registrata, è necessario dire a voce al paziente al paziente di non respirare.
 4.  Acquisire le **scout**
 5.  Posizionare il **bolus tracker** (cut-off 110 HU) in *aorta discendente*
 6.  Somministrazione di **mezzo di contrasto** (**105mL di MdC totali**) ed eseguire le acquisizioni secondo lo schema:
@@ -112,6 +115,7 @@ L'accesso può avvenire per via:
       - arterie **femorali** comuni
     - **40mL SF** con *flusso 3,5mL/s*
 
+> Il **Calcium Score** non è compreso nell'Angio-TC, nel caso deve venir richiesto in maniera esplicita e bisogna ricordasi di inserirlo nel protocollo prendendolo dal protocollo della Coro-tc
 
 ---
 

@@ -51,9 +51,11 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
 	- [FASI](#fasi)
 	- [**PROTOCOLLI**](#protocolli)
-		- [TRAUMA CRANICO](#trauma-cranico)
-		- [CIRCOLO DI WILLIS (ROSSO TROMBOLISI)](#circolo-di-willis-rosso-trombolisi)
-		- [TUMORE TIROIDE](#tumore-tiroide)
+		- [CRANIO](#cranio)
+			- [TRAUMA CRANICO](#trauma-cranico)
+			- [CIRCOLO DI WILLIS (ROSSO TROMBOLISI)](#circolo-di-willis-rosso-trombolisi)
+		- [TIROIDE](#tiroide)
+			- [TUMORE TIROIDE](#tumore-tiroide)
 		- [COLLO ORL](#collo-orl)
 		- [TUMORE LARINGE (follow-up)](#tumore-laringe-follow-up)
 		- [TORACE](#torace)
@@ -70,16 +72,26 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
 		- [TUMORE NEUROENDOCRINO](#tumore-neuroendocrino)
 		- [SURRENI](#surreni)
-		- [TUMORE RENE (prima stadiazione)](#tumore-rene-prima-stadiazione)
-		- [TUMORE RENE (ristadiazione e follow-up)](#tumore-rene-ristadiazione-e-follow-up)
+		- [RENE](#rene)
+			- [TUMORE RENE - Prima Stadiazione](#tumore-rene---prima-stadiazione)
+			- [TUMORE RENE - Ristadiazione](#tumore-rene---ristadiazione)
+			- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
+		- [URETERI](#ureteri)
+			- [TUMORE UROTELIALE - Stadiazione](#tumore-uroteliale---stadiazione)
+		- [VESCICA](#vescica)
+			- [TUMORE VESCICALE (O UROTELIALE) - Stadiazione](#tumore-vescicale-o-uroteliale---stadiazione)
+			- [TUMORE VESCICALE (O UROTELIALE) - Ristadiazione](#tumore-vescicale-o-uroteliale---ristadiazione)
 		- [URO-TC](#uro-tc)
-		- [CISTI RENALE COMPLICATA](#cisti-renale-complicata)
-		- [TUMORE UROTELIALE](#tumore-uroteliale)
-		- [TUMORE COLON](#tumore-colon)
-		- [COLON TC - COLONSCOPIA VIRTUALE (CV)](#colon-tc---colonscopia-virtuale-cv)
-		- [TUMORE PROSTATA (stadiazione)](#tumore-prostata-stadiazione)
-		- [TUMORE ENDOMETRIO](#tumore-endometrio)
-		- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
+		- [COLON](#colon)
+			- [TUMORE COLON](#tumore-colon)
+			- [COLON TC - COLONSCOPIA VIRTUALE (CV)](#colon-tc---colonscopia-virtuale-cv)
+		- [PROSTATA](#prostata)
+			- [TUMORE PROSTATA - Stadiazione](#tumore-prostata---stadiazione)
+			- [TUMORE PROSTATA - Ristadiazione](#tumore-prostata---ristadiazione)
+		- [UTERO](#utero)
+			- [TUMORE ENDOMETRIO](#tumore-endometrio)
+		- [ARTI INFERIORI](#arti-inferiori)
+			- [STUDIO ANGIOGRAFICO ARTI INFERIORI](#studio-angiografico-arti-inferiori)
 	- [**FASI AGGIUNTIVE**](#fasi-aggiuntive)
 		- [COMPLETAMENTO ECOGRAFICO CISTI RENALE ISODENSA](#completamento-ecografico-cisti-renale-isodensa)
 	- [Differenza tra "TOR alto" e "TOR+COLLO"](#differenza-tra-tor-alto-e-torcollo)
@@ -641,7 +653,9 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 
 ---
 
-### TRAUMA CRANICO
+### CRANIO
+
+#### TRAUMA CRANICO
 - CR Basale
 
 <div style="text-align: right">
@@ -650,7 +664,7 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 
 ---
 
-### CIRCOLO DI WILLIS (ROSSO TROMBOLISI)
+#### CIRCOLO DI WILLIS (ROSSO TROMBOLISI)
 
 - CR Basale
 	- valutare aree interessate 
@@ -664,7 +678,9 @@ Prima di impostare le fasi del protocollo controllare quali fasi sono state acqu
 
 ---
 
-### TUMORE TIROIDE
+### TIROIDE
+
+#### TUMORE TIROIDE
 - TOR + AC portale (80")
 - CR (5')
 
@@ -900,7 +916,7 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ### TUMORE NEUROENDOCRINO
 
-- AS Basale
+- AS basale
 - AS arterioso (40")
 - AC portale (80")
   - Se è un follow-up può essere sufficiente la portale (chiedere allo strutturato)
@@ -922,15 +938,32 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### TUMORE RENE (prima stadiazione)
-- Arteriosa Cortico-Midollare (equivalente ad arteriosa parenchimale a 40")
-   - AS arterioso **solo in prima stadiazione, non in ristadiazione**
-   	- Per follow-up e ristadiazione vedere la voce successiva &darr; 
-   - solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
-- Nefrografica (90")
-- Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
+### RENE
+
+#### TUMORE RENE - Prima Stadiazione
+
+- AS basale
+- AS arterioso parenchimale (40")
+- AC nefrografica (90")
+- AC tardiva (10')
+	> Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
+	> - nelle scansioni precedenti si estende fino alla pelvi renale
+	> - il paziente ha avuto ematuria
+
+<br>
+
+> fase arteriosa parenchimale = fase arteriosa corticomidollare
+> 40" post-injection oppure 18" post-bolus tracking 
+
+
+<!---AS arterioso **solo in prima stadiazione, non in ristadiazione**
+Per follow-up e ristadiazione vedere la voce successiva &darr; 
+solo se tumori a cellule chiare o oncocitomi (fortissima impregnazione arteriosa)
+Nefrografica (90")
+Tardiva (10') - (opzionale) per valutare infiltrazione delle vie urinarie
 
 Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazione in fare arteriosa; i tumori papillari hanno una maggiore impregnazione tardiva.
+-->
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -938,14 +971,71 @@ Soltanto i tumori a cellule chiare e gli oncocitomi hanno una forte impregnazion
 
 ---
 
+#### TUMORE RENE - Ristadiazione
+- *AS basale? (solo se no precedenti)*
+- AC nefrografica (90")
+- AC tardiva (10')
+	> - Tradiva soltano se si sospetta che il tumore possa estendersi fino ai bacinetti renali, perché:
+	> 	- nelle scansioni precedenti si estende fino alla pelvi renale
+	>	 - il paziente ha avuto ematuria
 
+<br>
 
-### TUMORE RENE (ristadiazione e follow-up)
-- AS basale (solo se no precedenti)
-- TOR + AC nefrografica (90")
-- eventualmente Tardiva (10')
+> Se viene richiesto una TC Torace (TOR) si acquisisce inseme all'addome completo (AC) in fase nefrografica (90").
 
-Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase arteriosa vascolare.
+<!--- Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuova insorgenza si può fare una fase arteriosa vascolare.-->
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+#### CISTI RENALE COMPLICATA
+- AS basale
+- AS cortico-midollare (40")
+- AC nefrografica (90")
+- eventualmente tardiva
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### URETERI
+
+#### TUMORE UROTELIALE - Stadiazione
+- AC basale
+- AC nefrografica (90")
+- AC tardiva (10') 
+	> - eventuale pronazione se ureteri non visualizzabili in toto
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### VESCICA
+
+#### TUMORE VESCICALE (O UROTELIALE) - Stadiazione
+- AS basale
+- AC nefrografica (90")
+- AC tardiva (10')
+	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+#### TUMORE VESCICALE (O UROTELIALE) - Ristadiazione
+- *AS basale? (solo se no precedenti)*
+- AC nefrografica (90")
+- AC tardiva (10')
+	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -954,7 +1044,7 @@ Se si evidenziano quadri diagnostici particolari come difetti del giunto di nuov
 ---
 
 ### URO-TC
-- AC basale, se:
+- *AC basale?* Solo se:
 	- non disponibile precedente esame basale
 	- primo controllo post-TURB oppure post-RT
 	- calcolosi
@@ -971,31 +1061,9 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### CISTI RENALE COMPLICATA
-- AS basale
-- AS cortico-midollare (40")
-- AC nefrografica (90")
-- eventualmente tardiva
+### COLON
 
-<div style="text-align: right">
-<a href="#tomografia-computerizzata">⬆️</a>
-</div>
-
----
-
-### TUMORE UROTELIALE
-- AC basale
-- AC nefrografica (90")
-- AC tardiva (10') 
-	- (+ eventuali ribaltamenti se non visualizzabili ureteri)
-
-<div style="text-align: right">
-<a href="#tomografia-computerizzata">⬆️</a>
-</div>
-
----
-
-### TUMORE COLON
+#### TUMORE COLON
 - TOR + AC portale (80")
 - CR basale + CR tardiva 5' (se richiesto)
 
@@ -1005,7 +1073,7 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 
 ---
 
-### COLON TC - COLONSCOPIA VIRTUALE (CV)
+#### COLON TC - COLONSCOPIA VIRTUALE (CV)
 - 30mL Grafin in 1L di H20 2h prima dell'esame
 - Buscopan 30 min prima dell'esame
 
@@ -1051,14 +1119,18 @@ selezionati si fa con mdc e.v.
 
 ---
 
-### TUMORE PROSTATA (stadiazione)
-- AS Basale (a discerzione dello strutturato)
+### PROSTATA
+
+#### TUMORE PROSTATA - Stadiazione
+- *AS basale? (solo se no precedenti)*
 - TOR + AC portale (80")
 
+<!---
 >Attenzione ai surreni: sede tipica di metastasi da prostata (GS > 7)
 >
 >**Gleason Score *inferiore* a 3+4**: solo AC portale <br>
 >**Gleason Score *superiore* a 3+4**: TOR + AC portale
+-->
 
 <!--- Prima c'era anche [CR basale + CR tardiva (5')] ma non capisco perché -->
 
@@ -1068,7 +1140,20 @@ selezionati si fa con mdc e.v.
 
 ---
 
-### TUMORE ENDOMETRIO
+
+#### TUMORE PROSTATA - Ristadiazione
+- *AS basale? (solo se no precedenti)*
+- TOR + AC portale (80")
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+### UTERO
+
+#### TUMORE ENDOMETRIO
 - TOR e AC portale (80")
 
 <div style="text-align: right">
@@ -1078,7 +1163,9 @@ selezionati si fa con mdc e.v.
 
 ---
 
-### STUDIO ANGIOGRAFICO ARTI INFERIORI
+### ARTI INFERIORI
+
+#### STUDIO ANGIOGRAFICO ARTI INFERIORI
 
 - Basale dal carrefour iliaco ai piedi
 - Fase arteriosa con bolus tracking (ROI in aorta addominale sotto-renale)
@@ -1271,6 +1358,11 @@ La linea guida **non si applica**
 - Stadiazione Tumori Neuroendocrini (NET)
 - Stadiazione Feocromocitoma
 - Stadiazione Paraganglioma
+
+---
+
+Tumore (prima diagnosi &rarr; stadiazione &rarr; ristadizone = follow-up
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>

@@ -1,6 +1,6 @@
 <div class="topnav">
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum">Home</a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>z
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_tradizionale.html">Radiologia Tradizionale</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html">Ecografia</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html">Tomografia Computerizzata</a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html">Risonanza Magnetica</a>
@@ -36,22 +36,28 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Materiale](#materiale-2)
     - [Esecuzione della procedura](#esecuzione-della-procedura-2)
     - [Refertazione](#refertazione-2)
-      - [Referto prefatto](#referto-prefatto-2)
+      - [Referto prefatto - Acido Ialuronico](#referto-prefatto---acido-ialuronico)
+      - [Referto prefatto - Cortisonico + Appuntamento](#referto-prefatto---cortisonico--appuntamento)
   - [INFILTRAZIONE ECOGRAFIA DI GINOCCHIO](#infiltrazione-ecografia-di-ginocchio)
     - [Indicazioni cliniche](#indicazioni-cliniche-2)
     - [Materiale](#materiale-3)
     - [Esecuzione della procedura](#esecuzione-della-procedura-3)
     - [Refertazione](#refertazione-3)
-      - [Referto prefatto](#referto-prefatto-3)
+      - [Referto prefatto](#referto-prefatto-2)
   - [DRENAGGIO RACCOLTA SIERO-EMATICA](#drenaggio-raccolta-siero-ematica)
     - [Materiale](#materiale-4)
     - [Esecuzione della procedura](#esecuzione-della-procedura-4)
     - [Refertazione](#refertazione-4)
+      - [Referto prefatto](#referto-prefatto-3)
+  - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
+    - [Materiale](#materiale-5)
+    - [Esecuzione della procedura](#esecuzione-della-procedura-5)
+    - [Refertazione](#refertazione-5)
       - [Referto prefatto](#referto-prefatto-4)
   - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
     - [Indicazioni](#indicazioni)
-    - [Materiale](#materiale-5)
-    - [Esecuzione della procedura](#esecuzione-della-procedura-5)
+    - [Materiale](#materiale-6)
+    - [Esecuzione della procedura](#esecuzione-della-procedura-6)
   - [BIBILIOGRAFIA](#bibiliografia)
   - [NOTE](#note)
 
@@ -196,6 +202,9 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e l'**assistente** regola l'ecografo e aiuta con il materiale.
 
+> Per una più agevole esecuzione della procedura è preferibile che il paziente sia quanto più steso possibile in clinostatismo. Nel caso in cui la presenza di dolori cervicali o di difficoltà respiratorie impediscano un perfetto clinostatismo si mantiene il pazinete nella posizione più reclinata possibile tenendo conto che questo rendera più difficoltosa la procedura.
+> Nel caso in cui si formi una piega cutanea l'assistente (messi i guanti sterili) può aiutare l'operatore tirando la pelle in modo da agevolare l'accesso dell'ago.
+
 - Stendere il telo sterile su allievo
 - Disporre il materiale in sterilità sul telo
 - Eseguire valutazione ecografica per definire il target
@@ -234,14 +243,29 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - Pulire il gel
 - Mettere un cerotto (**Cosmopor E**)
 
-
+> Non si somministra acido ialuronico su di una articolarizone molto infiammata, la flogosi degragerebbe velocemente l'acido ialuronico inattivandolo. In questi casi si sfiamma prima con del cortisonico.
 
 ### Refertazione
 
-#### Referto prefatto
-Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (3mL) di (Coxartrum) a livello
+#### Referto prefatto - Acido Ialuronico
 
+Con guida ecotomografica, mediante ago Chiba 21G, è stata eseguita l'infiltrazione di sodio ialuronato 75mg/3ml (Coxarthrum) nell'articolazione coxo-femorale di destra.
+Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori immediate.
 
+---
+
+#### Referto prefatto - Cortisonico + Appuntamento
+Sotto guida ecografica, mediante ago Chiba 21G è stata effetuata infiltrazione di (2mL) di cortisonico (Kenacort) nell'articolazione coxo femorale sinistra. 
+Al termine della procedura non si rilevano complicanze ecografiche precoci. 
+Si programma rivalutazione ecografica per il giorno _______ ore _____.
+
+---
+
+Con guida ecotomografica è stata eseguita l'infiltrazione di cortisonico  nell'articolazione coxo-femorale di destra.
+Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori immediate.
+Si programma infiltrazione di acido ialuronico per il giorno _______ alle ore _____.
+
+> Solitamente si fissa un secondo appuntamneto a 1 settimana se poco infiammato o 2/3 settimane se molto infiammato.
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
@@ -369,6 +393,117 @@ Sotto guida ecografica, mediante ago da 18G, è stato effetuato drenaggio del no
 Sono stati aspirati circa (100mL) di fluido (siero-ematico).
 Al termine della procedura non si rilevano complicanze ecografiche precoci. 
 E' stato eseguito bendaggio compressivo.
+
+<div style="text-align: right">
+<a href="#progetto-msk">⬆️</a>
+</div>
+
+---
+
+## DRENAGGIO CISTI DI BECKER
+
+Come drenaggio raccolta ma con infiltrazione di cosrtisonico (due fiale di kenacort in borsa) e inoltre si gratta un po con l'ago per indurre del sanguinamento e permettere un po di fibrosi in modo da evitare che la borsa si riformi.
+
+### Materiale
+
+- telo allievo
+- telo con buco
+- garze sterili
+- gel sterile
+- **ago spinale 18Gx4cm**
+- guanti sterili
+- guanti sterili per sonda
+- ChloraPrep
+- pennarello marker
+- siringa luerlock da 60mL
+- raccordo a tre vie con cavo
+- siringa 2,5mL per cortisonico
+- ago 18G per aspirare il farmaco dalla vial
+- contenitore per versare il materiale dreanto (se voluminoso), in alternativa:
+  - arcella in metallo
+  - sanibox
+
+>Nel drenaggio si preferisce utilizzare un ago di calibro maggiore come il 18G al fine di permettere un più agevole deflusso del materiale contenuto nella raccolta.
+
+
+### Esecuzione della procedura
+
+Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e l'**assistente** regola l'ecografo e aiuta con il materiale.
+
+- Stendere il telo sterile su allievo
+- Disporre il materiale in sterilità sul telo
+- Eseguire valutazione ecografica per definire il target
+- Prendere repere anatomico col pennarello
+	>Il repere anatomico può essere preso tracciando una linea retta sul piano su cui è posizionato l'ecografo a partire dalla terminazione della sonda in modo da sapere dove riposizionare la sonda e con quale orinetamento. 
+- Disinfettare la cute (**Neoxinal alcolico** oppure **ChloraPrep**)
+
+**DA QUI PROCEDERE IN STERILITÀ**
+- Mettere guanti sterili
+- Montare il raccordo a tre vie sulla siringa da 60mL
+- Aspirare il farmaco (cortisonico - Kenacort)
+  - Montare ago da 21G su siringa da 2,5 mL
+  - L'assistente tiene la vial (flacone) di farmaco non sterile
+  - L'operatore aspira in sterilità il farmaco
+  - Lascaire il farmaco tappato sull'alievo in sterilità
+- Posizionare telo forato sterile sul paziente
+- Disinfettare accuratamente con il **ChloraPrep** seguendo un andamento circolare dal centro verso i bordi del telo.
+- Posizionare la **sonda ecografica (lineare L3-11)** in guanto sterile con del gel all'interno del guanto
+  > Con la sonda ecografica L3-11 si vede meglio l'ago
+  - l'operatore tiene il guanto sterile mentre l'assitente versa prima il gel ecografico all'interno del guanto e poi vi cala la sonda
+  - avvolgere le dita del guanto attorno alla sonda
+  - fare attenzione a non toccare con i guanti sterili il filo della sonda non sterile
+- Prendere **l'ago spinale (18G x 40mm)** e chiedere all'assistente di rimuovere il copriago
+- Eseguire l'accesso con l'ago spinale dal lato opposto al marker luminoso della sonda
+- Raggiungere con l'apice dell'ago lo spazio interno della raccolta
+- Appoggiare da parte la sonda (sul campo sterile) per avere entrambe le mani libere
+- Ritrarre il pungente
+  - dopo aver rimosso il pungente è necessario avvitare il tubo lungo del raccordo a tre vie alla siringa
+  - Aspirare il contenuto della raccolta
+  - durante l'aspirazione la cisti di becker tenderà a collabire
+  - una volta drenata la raccolta rimuovere il tubo del raccordo a tre vie e montare sull'ago spinale la siringa luer-lock da 2,5mL con all'interno il cortisonico.
+  - posizionarsi con l'ago a livello del canale anatomico al passaggio tra la cisti di becker e l'articolazione
+  - grattare con l'ago (curettage) la parete della cisti
+    - dopo il curettage aspirare con la siringa - è normale e anzi voluto assistere ad un lieve gemizio ematico
+      > Il curettage ha lo scopo di indurre un processo di fibrosi locale e prevenire la riformazione della cisti di becker.
+    - iniettare il cortisonico
+- Rimuovere l'ago
+- Tenere premuto sul punto di accesso
+- Pulire il gel
+- Mettere un cerotto (**Cosmopor E**)
+
+<!--- Differenze tra ago, ago-canula, ago mandrinato et al. -->
+
+
+### Refertazione
+
+1. Sotto guida ecografica
+2. Con quale ago?
+   - Ago spinale (18G)
+3. E' stato drenato cosa?
+   - liquido ematico
+   - liquido sieroso
+   - liquido siero-ematico
+   - liquido sinoviale
+   - materiale purulento
+4. Quanto?
+   - __mL
+5. E' stata eseguita procedura di?
+   - Curettage ecoguidato
+6. Sono stati infiltrati farmaci?
+   - Cortisonico
+     - Kenacort (triamcinolone acetonide)
+   - Quanto?
+     - __mL 
+7. Complicanze ecografiche?
+8. Sono state eseguite medicazioni?
+   - bendaggio compressivo
+
+#### Referto prefatto
+Sotto guida ecografica, mediante ago 18G, viene effettuato drenaggio di circa 40 mL di fluido sieroso dalla nota cisti del cavo popliteo di destra.
+Viene effettuato curetage ecoguidato.
+Al termine della procedura si effettua infiltrazione di 4 ml di triamcinolone acetonide.
+Al termine della procedura non si rilevano complicanze.
+
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
