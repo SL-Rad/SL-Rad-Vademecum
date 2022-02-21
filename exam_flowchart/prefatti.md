@@ -154,6 +154,19 @@ Totale: xx mm
 
 
 
+
+
+
+È rilevabile un'area ipodensa a livello del lobo parietale di sinistra, a sede corticale sottocorticale di
+circa 15 mm di DTM, a margini sfumati. Tale immagine, di non univoca interpretazione è meritevole di approfondimento mediante RM encefalo
+oltre che a contestualizzazione clinica.
+
+
+---
+
+
+
+
 Si identificano come lesioni non-target:
 
 1) (sede/NO dimensioni)
