@@ -112,6 +112,7 @@
 - **lesioni ischemiche? (ictus)**
   - ***assenti*** <br> `Non si osservano alterazioni parenchimali in sede sovra e sottotentoriale riferibili a lesioni ischemiche di data recente`
   - ***presenti***<br> 
+`È rilevabile un'area ipodensa a livello del lobo parietale di sinistra, a sede corticale sottocorticale di circa 15 mm di DTM, a margini sfumati. Tale immagine, di non univoca interpretazione è meritevole di approfondimento mediante RM encefalo oltre che a contestualizzazione clinica.`
 
 - **segni di sanguinamento (emorragia)?** <br> `(Non si rilevano / né) segni di sanguinamento intra ed extra-assiale.`
 
