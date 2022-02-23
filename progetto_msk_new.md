@@ -158,11 +158,10 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 ## LITOCLASIA PERCUTANEA ECOGUIDATA
 
-La procedura può essere eseguita sia con due aghi (contrapposti o paralleli) oppure con singolo ago.
-La litoclasia percutanea classisa prevedere
+La procedura può essere eseguita sia con due aghi (contrapposti o paralleli) sia con un singolo ago.
+La **litoclasia percutanea classica** prevede l'utilizzo di due aghi, uno in iniezione ed uno in aspirazione, al fine di creare un vortice in grado di aumentare lo *"sciogliemento"* della calcificazione e ne semplifica la rimozione.
 
-La decisione spetta al medico-radiologico a seconda della composizione della calcificazione  e dell'approccio che si vuole tentare.
-Per le calcificazioni più piccole e più "molli" sarebbe preferibile utilizzare un singolo ago 
+Nel caso di calcificazioni di dimensioni molti ridotte o di ecostruttura *"molle"* si preferisce procedere con una litoclasia **ad ago singolo** poiché l'utilizzo di due aghi risulterebbe difficoltoso per il poco spazio dispnibile sia perché non sarebbe possibile ottenere l'effetto vortice necessario.
 
 ### Indicazioni cliniche
 
