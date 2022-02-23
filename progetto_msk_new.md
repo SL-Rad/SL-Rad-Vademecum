@@ -32,6 +32,7 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Esecuzione della procedura](#esecuzione-della-procedura-1)
     - [Refertazione](#refertazione-1)
       - [Referto prefatto](#referto-prefatto-1)
+      - [Referto modello](#referto-modello)
   - [INFILTRAZIONE ECOGUIDATA DI ANCA](#infiltrazione-ecoguidata-di-anca)
     - [Materiale](#materiale-2)
     - [Esecuzione della procedura](#esecuzione-della-procedura-2)
@@ -231,12 +232,31 @@ Da qui retrocedere, iniettando gradualmente la lidocaina lungo il decorso fino a
 
 ### Refertazione
 
+- Sotto guida ecografica
+- ed inserimento di ago
+  - singolo
+  - doppio
+    - quanti Gauge?
+      - 18G
+- è stata eseguita litoclasia percuanea della nota calcificazione
+  - a carico del tendine
+    -  sovraspinato
+         - della spalla 
+           - destra 
+           - sinistra
+- E' stato somministrato
+
 #### Referto prefatto
 Con guida ETG ed inserimento di ago da 18G è stata eseguita litoclasia percutanea della nota calcificazione a carico del tendine sovraspinato della spalla destra. 
 La procedura è stata completata con infiltrazione intrabursale di corticosteroide. 
 Al termine della procedura non si rilevano complicanze maggiori immediate. 
 Si rimane a disposizione per qualsiasi chiarimento.
 
+#### Referto modello
+Sotto guida ecografica, previa anestesia locale eseguita con lidocaina, attraverso inserimento di ago da 18G è stata eseguita una litoclasia percutanea della nota calcificazione a carico del tendine (sovraspinato) della (spalla).
+La procedura è stata completata con infiltrazione intrabursale di corticosteroide.
+Al termine della proceduta non si rilevano complicanze maggiori immediate.
+Si rimane a disposizione per qualsiasi chiarimento.
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
