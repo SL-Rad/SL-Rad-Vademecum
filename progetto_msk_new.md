@@ -233,7 +233,10 @@ Da qui retrocedere, iniettando gradualmente la lidocaina lungo il decorso fino a
 ### Refertazione
 
 #### Referto prefatto
-
+Con guida ETG ed inserimento di ago da 18G è stata eseguita litoclasia percutanea della nota calcificazione a carico del tendine sovraspinato della spalla destra. 
+La procedura è stata completata con infiltrazione intrabursale di corticosteroide. 
+Al termine della procedura non si rilevano complicanze maggiori immediate. 
+Si rimane a disposizione per qualsiasi chiarimento.
 
 
 <div style="text-align: right">
