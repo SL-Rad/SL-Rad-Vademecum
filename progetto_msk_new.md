@@ -158,11 +158,77 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 ## LITOCLASIA PERCUTANEA ECOGUIDATA
 
+La procedura può essere eseguita sia con due aghi (contrapposti o paralleli) oppure con singolo ago.
+La litoclasia percutanea classisa prevedere
+
+La decisione spetta al medico-radiologico a seconda della composizione della calcificazione  e dell'approccio che si vuole tentare.
+Per le calcificazioni più piccole e più "molli" sarebbe preferibile utilizzare un singolo ago 
+
 ### Indicazioni cliniche
+
+- Calcificazioni della borsa subacromiale
 
 ### Materiale
 
+- telo allievo
+- telo con buco
+- garze sterili
+- gel sterile
+- guanti sterili
+- guanti sterili per sonda
+- **ChloraPrep**
+- Pennarello marker
+- **Cortisonico**
+	- **Depomedrol (40 mg/mL)**
+  	> Poichè non si infiltra un'articolazione è possibile utilizzare anche il depomedrol, senza rischio di creare precipitati di cristalli.
+- Ago azzurro 23G
+- Ago bianco 16Gx40mm
+- Ago chiba 21Gx120mm *oppure* ago da citologico (18Gx50mm)
+- Siringa da 5mL
+- Siringa da 10mL
+- Siringa **Luer-lock** da 20mL
+- Soluzione Fisiologica sterile in provette da 5mL
+
 ### Esecuzione della procedura
+
+La procedura può essere eseguita con paziente disteso oppure seduto.
+
+<!--- Scoprire quando è meglio mettere seduto e quando sdrairlo-->
+
+Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e l'**assistente** regola l'ecografo e aiuta con il materiale.
+
+- Stendere il telo sterile su allievo
+- Disporre il materiale in sterilità sul telo
+- Eseguire valutazione ecografica per definire il target
+- Prendere repere anatomico col pennarello
+	>Il repere anatomico può essere preso tracciando una linea retta sul piano su cui è posizionato l'ecografo a partire dalla terminazione della sonda in modo da sapere dove riposizionare la sonda e con quale orinetamento. 
+- Disinfettare la cute (**ChloraPrep** *oppure* **Neoxinal alcolico**)
+
+**DA QUI PROCEDERE IN STERILITÀ**
+- Mettere guanti sterili
+- Aspirare un'intera fiala di lidocaina (10mL con concentrazione 20mg/mL (200mg totali di lidocaina) con ago da 16G su siringa da 10mL sterile
+- Aspirare cortisonico (1mL di Depomedrol) con siringa da 5mL sterile
+- Aspirare 8mL di Soluzione Fisiologica in siringa da 20mL con ago da 16G
+  - in tutti i casi l'assistente tiene la provetta (vial) non sterile mentre l'operato aspira il contenuto in sterilità
+  - si può usare lo stesso ago da 16G per tutte le aspirazioni
+  > Quando sucessivamente si monta l'ago che verrà utilizzato per l'infiltrazione conviene non stringere eccessivamente; in questo sarà più facile sostituire successivamente le siringhe.
+- Posizionare telo forato sterile
+- Disinfettare accuratamente con il **ChloraPrep** seguendo un andamento circolare dal centro verso i bordi del telo.
+- Posizionare la **sonda ecografica (lineare L3-11)** in guanto sterile con del gel all'interno del guanto
+  - l'operatore tiene il guanto sterile mentre l'assitente versa prima il gel ecografico all'interno del guanto e poi vi cala la sonda
+  - avvolgere le dita del guanto attorno alla sonda
+  - fare attenzione a non toccare con i guanti sterili il filo della sonda non sterile
+- Accedare con l'ago azzuro da 23G montanto sulla singra da 10mL contenente la lidocaina arrivando fino alla borsa.
+Da qui retrocedere, iniettando gradualmente la lidocaina lungo il decorso fino a svuotare la siringa.
+- Accedere con ago citologico da (18Gx50mm) già montanto sulla siringa da 20mL contenente soluzione fisiologica seguendo lo stesso tragitto compiuto con l'ago da lidocaina.
+- Accedere alla borsa e raggiunta la calcificazione iniettare la fisiologica con "flusso pulsato".
+  - Durante il flusso pulsato cercare di asperare il materaiale calcifico che gradualmente si stacca all'interno della borsa.
+- Sostituire la siringa da 20mL da fisiologica con quella da 5mL conente il cortisonico (depomedrol)
+- Iniettare il cortisonico all'interno della borsa subacromiale
+- Dopo aver completato l'iniezione, estrarre l'ago
+- Tenere premuto sul punto di accesso con garza bagnata di disinfettante
+- Pulire il gel
+- Mettere un cerotto (**Cosmopor E**)
 
 ### Refertazione
 
@@ -184,7 +250,7 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 - telo con buco
 - garze sterili
 - gel sterile
-- ago chiba 21G x 100mm
+- ago chiba 21G x 120mm
 - guanti sterili
 - guanti sterili per sonda
 - **ChloraPrep**
@@ -224,7 +290,7 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
   - l'operatore tiene il guanto sterile mentre l'assitente versa prima il gel ecografico all'interno del guanto e poi vi cala la sonda
   - avvolgere le dita del guanto attorno alla sonda
   - fare attenzione a non toccare con i guanti sterili il filo della sonda non sterile
-- Prendere **l'ago Chiba (21G x 100mm)** e chiedere all'assistente di rimuovere il copriago
+- Prendere **l'ago Chiba (21G x 120mm)** e chiedere all'assistente di rimuovere il copriago
 - Eseguire l'accesso con l'ago di chiba dal lato opposto al marker luminoso della sonda
 - Raggiungere con l'apice dell'ago lo spazio interno della capsula articolare coxofemorale
   - eseguire un accesso deciso attraverso la cute del paziente per ridurre il fastidio
@@ -285,7 +351,7 @@ Si programma infiltrazione di acido ialuronico per il giorno _______ alle ore __
 - telo con buco
 - garze sterili
 - gel sterile
-- ago chiba 21G x 100mm
+- ago chiba 21G x 120mm
 - guanti sterili
 - guanti sterili per sonda
 - **ChloraPrep**
@@ -320,7 +386,7 @@ Si programma infiltrazione di acido ialuronico per il giorno _______ alle ore __
 - garze sterili
 - gel sterile
 - **ago per citologico 18G**
-  - *oppure in alternativa* **ago di Chiba 21Gx100mm**
+  - *oppure in alternativa* **ago di Chiba 21Gx120mm**
 - guanti sterili
 - guanti sterili per sonda
 - ChloraPrep
