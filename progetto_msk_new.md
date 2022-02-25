@@ -308,10 +308,11 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - L'acido ialuronico viene fornito in siringhe pre-riempite sterili
 - Posizionare telo forato sterile
 - Disinfettare accuratamente con il **ChloraPrep** seguendo un andamento circolare dal centro verso i bordi del telo.
-- Posizionare la **sonda ecografica (lineare L4-15)** in guanto sterile con del gel all'interno del guanto
+- Posizionare la **sonda ecografica (lineare L3-11)** in guanto sterile con del gel all'interno del guanto
   - l'operatore tiene il guanto sterile mentre l'assitente versa prima il gel ecografico all'interno del guanto e poi vi cala la sonda
   - avvolgere le dita del guanto attorno alla sonda
   - fare attenzione a non toccare con i guanti sterili il filo della sonda non sterile
+- Prima di bucare controllare la posizione dell'**asse vascolare iliaco**, valutare che non sia collochi prossimalmente al decorso
 - Prendere **l'ago Chiba (21G x 120mm)** e chiedere all'assistente di rimuovere il copriago
 - Eseguire l'accesso con l'ago di chiba dal lato opposto al marker luminoso della sonda
 - Raggiungere con l'apice dell'ago lo spazio interno della capsula articolare coxofemorale
