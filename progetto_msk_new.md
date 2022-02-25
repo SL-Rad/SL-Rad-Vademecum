@@ -25,13 +25,14 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Materiale](#materiale)
     - [Esecuzione della procedura](#esecuzione-della-procedura)
     - [Refertazione](#refertazione)
-      - [Referto prefatto](#referto-prefatto)
+      - [Referto prefatto - Non indicazioni a infiltrazione](#referto-prefatto---non-indicazioni-a-infiltrazione)
   - [LITOCLASIA PERCUTANEA ECOGUIDATA](#litoclasia-percutanea-ecoguidata)
     - [Indicazioni cliniche](#indicazioni-cliniche-1)
+    - [Valutazione preliminare](#valutazione-preliminare)
     - [Materiale](#materiale-1)
     - [Esecuzione della procedura](#esecuzione-della-procedura-1)
     - [Refertazione](#refertazione-1)
-      - [Referto prefatto](#referto-prefatto-1)
+      - [Referto prefatto](#referto-prefatto)
       - [Referto modello](#referto-modello)
   - [INFILTRAZIONE ECOGUIDATA DI ANCA](#infiltrazione-ecoguidata-di-anca)
     - [Materiale](#materiale-2)
@@ -39,24 +40,23 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Refertazione](#refertazione-2)
       - [Referto prefatto - Acido Ialuronico](#referto-prefatto---acido-ialuronico)
       - [Referto prefatto - Cortisonico + Appuntamento](#referto-prefatto---cortisonico--appuntamento)
-      - [Referto prefatto](#referto-prefatto-2)
-      - [Referto prefatto - Non indicazioni a infiltrazione](#referto-prefatto---non-indicazioni-a-infiltrazione)
+      - [Referto prefatto](#referto-prefatto-1)
   - [INFILTRAZIONE ECOGRAFIA DI GINOCCHIO](#infiltrazione-ecografia-di-ginocchio)
     - [Indicazioni cliniche](#indicazioni-cliniche-2)
     - [Materiale](#materiale-3)
     - [Esecuzione della procedura](#esecuzione-della-procedura-3)
     - [Refertazione](#refertazione-3)
-      - [Referto prefatto](#referto-prefatto-3)
+      - [Referto prefatto](#referto-prefatto-2)
   - [DRENAGGIO RACCOLTA SIERO-EMATICA](#drenaggio-raccolta-siero-ematica)
     - [Materiale](#materiale-4)
     - [Esecuzione della procedura](#esecuzione-della-procedura-4)
     - [Refertazione](#refertazione-4)
-      - [Referto prefatto](#referto-prefatto-4)
+      - [Referto prefatto](#referto-prefatto-3)
   - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
     - [Materiale](#materiale-5)
     - [Esecuzione della procedura](#esecuzione-della-procedura-5)
     - [Refertazione](#refertazione-5)
-      - [Referto prefatto](#referto-prefatto-5)
+      - [Referto prefatto](#referto-prefatto-4)
   - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
     - [Indicazioni](#indicazioni)
     - [Materiale](#materiale-6)
@@ -127,6 +127,8 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 ### Indicazioni cliniche
 
+
+
 ### Materiale
 
 - telo allievo
@@ -149,7 +151,11 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 ### Refertazione
 
-#### Referto prefatto
+#### Referto prefatto - Non indicazioni a infiltrazione
+
+ECOGRAFIA MUSCOLO-TENDINEA
+Effettuata indagine preliminare alla prevista trattamento si rileva la presenza di alterazione della testa omerale in corrispondenza del sovraspinato, con spicule ossee e grossolana formazione geodica, associate ad alterazioni di aspetto fibrotico del rotator cable. Concomita medialmente ad essa la presenza di minima quota materiale calcico non fonoassrobente, di morfologia allungata, non interessante le superfici articolare o bursale. 
+Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintomatologia riferita dal Paziente soprasside al trattamento, rimanendo a disposizione per rivalutazione clinico-ecografica.
 
 
 
@@ -169,6 +175,20 @@ Nel caso di calcificazioni di dimensioni molti ridotte o di ecostruttura *"molle
 ### Indicazioni cliniche
 
 - Calcificazioni della borsa subacromiale
+
+### Valutazione preliminare
+
+L'indicazione per una litotrissia si ha sopratutto nel caso di una unica calcificazione non compattata,
+In questi casi rompre la calcificazione con l'azione meccanica della soluzione fisiologica interrompe lo sviluppo della patologia, riduce la sintomatologia algica e facilita il riassorbimento dei frammenti calfici residui.
+
+Dopo la litotrissia si consiglia al paziente di mantere in mobilità l'articolazione per facilitare il riassorbimento dei detriti e la non riformazione di ulteriore calcificazioni.
+
+Nel caso di caldificazioni di dimensioni ridotte si decide di procedere
+
+Nel caso di una calcificazione intratendinea o di una calcificazione compatta non si ha indicazione a procedere.
+Se sono presenti geodi o alterazioni degenerative il dolore del paziente potrebbe essere legato all'artrosi più che alla calcificazione compatta.
+In questi casi ci si può limitare alla infiltrazione di cortisonico (che crea una coda di diversa settimane) e al trattamento al bisogno con ghiaccio e FANS x os.
+Si rimane a disposizione per eventuali rivalutazioni ecografiche ed eventuali ulteriori infiltrazioni di corticonico.
 
 ### Materiale
 
@@ -358,12 +378,6 @@ Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori 
 Si programma infiltrazione di acido ialuronico per il giorno _______ alle ore _____.
 
 > Solitamente si fissa un secondo appuntamneto a 1 settimana se poco infiammato o 2/3 settimane se molto infiammato.
-
-#### Referto prefatto - Non indicazioni a infiltrazione
-
-ECOGRAFIA MUSCOLO-TENDINEA
-Effettuata indagine preliminare alla prevista trattamento si rileva la presenza di alterazione della testa omerale in corrispondenza del sovraspinato, con spicule ossee e grossolana formazione geodica, associate ad alterazioni di aspetto fibrotico del rotator cable. Concomita medialmente ad essa la presenza di minima quota materiale calcico non fonoassrobente, di morfologia allungata, non interessante le superfici articolare o bursale. 
-Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintomatologia riferita dal Paziente soprasside al trattamento, rimanendo a disposizione per rivalutazione clinico-ecografica.
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
