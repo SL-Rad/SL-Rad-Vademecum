@@ -25,8 +25,13 @@
 			- [LIDOCAINA](#lidocaina)
 			- [ROPIVACAINA](#ropivacaina)
 	- [AGHI](#aghi)
+		- [AGO DI CHIBA](#ago-di-chiba)
+		- [AGO CITOLOGICO](#ago-citologico)
+		- [AGO SPINALE](#ago-spinale)
 	- [SIRINGHE E RACCORDI](#siringhe-e-raccordi)
 	- [MEDICAZIONI](#medicazioni)
+		- [COSMOPORE](#cosmopore)
+		- [PEHA-HAFT](#peha-haft)
 	- [BIBILIOGRAFIA](#bibiliografia)
 	- [NOTE](#note)
 
@@ -37,6 +42,11 @@
 ### CORTISONICI INFILTRATIVI
 
 #### KENACORT
+*Fiale da 1mL* di **triamcinolone acetonide ( 40mg / 1mL )**
+
+[Kenacort - AIFA \| Foglio illustrativo](https://farmaci.agenziafarmaco.gov.it/aifa/servlet/PdfDownloadServlet?pdfFileName=footer_001401_013972_FI.pdf&retry=0&sys=m0b1l3)
+
+[Kenacort - AIFA \| Riassunto caratteristiche del prodotto](https://farmaci.agenziafarmaco.gov.it/aifa/servlet/PdfDownloadServlet?pdfFileName=footer_001401_013972_RCP.pdf&retry=0&sys=m0b1l3)
 
 #### DEPOMEDROL
 
@@ -57,6 +67,12 @@
 
 ## AGHI
 
+### AGO DI CHIBA
+
+### AGO CITOLOGICO
+
+### AGO SPINALE
+
 ---
 
 ## SIRINGHE E RACCORDI
@@ -64,6 +80,10 @@
 ---
 
 ## MEDICAZIONI
+
+### COSMOPORE
+
+### PEHA-HAFT
 
 ---
 
