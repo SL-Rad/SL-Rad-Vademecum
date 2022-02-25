@@ -32,6 +32,10 @@
 	- [MEDICAZIONI](#medicazioni)
 		- [COSMOPORE](#cosmopore)
 		- [PEHA-HAFT](#peha-haft)
+	- [TERAPIA](#terapia)
+		- [TRATTAMENTI COMPORTAMENTALI](#trattamenti-comportamentali)
+		- [FANS PER OS](#fans-per-os)
+		- [CORTISONICI PER OS](#cortisonici-per-os)
 	- [BIBILIOGRAFIA](#bibiliografia)
 	- [NOTE](#note)
 
@@ -84,6 +88,19 @@
 ### COSMOPORE
 
 ### PEHA-HAFT
+
+---
+
+## TERAPIA
+
+### TRATTAMENTI COMPORTAMENTALI
+
+### FANS PER OS
+
+### CORTISONICI PER OS
+**Deltacortene** 
+*25 mg x 4 die &rarr; 12,5 mg x 4 die &rarr; 5 mg x 4 die*
+Trattamento algie acute spalla
 
 ---
 
