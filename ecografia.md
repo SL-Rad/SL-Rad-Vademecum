@@ -152,6 +152,8 @@ Da compilare entro fine giornata.
 
 <!--- Fiat iustitia et pereat mundus -->
 
+[**Progetto MSK &rarr; pagina dedicata**](https://sl-rad.github.io/SL-Rad-Vademecum/progetto_msk_newprogetto_msk_new)
+
 Il Venerdì pomeriggio l'attività in sala ecografica termina all'ora di pranzo, dopo la fine dell'attività di sala, gli specializzandi di sala si possono fermare ad assistere e dare una mano al progetto di interventistica msk.
 
 Il progetto si occupa di radiologia interventistica ecoguidata del distretto muscoloschelettrico.
