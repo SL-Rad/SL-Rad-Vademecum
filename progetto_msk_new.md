@@ -25,7 +25,6 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Materiale](#materiale)
     - [Esecuzione della procedura](#esecuzione-della-procedura)
     - [Refertazione](#refertazione)
-      - [Referto prefatto - Non indicazioni a infiltrazione](#referto-prefatto---non-indicazioni-a-infiltrazione)
   - [LITOCLASIA PERCUTANEA ECOGUIDATA](#litoclasia-percutanea-ecoguidata)
     - [Indicazioni cliniche](#indicazioni-cliniche-1)
     - [Valutazione preliminare](#valutazione-preliminare)
@@ -34,6 +33,7 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Refertazione](#refertazione-1)
       - [Referto prefatto](#referto-prefatto)
       - [Referto modello](#referto-modello)
+      - [Referto prefatto - Non indicazioni a litoclasia](#referto-prefatto---non-indicazioni-a-litoclasia)
   - [INFILTRAZIONE ECOGUIDATA DI ANCA](#infiltrazione-ecoguidata-di-anca)
     - [Materiale](#materiale-2)
     - [Esecuzione della procedura](#esecuzione-della-procedura-2)
@@ -151,12 +151,6 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 ### Refertazione
 
-#### Referto prefatto - Non indicazioni a infiltrazione
-
-ECOGRAFIA MUSCOLO-TENDINEA
-Effettuata indagine preliminare alla prevista trattamento si rileva la presenza di alterazione della testa omerale in corrispondenza del sovraspinato, con spicule ossee e grossolana formazione geodica, associate ad alterazioni di aspetto fibrotico del rotator cable. Concomita medialmente ad essa la presenza di minima quota materiale calcico non fonoassrobente, di morfologia allungata, non interessante le superfici articolare o bursale. 
-Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintomatologia riferita dal Paziente soprasside al trattamento, rimanendo a disposizione per rivalutazione clinico-ecografica.
-
 
 
 <div style="text-align: right">
@@ -168,6 +162,7 @@ Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintoma
 ## LITOCLASIA PERCUTANEA ECOGUIDATA
 
 La procedura può essere eseguita sia con due aghi (contrapposti o paralleli) sia con un singolo ago.
+
 La **litoclasia percutanea classica** prevede l'utilizzo di due aghi, uno in iniezione ed uno in aspirazione, al fine di creare un vortice in grado di aumentare lo *"sciogliemento"* della calcificazione e ne semplifica la rimozione.
 
 Nel caso di calcificazioni di dimensioni molti ridotte o di ecostruttura *"molle"* si preferisce procedere con una litoclasia **ad ago singolo** poiché l'utilizzo di due aghi risulterebbe difficoltoso per il poco spazio dispnibile sia perché non sarebbe possibile ottenere l'effetto vortice necessario.
@@ -178,15 +173,17 @@ Nel caso di calcificazioni di dimensioni molti ridotte o di ecostruttura *"molle
 
 ### Valutazione preliminare
 
-L'indicazione per una litotrissia si ha sopratutto nel caso di una unica calcificazione non compattata,
+L'indicazione per una litotrissia si ha sopratutto in presenza di una unica calcificazione non compattata.
 In questi casi rompre la calcificazione con l'azione meccanica della soluzione fisiologica interrompe lo sviluppo della patologia, riduce la sintomatologia algica e facilita il riassorbimento dei frammenti calfici residui.
 
-Dopo la litotrissia si consiglia al paziente di mantere in mobilità l'articolazione per facilitare il riassorbimento dei detriti e la non riformazione di ulteriore calcificazioni.
+Dopo la litotrissia si consiglia al paziente di mantere in mobilità l'articolazione per facilitare il riassorbimento dei detriti e al fine di impedire una riformazione di ulteriore calcificazioni.
 
-Nel caso di caldificazioni di dimensioni ridotte si decide di procedere
+Nel caso di calcificazioni di dimensioni ridotte si decide di procedere.
 
 Nel caso di una calcificazione intratendinea o di una calcificazione compatta non si ha indicazione a procedere.
+
 Se sono presenti geodi o alterazioni degenerative il dolore del paziente potrebbe essere legato all'artrosi più che alla calcificazione compatta.
+
 In questi casi ci si può limitare alla infiltrazione di cortisonico (che crea una coda di diversa settimane) e al trattamento al bisogno con ghiaccio e FANS x os.
 Si rimane a disposizione per eventuali rivalutazioni ecografiche ed eventuali ulteriori infiltrazioni di corticonico.
 
@@ -252,6 +249,8 @@ Da qui retrocedere, iniettando gradualmente la lidocaina lungo il decorso fino a
 - Pulire il gel
 - Mettere un cerotto (**Cosmopor E**)
 
+
+
 ### Refertazione
 
 - Sotto guida ecografica
@@ -268,11 +267,15 @@ Da qui retrocedere, iniettando gradualmente la lidocaina lungo il decorso fino a
            - sinistra
 - E' stato somministrato
 
+
+
 #### Referto prefatto
 Con guida ETG ed inserimento di ago da 18G è stata eseguita litoclasia percutanea della nota calcificazione a carico del tendine sovraspinato della spalla destra. 
 La procedura è stata completata con infiltrazione intrabursale di corticosteroide. 
 Al termine della procedura non si rilevano complicanze maggiori immediate. 
 Si rimane a disposizione per qualsiasi chiarimento.
+
+
 
 #### Referto modello
 Sotto guida ecografica, previa anestesia locale eseguita con lidocaina, attraverso inserimento di ago da 18G è stata eseguita una litoclasia percutanea della nota calcificazione a carico del tendine (sovraspinato) della (spalla).
@@ -280,11 +283,21 @@ La procedura è stata completata con infiltrazione intrabursale di corticosteroi
 Al termine della proceduta non si rilevano complicanze maggiori immediate.
 Si rimane a disposizione per qualsiasi chiarimento.
 
+
+
+#### Referto prefatto - Non indicazioni a litoclasia
+Effettuata indagine preliminare alla prevista trattamento si rileva la presenza di alterazione della testa omerale in corrispondenza del sovraspinato, con spicule ossee e grossolana formazione geodica, associate ad alterazioni di aspetto fibrotico del rotator cable. Concomita medialmente ad essa la presenza di minima quota materiale calcico non fonoassrobente, di morfologia allungata, non interessante le superfici articolare o bursale. 
+Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintomatologia riferita dal Paziente soprasside al trattamento, rimanendo a disposizione per rivalutazione clinico-ecografica.
+
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
 </div>
 
+
+
 ---
+
+
 
 ## INFILTRAZIONE ECOGUIDATA DI ANCA
 
