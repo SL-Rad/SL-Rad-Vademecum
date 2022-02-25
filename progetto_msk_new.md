@@ -330,7 +330,7 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - Dopo aver completato l'iniezione, estrarre l'ago
 - Tenere premuto sul punto di accesso con garza bagnata di disinfettante
 - Pulire il gel
-- Mettere un cerotto (**Cosmopor E**)
+- Mettere un cerotto (**Cosmopor E**: 7,2 *cm x 5 cm*)
 
 > Non si somministra acido ialuronico su di una articolarizone molto infiammata, la flogosi degragerebbe velocemente l'acido ialuronico inattivandolo. In questi casi si sfiamma prima con del cortisonico.
 
