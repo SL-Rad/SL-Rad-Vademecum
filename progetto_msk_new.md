@@ -39,22 +39,24 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
     - [Refertazione](#refertazione-2)
       - [Referto prefatto - Acido Ialuronico](#referto-prefatto---acido-ialuronico)
       - [Referto prefatto - Cortisonico + Appuntamento](#referto-prefatto---cortisonico--appuntamento)
+      - [Referto prefatto](#referto-prefatto-2)
+      - [Referto prefatto - Non indicazioni a infiltrazione](#referto-prefatto---non-indicazioni-a-infiltrazione)
   - [INFILTRAZIONE ECOGRAFIA DI GINOCCHIO](#infiltrazione-ecografia-di-ginocchio)
     - [Indicazioni cliniche](#indicazioni-cliniche-2)
     - [Materiale](#materiale-3)
     - [Esecuzione della procedura](#esecuzione-della-procedura-3)
     - [Refertazione](#refertazione-3)
-      - [Referto prefatto](#referto-prefatto-2)
+      - [Referto prefatto](#referto-prefatto-3)
   - [DRENAGGIO RACCOLTA SIERO-EMATICA](#drenaggio-raccolta-siero-ematica)
     - [Materiale](#materiale-4)
     - [Esecuzione della procedura](#esecuzione-della-procedura-4)
     - [Refertazione](#refertazione-4)
-      - [Referto prefatto](#referto-prefatto-3)
+      - [Referto prefatto](#referto-prefatto-4)
   - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
     - [Materiale](#materiale-5)
     - [Esecuzione della procedura](#esecuzione-della-procedura-5)
     - [Refertazione](#refertazione-5)
-      - [Referto prefatto](#referto-prefatto-4)
+      - [Referto prefatto](#referto-prefatto-5)
   - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
     - [Indicazioni](#indicazioni)
     - [Materiale](#materiale-6)
@@ -349,12 +351,19 @@ Al termine della procedura non si rilevano complicanze ecografiche precoci.
 Si programma rivalutazione ecografica per il giorno _______ ore _____.
 
 ---
+#### Referto prefatto
 
 Con guida ecotomografica è stata eseguita l'infiltrazione di cortisonico  nell'articolazione coxo-femorale di destra.
 Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori immediate.
 Si programma infiltrazione di acido ialuronico per il giorno _______ alle ore _____.
 
 > Solitamente si fissa un secondo appuntamneto a 1 settimana se poco infiammato o 2/3 settimane se molto infiammato.
+
+#### Referto prefatto - Non indicazioni a infiltrazione
+
+ECOGRAFIA MUSCOLO-TENDINEA
+Effettuata indagine preliminare alla prevista trattamento si rileva la presenza di alterazione della testa omerale in corrispondenza del sovraspinato, con spicule ossee e grossolana formazione geodica, associate ad alterazioni di aspetto fibrotico del rotator cable. Concomita medialmente ad essa la presenza di minima quota materiale calcico non fonoassrobente, di morfologia allungata, non interessante le superfici articolare o bursale. 
+Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintomatologia riferita dal Paziente soprasside al trattamento, rimanendo a disposizione per rivalutazione clinico-ecografica.
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
@@ -673,6 +682,12 @@ Elsevier, 2016.
 ---
 
 ## NOTE
+
+INF. ECOGUIDATA ANCA
+Sotto guida ecografica, mediante ago Chiba 21 G è stata effettuata infiltrazione di 2 ml di triamcinolone
+acetonide a livello dell'articolazione coxofemorale sinistra. Al termine della procedura non si rilevano complicanze ecografiche precoci. Si programma seconda seduta per il giorno 4/3 ore 14.00. Si rilane a disposizione
+
+
 
 
 	
