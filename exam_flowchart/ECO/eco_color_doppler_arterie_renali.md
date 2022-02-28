@@ -30,6 +30,31 @@
 
 ## INDICAZIONI & LINEE GUIDA
 
+-	Ipertensione con sospetto clinico di stenosi dell’arteria renale
+-	Ipertensione con forte sospetto di ipertensione di origine renale(1)
+    - Ipertensione non controllata da terapia medica ottimale
+    - Ipertensione con declino della funzionalità renale
+    - Declino della funzionalità renale associata a terapia con ACEi
+    - Ipertensione con insorgenza improvvisa
+-	Ipertensione con dimensioni discrepanti dei reni all’ecografia B-mode
+-	Soffio addominale udibile
+-	Valutazione perfusione renale in pz con:
+  o	Aneurisma aortico
+  o	Dissezione aortica
+  o	Altre anormalità note dell’aorta (coartazione dell’aorta)
+-	Insufficienza renale a rischio clinico di stenosi dell’arteria renale
+-	Follow-up di stenosi dell’arteria renale dopo terapia vascolare
+-	Sindrome di Nutcracker (2) (compressione dell’arteria renale tra Aorta e Arteria mesenterica) 
+-	Sospetta displasia fibromuscolare in donne giovani con insorgenza di ipertensione prima dei 30 anni.3
+
+
+Bibliografia:
+
+1. *Ultrasound Med. 2020;39(5). doi:10.1002/jum.15260*
+2. Ultrasound Protocols. Accessed February 20, *2022. https://www.utsouthwestern.edu/education/medical-school/departments/radiology/protocols/us.html*
+3. *2020 International Society of Hypertension Global Hypertension Practice Guidelines. doi:10.1161/HYPERTENSIONAHA.120.15026*
+
+
 ---
 
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
