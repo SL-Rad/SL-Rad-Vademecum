@@ -1,1 +1,1 @@
-**prova** in *corsivo*
+**prova**
