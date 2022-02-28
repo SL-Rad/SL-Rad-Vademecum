@@ -31,7 +31,7 @@
 ## INDICAZIONI & LINEE GUIDA
 
 -	Ipertensione con sospetto clinico di stenosi dell’arteria renale
--	Ipertensione con forte sospetto di ipertensione di origine renale(1)
+-	Ipertensione con forte sospetto di ipertensione di origine renale (1)
     - Ipertensione non controllata da terapia medica ottimale
     - Ipertensione con declino della funzionalità renale
     - Declino della funzionalità renale associata a terapia con ACEi
@@ -45,7 +45,7 @@
 -	Insufficienza renale a rischio clinico di stenosi dell’arteria renale
 -	Follow-up di stenosi dell’arteria renale dopo terapia vascolare
 -	Sindrome di Nutcracker (2) (compressione dell’arteria renale tra Aorta e Arteria mesenterica) 
--	Sospetta displasia fibromuscolare in donne giovani con insorgenza di ipertensione prima dei 30 anni.3
+-	Sospetta displasia fibromuscolare in donne giovani con insorgenza di ipertensione prima dei 30 anni. (3)
 
 
 Bibliografia:
