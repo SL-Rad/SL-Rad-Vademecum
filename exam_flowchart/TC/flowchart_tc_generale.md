@@ -313,6 +313,7 @@
        - medio
        - inferiore
 
+> Sono stabili i fenomeni di addensamento parenchimale in sede (apicale sinistra), con strie dense che collegano l'addensamento alla regione (ilare) e fenomeni di impegno dei bronchi contigui.
 
 - **aree a vetro smerigliato? (ground-glass)** <br>
 `(Ad entrambi gli emitoraci) si riconoscono plurime sfumate aree "a vetro smerigliato", maggiormente estese a sinistra;`<br><br>
@@ -335,6 +336,9 @@
     `reperti di significato flogistico-disventilativo` 
   - **con reazione pleurica?** <br>
   `cui concomitano fenomeni di reazione pleurica (bilateralmente), dello spessore massimo sino a __ mm (a sinistra).`
+
+- **enfisema**<br>
+`Persistono grossolane manifestazioni enfisematose (centro-lobulari) e (parasettali) d'ambo i lati, cui concomitano ulteriori grossolane strie dense di natura fibrotica in sede (apicale destra).`
 
 
 - **nodularità (nodulo polmonare)?**
