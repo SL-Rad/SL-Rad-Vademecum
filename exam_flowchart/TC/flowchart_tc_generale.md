@@ -284,7 +284,7 @@
       - ilare
       - inguinale
 
-
+> Sono presenti alcuni linfonodi del diametro massimo sino a (12 mm) in sede (ilare destra), nella (finestra aorto-polmonare) ed in sede (sottocarenale).
 
 
 
