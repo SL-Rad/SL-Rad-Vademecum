@@ -31,6 +31,7 @@
   - [RICERCA](#ricerca)
   - [LEGISLAZIONE](#legislazione)
   - [PROGRAMMAZIONE](#programmazione)
+  - [MANUALI ISTRUZIONI e GUIDE](#manuali-istruzioni-e-guide)
   - [XR](#xr)
   - [MRI](#mri)
 
@@ -67,11 +68,13 @@
 - [AO Surgery Reference](https://surgeryreference.aofoundation.org/){:target="_blank"}
 - [Radiology Masterclass - Image Galleries](https://www.radiologymasterclass.co.uk/gallery/chest/variants/normal_chest_x-ray){:target="_blank"}
 
+
 ## LINEE GUIDA
 
 - [Raccomandazioni SIRM - Gestione reazioni a mdc](https://sirm.org/wp-content/uploads/2021/04/312-Documento-intersocietario-SIRM-SIAARTI-2019-gestione-reazione-avversa-allergica-a-mdc.pdf){:target="_blank"}
 - [Linee Guida AIOM](https://www.aiom.it/linee-guida-aiom/){:target="_blank"}
 - [ACR Reporting and Data Systems (RADS)](https://www.acr.org/Clinical-Resources/Reporting-and-Data-Systems){:target="_blank"}
+
 
 ## CALCOLATORI
 - [Radcalculators](https://radcalculators.org/)
@@ -101,6 +104,9 @@
 - [Jupyter](https://jupyter.org/){:target="_blank"}
 - [D3.js](https://d3js.org/){:target="_blank"}
 
+
+## MANUALI ISTRUZIONI e GUIDE
+- [Telemis](https://www.telemisstore.com/it/portfolio){:target="_blank"}
 
 ## XR
 
