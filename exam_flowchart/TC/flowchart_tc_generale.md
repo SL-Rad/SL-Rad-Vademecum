@@ -90,6 +90,8 @@
 `Indagine eseguita nelle sole scansioni basali.`
     - **convertito in basale** per insufficienza renale non premedicata / dializzata <br>
 	`L'esame è stato eseguito nelle sole condizioni basali, in considerazione degli elevati valori di creatininemia (4.29 mg/dl; GFR 13).`
+  - **Basale ad alta risoluzione (HRCT Torace inspirio + espirio)**<br>
+  `Indagine eseguita nelle sole condizioni basali mediante acquisizione volumetrica in inspirio e completata con scansioni assiali in espirio.`
   - **con MdC** <br> `Indagine eseguita previa somministrazione di MdC organo iodato e.v. (____________, ___mL)`
     - **Arteriosa** <br>
 	`L'esame è stato acquisito in fase arteriosa.`
