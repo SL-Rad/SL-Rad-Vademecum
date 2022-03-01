@@ -337,7 +337,7 @@
   - **con reazione pleurica?** <br>
   `cui concomitano fenomeni di reazione pleurica (bilateralmente), dello spessore massimo sino a __ mm (a sinistra).`
 
-- **enfisema**<br>
+- **enfisema?**<br>
 `Persistono grossolane manifestazioni enfisematose (centro-lobulari) e (parasettali) d'ambo i lati, cui concomitano ulteriori grossolane strie dense di natura fibrotica in sede (apicale destra).`
 
 
@@ -378,18 +378,19 @@
 
 
   - **rivalutazione dimensioni lesione neoproduttiva nota** <br>
-`Rispetto al precedente controllo del __/__/____ si riconosce (riduzione / stabilità / incremento) dimensionale del tessuto solido di natura neoproduttiva precedentemente descritto in prossimità (del corno ilare inferiore destro), del diametro massimo attuale di __ mm.`<br><br>
+    `Rispetto al precedente controllo del __/__/____ si riconosce (riduzione / stabilità / incremento) dimensionale del tessuto solido di natura neoproduttiva precedentemente descritto in prossimità (del corno ilare inferiore destro), del diametro massimo attuale di __ mm.`<br><br>
 
-`è stabile per dimensioni e morfologia la nodularità parenchimale precedentemente descritta al (lobo superiore sinistro), sempre del diametro massimo di __ mm.`
+    `è stabile per dimensioni e morfologia la nodularità parenchimale precedentemente descritta al (lobo superiore sinistro), sempre del diametro massimo di __ mm.`
 
 - **strie disventilative?** <br>
-`Sono presenti (diffuse / alcune / esigue / limitate) strie disventilative` 
+  `Sono presenti (diffuse / alcune / esigue / limitate) strie disventilative` 
   - **localizzazione** <br> 
   `in sede ___________ (sinistra / destra / bilaterale).`
     - apicale
     - sovradiaframmatica
 
-
+- **Manifestazioni disventilative?**<br>
+`Si riconoscono limitate manifestazioni disventilative parenchimali alle basi polmonari, ad impegnare il recesso costo-frenico posteriore nel territorio dei lobi inferiori con limitati ispessimenti pleurici dorsali a sinistra`
 
 
 
