@@ -337,8 +337,16 @@
   - **con reazione pleurica?** <br>
   `cui concomitano fenomeni di reazione pleurica (bilateralmente), dello spessore massimo sino a __ mm (a sinistra).`
 
+
+
 - **enfisema?**<br>
 `Persistono grossolane manifestazioni enfisematose (centro-lobulari) e (parasettali) d'ambo i lati, cui concomitano ulteriori grossolane strie dense di natura fibrotica in sede (apicale destra).`
+
+- **intrappolamento aereo *(Air trapping)*?**
+  - ***assente*** <br>
+`All'esame acquisito in espirio non si riconoscono significativi segni di intrappolamento aereo.`
+  - ***presente***<br>
+``
 
 
 - **nodularità (nodulo polmonare)?**
@@ -355,7 +363,10 @@
 
 
 > **Noduli Fleishenr**
+> 
 > Tenendo in cosiderazione le linee guida della Fleischner Society 2017 nella gestione dei noduli incidentali ed in particolare i noduli tra __-__ mm (___-___mm3) si consiglia rivalutazione a 18 mesi con TC ad alta risoluzione e con tecnica volumetrica con successiva comparazione dei noduli con sotware dedicato.
+
+
 
 - **lesioni neoproduttive (massa)?**
   - **lesione neoproduttiva di nuovo riscontro**<br>
