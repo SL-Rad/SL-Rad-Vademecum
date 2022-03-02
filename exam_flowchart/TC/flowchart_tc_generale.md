@@ -111,6 +111,14 @@
 
 ## CRANIO
 
+>**PREFATTO CRANIO NEGATIVO**
+>
+>L'esame è stato eseguito in condizioni basali.
+>Non si osservano alterazioni parenchimali in sede sovra e sottotentoriale riferibili a lesioni ischemiche di data recente nè segni di sanguinamento intra ed extra-assiale.
+>Tenuto conto dell'assenza di mdc non si evidenziano immagini riferibili a processi occupanti spazio.
+>Le strutture della linea mediana sono in asse.
+>Il sistema ventricolare e gli spazi subaracnoidei della convessità e della base conservano regolare morfologia ed ampiezza.
+
 - **lesioni ischemiche? (ictus)**
   - ***assenti*** <br> `Non si osservano alterazioni parenchimali in sede sovra e sottotentoriale riferibili a lesioni ischemiche di data recente`
   - ***presenti***<br> 
