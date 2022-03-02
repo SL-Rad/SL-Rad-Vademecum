@@ -27,8 +27,7 @@
 - [**CASE*UAL* WEDNESDAY**](#caseual-wednesday)
   - [Cosa sono i Case*ual* Wendnesday?](#cosa-sono-i-caseual-wendnesday)
   - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
-  - [**CASE*UAL* WEDNESDAY ARCHIVE**](#caseual-wednesday-archive)
-  - [**CASEUAL WEDNESDAY ARCHIVE**](#caseual-wednesday-archive-1)
+  - [**CASEUAL WEDNESDAY ARCHIVE**](#caseual-wednesday-archive)
     - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
     - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
     - [15 Dicembre 2021](#15-dicembre-2021)
@@ -58,16 +57,6 @@ Ogni incontro ha un tema specifico che può venire di volta in volta proposto da
 <a href="#caseual-wednesday">⬆️</a>
 </div>
 
----
-
-## **CASE*UAL* WEDNESDAY ARCHIVE**
-
-Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
-[**CASE*UAL* WEDNESDAY &rarr; ARCHIVE**](case_archive.md)
-
-<div style="text-align: right">
-<a href="#caseual-wednesday">⬆️</a>
-</div>
 
 ---
 
