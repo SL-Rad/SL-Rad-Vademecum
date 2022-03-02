@@ -112,115 +112,115 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 19</div>
-    <img src="principi_di_doppler_pulsato_1_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_1_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 19</div>
-    <img src="principi_di_doppler_pulsato_2_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_2_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 19</div>
-    <img src="principi_di_doppler_pulsato_3_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_3_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 19</div>
-    <img src="principi_di_doppler_pulsato_4_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_4_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 19</div>
-    <img src="principi_di_doppler_pulsato_5_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_5_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 19</div>
-    <img src="principi_di_doppler_pulsato_6_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_6_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 19</div>
-    <img src="principi_di_doppler_pulsato_7_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_7_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">8 / 19</div>
-    <img src="principi_di_doppler_pulsato_8_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_8_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">9 / 19</div>
-    <img src="principi_di_doppler_pulsato_9_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_9_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">10 / 19</div>
-    <img src="principi_di_doppler_pulsato_10_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_10_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 19</div>
-    <img src="principi_di_doppler_pulsato_11_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_11_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">12 / 19</div>
-    <img src="principi_di_doppler_pulsato_12_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_12_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">13 / 19</div>
-    <img src="principi_di_doppler_pulsato_13_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_13_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 19</div>
-    <img src="principi_di_doppler_pulsato_14_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_14_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">15 / 19</div>
-    <img src="principi_di_doppler_pulsato_15_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_15_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">16 / 19</div>
-    <img src="principi_di_doppler_pulsato_16_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_16_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">17 / 19</div>
-    <img src="principi_di_doppler_pulsato_17_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_17_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">18 / 19</div>
-    <img src="principi_di_doppler_pulsato_18_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_18_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">19 / 19</div>
-    <img src="principi_di_doppler_pulsato_19_of_21.png" style="width: 100%" />
+    <img src="documents\slide_slrad\principi_di_doppler_pulsato_19_of_21.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
