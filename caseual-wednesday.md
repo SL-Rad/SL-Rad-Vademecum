@@ -29,8 +29,8 @@
   - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
   - [**CASE*UAL* WEDNESDAY ARCHIVE**](#caseual-wednesday-archive)
   - [**CASEUAL WEDNESDAY ARCHIVE**](#caseual-wednesday-archive-1)
-    - [13 Ottobre 2021 | Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
-    - [10 Novembre 2021 | Sanguinamenti](#10-novembre-2021--sanguinamenti)
+    - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
+    - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
     - [15 Dicembre 2021](#15-dicembre-2021)
 
 - - -
@@ -75,14 +75,14 @@ Tutti i casi presentati negli incontri vengono caricati in archivio: <br>
 ## **CASEUAL WEDNESDAY ARCHIVE**
 Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
 
-### 13 Ottobre 2021 | Gli spazi peritoneali
+### 13 Ottobre 2021 \| Gli spazi peritoneali
 
 - [13 Ottobre 2021 - Appendiciti epiploiche](caseual_wednesdays/2021-10-13/appendicite_epiploica.html)
-- [13 Ottobre 2021 - Infarto omentale]()
+- [13 Ottobre 2021 - Infarto omentale](caseual_wednesdays/2021-10-13/infarto_omentale.html)
 - [13 Ottobre 2021 - Groove Pancreatitis](caseual_wednesdays/2021-10-13/groove_pancreatitis.html)
 
 
-### 10 Novembre 2021 | Sanguinamenti
+### 10 Novembre 2021 \| Sanguinamenti
 
 - [10 Novembre 2021 - Cisti emorragica](caseual_wednesdays/2021-11-10/cisti_emorragica.html)
 - [10 Novembre 2021 - Angiomiolipoma emorragico](caseual_wednesdays/2021-11-10/angiomiolipoma_emorragico.html)
