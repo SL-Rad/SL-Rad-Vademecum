@@ -260,6 +260,15 @@
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
+- ECOGRAFIA CLINICA E COLOR DOPPLER IN NEFROLOGIA ; Mario Meola ;
+Capitolo 6 - Principi Teorici ed Applicazione Doppler ; 2008 ; EUREKA Editore
+
+- ECO-COLOR DOPPLER EMODINAMICA – FISICA – TECNICA ; A. M. De
+Gaetano ; Toshiba Medical System
+
+- Optimizing Doppler and Color Flow US: Application to Hepatic Sonography
+Jonathan B. Kruskal, Peggy A. Newman, Laurie G. Sammons, Robert A.
+Kane https://doi.org/10.1148/rg.243035139
 
 <script>
   var slideIndex = 1;
