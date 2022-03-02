@@ -107,6 +107,7 @@
 
 ## MANUALI ISTRUZIONI e GUIDE
 - [Telemis](https://www.telemisstore.com/it/portfolio){:target="_blank"}
+- [Scorciatoie da tastiera Telemis](shortcut_telemis.md){:target="_blank"}
 
 ## XR
 
