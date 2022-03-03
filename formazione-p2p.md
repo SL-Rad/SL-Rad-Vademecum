@@ -73,8 +73,8 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 ##### 15 Dicembre 2021
 
-- [15 Dicembre 2021 | A]()
-- [15 Dicembre 2021 | B]()
+- [15 Dicembre 2021 - A]()
+- [15 Dicembre 2021 - B]()
 
 <div style="text-align: right">
 <a href="#caseual-wednesday">⬆️</a>
@@ -98,4 +98,4 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 ### Archivio delle presentazioni 
 
-- [2 Marzo 2022 | Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
+- [2 Marzo 2022 - Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
