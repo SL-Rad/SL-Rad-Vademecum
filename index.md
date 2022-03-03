@@ -26,7 +26,7 @@
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/ecografia.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons/ultrasound.png" /></a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/tomografia_computerizzata.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\ct-scan.png" /></a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/risonanza_magnetica.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\mri.png" /></a>
-  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/caseual-wednesday.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\presentation.png" /></a>
+  <a href="https://sl-rad.github.io/SL-Rad-Vademecum/formazione-p2p.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\presentation.png" /></a>
   <a href="https://sl-rad.github.io/SL-Rad-Vademecum/contatti.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\phone-book.png" /></a>
 </div>
 <br>
