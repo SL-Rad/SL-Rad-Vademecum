@@ -33,7 +33,7 @@ Sulla pagina sono raggrupapti i progetti formativi da pari a pari organizzati e 
         - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
         - [15 Dicembre 2021](#15-dicembre-2021)
       - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
-  - [**ECO-FRIENDLY**](#eco-friendly)
+    - [**ECO-FRIENDLY**](#eco-friendly)
     - [Archivio delle presentazioni](#archivio-delle-presentazioni)
 
 - - -
@@ -92,7 +92,7 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 ---
 
-## **ECO-FRIENDLY**
+### **ECO-FRIENDLY**
 
 
 
