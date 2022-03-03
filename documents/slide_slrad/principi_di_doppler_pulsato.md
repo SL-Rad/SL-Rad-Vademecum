@@ -224,7 +224,7 @@
     <div class="text"></div>
   </div>
 
-  </div>
+</div>
 
   <!-- Next and previous buttons -->
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
