@@ -20,61 +20,82 @@
 
 - - -
 
-# **CASE*UAL* WEDNESDAY**
+# SL Rad - Formazione peer-to-peer
+
+Sulla pagina sono raggrupapti i progetti formativi da pari a pari organizzati e promossi dagli specializzandi della Radiologia.
 
 - - -
 
-- [**CASE*UAL* WEDNESDAY**](#caseual-wednesday)
-  - [Cosa sono i Case*ual* Wendnesday?](#cosa-sono-i-caseual-wendnesday)
-  - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
-  - [**CASEUAL WEDNESDAY ARCHIVE**](#caseual-wednesday-archive)
-    - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
-    - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
-    - [15 Dicembre 2021](#15-dicembre-2021)
+- [SL Rad - Formazione peer-to-peer](#sl-rad---formazione-peer-to-peer)
+    - [**CASEUAL WEDNESDAY**](#caseual-wednesday)
+      - [Archivio dei casi interessanti](#archivio-dei-casi-interessanti)
+        - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
+        - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
+        - [15 Dicembre 2021](#15-dicembre-2021)
+      - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
+  - [**ECO-FRIENDLY**](#eco-friendly)
+    - [Archivio delle presentazioni](#archivio-delle-presentazioni)
 
 - - -
 
-## Cosa sono i Case*ual* Wendnesday?
-Ogni 2° mercoledì del mese dalle 15:30 alle 16:30 nella Biblioteca della Radiologia Centrale.
+### **CASEUAL WEDNESDAY**
 
-Tre specializzandi presentano un caso di 5-7 minuti chiascuno (6-10 Slide).
+I **Case*ual* Wednesday** sono incontri mensili organizzati dagli specializzandi con l'intento di permettere a specializzandi e strutturati di **incontrasi e discutere dei casi interessanti** passati nelle sale della radiologia nei mesi precedenti.
 
-Ogni mese cerchiamo di coinvolgere uno strutturato per un quarto caso.
+Gli incontri vengono solitamente organizzati **il 2° mercoledì del mese** **dalle 15:30 alle 16:30** nella **Biblioteca della Radiologia Centrale**.
 
-Ogni incontro ha un tema specifico che può venire di volta in volta proposto dallo strutturato che accetta di partecipare.
+**Tre specializzandi** presentano un caso di **5-7 minuti** chiascuno (**6-10 Slide**).
 
-<div style="text-align: right">
-<a href="#caseual-wednesday">⬆️</a>
-</div>
+Ogni mese cerchiamo di coinvolgere **uno strutturato** per un quarto caso.
 
----
+Ogni incontro ha **un tema specifico** che può venire di volta in volta proposto dallo strutturato che accetta di partecipare.
 
-## Come preparsi al Case*ual* Wednesday?
-
-[Caseual Wednesday &rarr; How to be ready?](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/how_to_be_caseual_on_wednesday.html)
-
-<div style="text-align: right">
-<a href="#caseual-wednesday">⬆️</a>
-</div>
-
+Ogni incontro deve prevedere immancabilmente la presenza di un **vassoio di pasticcini**.
 
 ---
 
+#### Archivio dei casi interessanti
 
-## **CASEUAL WEDNESDAY ARCHIVE**
-Archivio dei casi interessati presentati mensilmente ai Caseual Wednesday.
+Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
-### 13 Ottobre 2021 \| Gli spazi peritoneali
+##### 13 Ottobre 2021 \| Gli spazi peritoneali
 
 - [13 Ottobre 2021 - Appendiciti epiploiche](caseual_wednesdays/2021-10-13/appendicite_epiploica.html)
 - [13 Ottobre 2021 - Infarto omentale](caseual_wednesdays/2021-10-13/infarto_omentale.html)
 - [13 Ottobre 2021 - Groove Pancreatitis](caseual_wednesdays/2021-10-13/groove_pancreatitis.html)
 
 
-### 10 Novembre 2021 \| Sanguinamenti
+##### 10 Novembre 2021 \| Sanguinamenti
 
 - [10 Novembre 2021 - Cisti emorragica](caseual_wednesdays/2021-11-10/cisti_emorragica.html)
 - [10 Novembre 2021 - Angiomiolipoma emorragico](caseual_wednesdays/2021-11-10/angiomiolipoma_emorragico.html)
 - [10 Novembre 2021 - Tamponamento pericardico](caseual_wednesdays/2021-11-10/tamponamento_pericardico.html)
 
-### 15 Dicembre 2021
+##### 15 Dicembre 2021
+
+- [15 Dicembre 2021 | A]()
+- [15 Dicembre 2021 | B]()
+
+<div style="text-align: right">
+<a href="#caseual-wednesday">⬆️</a>
+</div>
+
+---
+
+#### Come preparsi al Case*ual* Wednesday?
+
+[Caseual Wednesday &rarr; Vademecum](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/how_to_be_caseual_on_wednesday.html)
+
+<div style="text-align: right">
+<a href="#caseual-wednesday">⬆️</a>
+</div>
+
+---
+
+## **ECO-FRIENDLY**
+
+
+
+### Archivio delle presentazioni 
+
+- [2 Marzo 2022 | Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
