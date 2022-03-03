@@ -123,7 +123,7 @@
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 19</div>
+    <div class="numbertext">3 / 19</div>z
     <img src="principi_di_doppler_pulsato_3_of_19.png" style="width: 100%" />
     <div class="text"></div>
   </div>
