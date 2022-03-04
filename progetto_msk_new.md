@@ -34,34 +34,39 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
       - [Referto prefatto](#referto-prefatto)
       - [Referto modello](#referto-modello)
       - [Referto prefatto - Non indicazioni a litoclasia](#referto-prefatto---non-indicazioni-a-litoclasia)
+  - [INFILTRAZIONE ECOGUIDATA DI PRP SU GOMITO](#infiltrazione-ecoguidata-di-prp-su-gomito)
+  - [Indiciazioni cliniche](#indiciazioni-cliniche)
+  - [Materiale](#materiale-2)
+  - [Esecuzione della procedura](#esecuzione-della-procedura-2)
+  - [Refertazione](#refertazione-2)
   - [INFILTRAZIONE ECOGUIDATA DI ANCA](#infiltrazione-ecoguidata-di-anca)
-    - [Materiale](#materiale-2)
-    - [Esecuzione della procedura](#esecuzione-della-procedura-2)
-    - [Refertazione](#refertazione-2)
+    - [Materiale](#materiale-3)
+    - [Esecuzione della procedura](#esecuzione-della-procedura-3)
+    - [Refertazione](#refertazione-3)
       - [Referto prefatto - Acido Ialuronico](#referto-prefatto---acido-ialuronico)
       - [Referto prefatto - Cortisonico + Appuntamento](#referto-prefatto---cortisonico--appuntamento)
       - [Referto prefatto](#referto-prefatto-1)
       - [Referto prefatto](#referto-prefatto-2)
   - [INFILTRAZIONE ECOGRAFIA DI GINOCCHIO](#infiltrazione-ecografia-di-ginocchio)
     - [Indicazioni cliniche](#indicazioni-cliniche-2)
-    - [Materiale](#materiale-3)
-    - [Esecuzione della procedura](#esecuzione-della-procedura-3)
-    - [Refertazione](#refertazione-3)
-      - [Referto prefatto](#referto-prefatto-3)
-  - [DRENAGGIO RACCOLTA SIERO-EMATICA](#drenaggio-raccolta-siero-ematica)
     - [Materiale](#materiale-4)
     - [Esecuzione della procedura](#esecuzione-della-procedura-4)
     - [Refertazione](#refertazione-4)
-      - [Referto prefatto](#referto-prefatto-4)
-  - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
+      - [Referto prefatto](#referto-prefatto-3)
+  - [DRENAGGIO RACCOLTA SIERO-EMATICA](#drenaggio-raccolta-siero-ematica)
     - [Materiale](#materiale-5)
     - [Esecuzione della procedura](#esecuzione-della-procedura-5)
     - [Refertazione](#refertazione-5)
+      - [Referto prefatto](#referto-prefatto-4)
+  - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
+    - [Materiale](#materiale-6)
+    - [Esecuzione della procedura](#esecuzione-della-procedura-6)
+    - [Refertazione](#refertazione-6)
       - [Referto prefatto](#referto-prefatto-5)
   - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
     - [Indicazioni](#indicazioni)
-    - [Materiale](#materiale-6)
-    - [Esecuzione della procedura](#esecuzione-della-procedura-6)
+    - [Materiale](#materiale-7)
+    - [Esecuzione della procedura](#esecuzione-della-procedura-7)
   - [BIBILIOGRAFIA](#bibiliografia)
   - [NOTE](#note)
 
@@ -298,6 +303,32 @@ Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintoma
 
 ---
 
+## INFILTRAZIONE ECOGUIDATA DI PRP SU GOMITO
+
+> Il PRP viene preparato dal laboratorio ospedaliero di ematologia a partire da sangue prelevato dal paziente.
+> Viene fornito in una siringa sterile.
+> Si presenta come un liquido sieroso.
+> Viene conservato in frigorifero alla temperatura di __°C.
+> Prima di poterlo utilizzare deve essere lasciato per un po di tempo a temperatura ambiente (può essere scaldato tra le mani) in modo tale che sia fluido prima di utilizzarlo per l'infiltrazione.
+> Prima della somministrazione è necessario compilare la scheda allegata per valutare che il gruppo sanguigno del paziente sia compatibile.
+
+
+
+## Indiciazioni cliniche
+
+## Materiale
+
+## Esecuzione della procedura
+
+## Refertazione
+
+<div style="text-align: right">
+<a href="#progetto-msk">⬆️</a>
+</div>
+
+
+
+---
 
 
 ## INFILTRAZIONE ECOGUIDATA DI ANCA
