@@ -39,30 +39,31 @@ Progetto di radiologia diagnostica e interventistica muscolo-scheletrica.
   - [Materiale](#materiale-2)
   - [Esecuzione della procedura](#esecuzione-della-procedura-2)
   - [Refertazione](#refertazione-2)
+    - [Referto Prefatto](#referto-prefatto-1)
   - [INFILTRAZIONE ECOGUIDATA DI ANCA](#infiltrazione-ecoguidata-di-anca)
     - [Materiale](#materiale-3)
     - [Esecuzione della procedura](#esecuzione-della-procedura-3)
     - [Refertazione](#refertazione-3)
       - [Referto prefatto - Acido Ialuronico](#referto-prefatto---acido-ialuronico)
       - [Referto prefatto - Cortisonico + Appuntamento](#referto-prefatto---cortisonico--appuntamento)
-      - [Referto prefatto](#referto-prefatto-1)
       - [Referto prefatto](#referto-prefatto-2)
+      - [Referto prefatto](#referto-prefatto-3)
   - [INFILTRAZIONE ECOGRAFIA DI GINOCCHIO](#infiltrazione-ecografia-di-ginocchio)
     - [Indicazioni cliniche](#indicazioni-cliniche-2)
     - [Materiale](#materiale-4)
     - [Esecuzione della procedura](#esecuzione-della-procedura-4)
     - [Refertazione](#refertazione-4)
-      - [Referto prefatto](#referto-prefatto-3)
+      - [Referto prefatto](#referto-prefatto-4)
   - [DRENAGGIO RACCOLTA SIERO-EMATICA](#drenaggio-raccolta-siero-ematica)
     - [Materiale](#materiale-5)
     - [Esecuzione della procedura](#esecuzione-della-procedura-5)
     - [Refertazione](#refertazione-5)
-      - [Referto prefatto](#referto-prefatto-4)
+      - [Referto prefatto](#referto-prefatto-5)
   - [DRENAGGIO CISTI DI BECKER](#drenaggio-cisti-di-becker)
     - [Materiale](#materiale-6)
     - [Esecuzione della procedura](#esecuzione-della-procedura-6)
     - [Refertazione](#refertazione-6)
-      - [Referto prefatto](#referto-prefatto-5)
+      - [Referto prefatto](#referto-prefatto-6)
   - [INIEZIONE ECOGUIDATA DI MEZZO DI CONTRASTO INTRARTICOLARE PER ARTRO-RM](#iniezione-ecoguidata-di-mezzo-di-contrasto-intrarticolare-per-artro-rm)
     - [Indicazioni](#indicazioni)
     - [Materiale](#materiale-7)
@@ -322,6 +323,12 @@ Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintoma
 
 ## Refertazione
 
+### Referto Prefatto
+
+Sotto guida ecografica, mediate ago 22 G, viene effettuata infiltrazione di 1 ml di PRP autologo a livello del tendine inserzionale comune degli estensori di sinistra. 
+Al termine della procedura non si rilevano complizanze ecografiche precoci.
+
+
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
 </div>
@@ -407,6 +414,11 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 
 Con guida ecotomografica, mediante ago Chiba 21G, è stata eseguita l'infiltrazione di sodio ialuronato 75mg/3ml (Coxarthrum) nell'articolazione coxo-femorale di destra.
 Il controllo ecografico post-procedurale non ha dimostrato complicanze maggiori immediate.
+
+---
+
+Sotto guida ecografica, mediante ago Chiba 21 G è stata effettuata infiltrazione di acido ialuronico ad alto peso molcolare nel'articolazione coxofemorale sinistra.
+Al termine della procedura non si rilevano complicanze ecografiche precoci.
 
 ---
 
