@@ -158,7 +158,7 @@ Indicare al paziente di presentarsi portando la documentazione del medico richie
 
 ### Refertazione
 
-
+[Storico &rarr; Infiltrazioni](exam_flowchart/PROGETTO-MSK/elenco-infiltrazioni.md)
 
 <div style="text-align: right">
 <a href="#progetto-msk">⬆️</a>
@@ -260,6 +260,8 @@ Da qui retrocedere, iniettando gradualmente la lidocaina lungo il decorso fino a
 
 ### Refertazione
 
+[Storico &rarr; Litoclasia](exam_flowchart/PROGETTO-MSK/elenco-litoclasie.md)
+
 - Sotto guida ecografica
 - ed inserimento di ago
   - singolo
@@ -322,6 +324,8 @@ Non sono evidenziabili segni TC. In relazione alla netta riduzione della sintoma
 ## Esecuzione della procedura
 
 ## Refertazione
+
+[Infiltrazione &rarr; PRP](exam_flowchart/PROGETTO-MSK/elenco-prp.md)
 
 ### Referto Prefatto
 
@@ -410,6 +414,8 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 
 ### Refertazione
 
+[Storico &rarr; Infiltrazioni](exam_flowchart/PROGETTO-MSK/elenco-infiltrazioni.md)
+
 #### Referto prefatto - Acido Ialuronico
 
 Con guida ecotomografica, mediante ago Chiba 21G, è stata eseguita l'infiltrazione di sodio ialuronato 75mg/3ml (Coxarthrum) nell'articolazione coxo-femorale di destra.
@@ -482,6 +488,8 @@ Si rilane a disposizione.
 
 ### Refertazione
 
+[Storico &rarr; Infiltrazioni](exam_flowchart/PROGETTO-MSK/elenco-infiltrazioni.md)
+
 #### Referto prefatto
 
 
@@ -553,6 +561,8 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 <!--- Differenze tra ago, ago-canula, ago mandrinato et al. -->
 
 ### Refertazione
+
+[Storico &rarr; Drenaggi](exam_flowchart/PROGETTO-MSK/elenco-drenaggi.md)
 
 1. Sotto guida ecografica
 2. Con quale ago?
@@ -656,6 +666,8 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 
 
 ### Refertazione
+
+[Storico &rarr; Drenaggi](exam_flowchart/PROGETTO-MSK/elenco-drenaggi.md)
 
 1. Sotto guida ecografica
 2. Con quale ago?
