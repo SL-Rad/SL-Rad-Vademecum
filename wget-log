@@ -1,0 +1,6 @@
+--2022-03-04 08:55:01--  http://rproj/
+Resolving rproj (rproj)... failed: Name or service not known.
+wget: unable to resolve host address ‘rproj’
+--2022-03-04 08:55:01--  http://srv-tmpweb:8082/PriamoRIS_4_10_1_0/FILE.aspx?operazione=VisualizzaRefertoVersione
+Resolving srv-tmpweb (srv-tmpweb)... failed: Name or service not known.
+wget: unable to resolve host address ‘srv-tmpweb’
