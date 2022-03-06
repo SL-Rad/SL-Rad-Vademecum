@@ -77,15 +77,14 @@ Le allergie ai crostacei una volta erano considerate una controindicazione per i
 
 #### Insufficienza renale
 Il contrasto endovenoso iodato può contribuire al peggioramento della funzione renale, soprattutto nei pazienti con insufficienza renale acuta o cronica.
-Il meccanismo esatto non è chiaro, ma la valutazione delle U&E con un eGFR prima di una TAC con contrasto sarà obbligatoria in molti centri.
+Il meccanismo esatto non è chiaro, ma la valutazione della funzionalità renale tramite un eGFR prima di una TAC con contrasto sarà obbligatoria in molti centri.
 Il rischio di disfunzione renale da contrasto endovenoso è ora ritenuto inferiore a quello che si riteneva una volta.
 
 Nei pazienti con insufficienza renale acuta che richiedono una TAC con contrasto, il team clinico dovrà bilanciare i rischi e i benefici e considerare altre opzioni di indagine o modi per mitigare il rischio, ad esempio la dialisi dopo la procedura.
 I pazienti che sono attualmente in dialisi a lungo termine possono ricevere il contrasto senza rischi.
 
 #### Stravaso di mezzo di contrasto
-Se una cannula non è posizionata correttamente o i tessuti, il contrasto può stravaccare nei tessuti circostanti.
-Questa può essere una grave complicazione e provocare necrosi della pelle e dei tessuti molli.
+Se una canula non è posizionata correttamente o i vasi sono fragili il contrasto può stravaccare nei tessuti circostanti; tale evenienza può provocare necrosi della pelle e dei tessuti molli interessati.
 
 ---
 
