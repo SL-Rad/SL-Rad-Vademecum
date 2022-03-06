@@ -66,12 +66,18 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 		- [TUMORE MAMMELLA (stadiazione & ristadiazione)](#tumore-mammella-stadiazione--ristadiazione)
 		- [TUMORE EMATOLOGICO](#tumore-ematologico)
 		- [ESOFAGEI](#esofagei)
-		- [GASTRICI](#gastrici)
+		- [STOMACO](#stomaco)
+			- [Tumore gastrico](#tumore-gastrico)
 		- [FEGATO](#fegato)
-		- [FEGATO (sospetto Colangiocarcinoma)](#fegato-sospetto-colangiocarcinoma)
+			- [Epatocarcinoma (HCC)](#epatocarcinoma-hcc)
+			- [Colangiocarcinoma](#colangiocarcinoma)
+			- [Angioma](#angioma)
+			- [Adenoma epatico](#adenoma-epatico)
+			- [Iperplasia Nodulare Focale (FNH)](#iperplasia-nodulare-focale-fnh)
 		- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
 		- [TUMORE NEUROENDOCRINO](#tumore-neuroendocrino)
 		- [SURRENI](#surreni)
+			- [Incidentaloma surrenalico](#incidentaloma-surrenalico)
 		- [RENE](#rene)
 			- [TUMORE RENE - Prima Stadiazione](#tumore-rene---prima-stadiazione)
 			- [TUMORE RENE - Ristadiazione](#tumore-rene---ristadiazione)
@@ -621,16 +627,42 @@ Fare sempre le scansioni basali se:
 
 ## FASI
 - Basale
-- Angio-TEP (Bolus-tracking)
-- Arteriosa Angio per aorta(6")
-- Arteriosa vascolare (18"-20")
-- Arteriosa parenchimale (40")
+  - indispensabile come confronto con successive fasi vascolari per la valutazione di emorragie
+  - indispensabile a seguito di ogni alterazione dell'anatomia rispetto ad un precedentse studio
+    - post-interventi chirurgici
+    - post-RFA
+      - a seguito di una RFA deve essere sempre eseguita
+  - importante per valutare la presenza di elementi calcifici o metallici
+    - sufficiente per la ricerca di calcoli renali
+    - sufficiente per ricerca di corpi estranei metallici
+    - discrimina eventuali calcificazioni e clip chirurgiche
+- Arteriosa Angio-TC per TEP (Bolus-tracking)
+  - si usa per rispondere al quesito di tromboembolia polmonare
+- Arteriosa Angio-TC per aorta (6")
+  - si usa per rispondere a quesiti relativi all'aorta
+    - dissecazione aortica
+    - aneurisma aortico
+- Arteriosa vascolare o arteriosa precoce (18"-20")
+  - si usa per valutare la presenza di emorragie
+- Arteriosa parenchimale o arteriosa tardiva (40")
+  - si usa per ricercare metastasi con una forte vascolarizzazione arteriosa
+    - K tiroide
+    - K mammella
+    - K stomaco
+    - K pancreas
+    - K renale a cellule chiare
+    - K retto (secondo alcuni, non univoco)
+    - Melanoma
+    - Tumori Neuroendocrini (NET)
+    - Feocromocitoma
+    - Paraganglioma
 - Portale (80")
-	- deve essere visibile la vena porta e il rene impregnato
+	- deve essere visibile la vena porta e il rene (corticale) impregnato
 - Nefrografica (90")
-- Quadrifasica epatica (Tardiva a 180")
-- Tardiva colangio (6')
-- Tardiva urologica (10'-12')
+  - tutto il parenchima renale deve essere impregnato, non soltanto la corticale
+- Tardiva epatografica o fase di equilibrio (tardiva a 180")
+- Tardiva colangiografica (tardiva a 6')
+- Tardiva urografica (tardiva 10'-12')
 - Bolus Split:
 	- Venosa
 	- Escretrice urologica
@@ -860,9 +892,11 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### GASTRICI
+### STOMACO
 
-- 2 bicchieri di H20 prima dell'esame &rarr; per distendere lo stomaco <br>(chiedere allo strutturato, alcuni non lo ritengono necessario)
+#### Tumore gastrico
+
+500-600 mL (2 bicchieri) di acqua (contrasto negativo) prima dell'esame &rarr; per distendere lo stomaco <br>(chiedere allo strutturato, alcuni non lo ritengono necessario)
 - AS arteriosa (40")
 - TOR + AC portale (80")
 
@@ -873,11 +907,40 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ---
 
 ### FEGATO
+
+#### Epatocarcinoma (HCC)
+
+Digiuno da circa 6 ore prima dell’esame
+Accesso vascolare: 22G (azzurro) } *da confermare ndr*
+Flusso: 2,2 mL/s } *da confermare ndr*
+
 - Quadrifasica HCC (tardiva 180")
-	- AS basale
-	- AS arteriosa parenchimale (40")
-	- AC portale
-	- AS tardiva a 180"
+	- **AS basale**
+	- AS arteriosa vascolare 
+    	- *10" dopo bolus tracking (100 HU)*
+			>La fase arteriosa vascolare non viene mai acquisita, può essere necessaria solo in caso di interventi chirurgici o di radiologia interventistica; presso la nostra Radiologia non deve essere acquisita a meno che non venga esplicitamente richiesta dallo strutturato.
+	- **AS arteriosa parenchimale 40"**
+    	- oppure *18" dopo bolus tracking (100HU)*
+	- **AC portale 80"**
+	- **AS tardiva a 180"**
+- *Se viene richiesto* **TOR** eseguire **in portale 80"**
+
+
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+#### Colangiocarcinoma
+
+- AS basale
+- AS arteriosa parenchimale (40")
+	- oppure *18" dopo bolus tracking (100HU)*
+- AC portale (80")
+- AS tardiva epatica a (180")
+- AS Colangiografica tardiva a (6')
 - Se viene richiesto TOR eseguire in portale (80")
 
 <div style="text-align: right">
@@ -886,14 +949,58 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 ---
 
-### FEGATO (sospetto Colangiocarcinoma)
-- Quadrifasica HCC (tardiva 180")
-	- AS basale
-	- AS arteriosa parenchimale (40")
-	- AC portale
-	- AS tardiva a 180"
-- Colangiografica tardiva a (5'-10')
-- Se viene richiesto TOR eseguire in portale (80")
+#### Angioma
+
+> Un agioma è una formazione benigna e presenta una semeiotica tipica all'ecografia (iperecogeno); valutare attentamente l'appropiatezza della richiesta ed eventualemente convertire l'esame in ecografia.
+> 
+> Non irradiare un soggetto giovane per un quesito di angioma epatico a meno che non siano presenti altri fattori o altri elementi nel quesito diagnostico.
+
+Digiuno da circa 6 ore prima dell’esame
+Accesso vascolare: 22G (azzurro)
+Flusso: 2,2 mL/s
+
+- AS Basale
+  - utile, non indispensabile
+- AS arteriosa parenchimale (40")
+  - oppure *18" dopo bolus tracking (100HU)*
+- AC portale (80")
+- AS tardiva epatica (180")
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+#### Adenoma epatico
+
+Digiuno da circa 6 ore prima dell’esame
+Accesso vascolare: 22G (azzurro)
+Flusso: 2,2 mL/s
+
+- AS Basale
+- AS arteriosa parenchimale
+  - bolus tracking (100 HU) 18" di ritardo post cut-off
+- AC portale 80"
+- AS tardiva epatica 180"
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+#### Iperplasia Nodulare Focale (FNH)
+
+Digiuno da circa 6 ore prima dell’esame
+Accesso vascolare: 22G (azzurro)
+Flusso: 2,2 mL/s
+
+- AS Basale
+- AS arteriosa parenchimale
+  - bolus tracking (100 HU) 18" di ritardo post cut-off
+- AC portale 80"
+- AS tardiva epatica 180"
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -929,8 +1036,18 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 ---
 
 ### SURRENI
+
+#### Incidentaloma surrenalico
+
 - AS HRCT Basale
 	- chiedere allo strutturato se acquisire in ulteriori fasi: studio trifasico.
+
+>Un incidentaloma può essere caratterizzato come adenoma se: 
+>
+> 1) in basale ha una densità inferiore a 10 HU 
+> 2) in portale o tardiva enhancement < 30-35 HU 
+>3) wash-out in tardiva > 50%, calcolato con la seguente formula:
+>*(1 – HU in fase tardiva / HU in fase portale) × 100*
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
