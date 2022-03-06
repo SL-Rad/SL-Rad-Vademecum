@@ -1,1 +1,18 @@
 ![](img/codice-simboli-md.png)
+
+#### Metodo rapido per caricare le modifiche su github dal terminale
+`git add . | git commit -m "mdc tc - testo da rivedere" | git push | clear`
+
+#### Commento html/markdown
+`<!---  -->`
+
+#### Inserire immagini del sito
+`<img style="max-width:720px; width:50%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/ "/>`
+
+#### Apri in nuova tab in markdown
+`{:target="_blank"}`
+
+#### Nuova riga e inserire referto
+`<br>
+``
+`
