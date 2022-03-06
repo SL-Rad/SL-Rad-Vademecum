@@ -70,9 +70,12 @@ Secondo l'ACR Committee on Drugs and Contrast Media, non sono state segnalate co
 ### Complicazioni
 #### Anafilassi
 Il contrasto endovenoso è un liquido iodato che viene iniettato in una vena.
+
 C'è un rischio molto limitato che alcune persone possano avere reazioni anafilattiche al mezzo di contrasto con conseguente aritmia cardiaca e arresto cardiocircolatorio.
 Il rischio di reazioni allergiche al mezzo di contrasto è diminuito negli ultimi anni con i nuovi mezzi di contrasto, ma è ancora reale.
+
 Se un paziente ha avuto una reazione allergica in passato al mezzo di contrasto, può essere premeditato con steroidi e/o antistaminici.
+
 Le allergie ai crostacei una volta erano considerate una controindicazione per il contrasto endovenoso, ma attualmente tale fattore di rischio è stato rivalutato e non è più considerato una controindicazione.
 
 #### Insufficienza renale
