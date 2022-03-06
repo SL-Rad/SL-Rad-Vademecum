@@ -47,6 +47,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [ACCESSO VASCOLARE](#accesso-vascolare)
 		- [Flusso accessi](#flusso-accessi)
 	- [**STRAVASO MDC**](#stravaso-mdc)
+	- [MEZZI DI CONTRASTO](#mezzi-di-contrasto)
 	- [SCANSIONI BASALI](#scansioni-basali)
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
 	- [FASI](#fasi)
@@ -589,6 +590,16 @@ Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è me
 ## **STRAVASO MDC**
 Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula.
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
+## MEZZI DI CONTRASTO
+
+[Approfondimento &rarr; Mezzi di contrasto](https://sl-rad.github.io/SL-Rad-Vademecum/mezzi_di_contrasto/mezzi_di_contrasto_tc.html)
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
