@@ -69,19 +69,21 @@ Secondo l'ACR Committee on Drugs and Contrast Media, non sono state segnalate co
 
 ### Complicazioni
 #### Anafilassi
-Il contrasto endovenoso è un liquido iodato che viene iniettato in una vena. 
-C'è un rischio molto piccolo che alcune persone possano avere reazioni anafilattiche al mezzo di contrasto e in quei casi, l'aritmia cardiaca può portare all'arresto cardiaco. 
-Questo rischio è diminuito negli ultimi anni con i nuovi mezzi di contrasto, ma è ancora reale. 
-Se un paziente ha avuto una reazione allergica in passato al contrasto, può essere premeditato con steroidi e/o antistaminici. 
-Le allergie ai crostacei una volta erano considerate una controindicazione per il contrasto IV, ma questo non è più il caso.
+Il contrasto endovenoso è un liquido iodato che viene iniettato in una vena.
+C'è un rischio molto limitato che alcune persone possano avere reazioni anafilattiche al mezzo di contrasto con conseguente aritmia cardiaca e arresto cardiocircolatorio.
+Il rischio di reazioni allergiche al mezzo di contrasto è diminuito negli ultimi anni con i nuovi mezzi di contrasto, ma è ancora reale.
+Se un paziente ha avuto una reazione allergica in passato al mezzo di contrasto, può essere premeditato con steroidi e/o antistaminici.
+Le allergie ai crostacei una volta erano considerate una controindicazione per il contrasto endovenoso, ma attualmente tale fattore di rischio è stato rivalutato e non è più considerato una controindicazione.
 
 #### Insufficienza renale
-Il contrasto endovenoso iodato può contribuire al peggioramento della funzione renale, soprattutto nei pazienti con insufficienza renale acuta o cronica.
-Il meccanismo esatto non è chiaro, ma la valutazione della funzionalità renale tramite un eGFR prima di una TAC con contrasto sarà obbligatoria in molti centri.
+Il contrasto endovenoso iodato può portare ad un peggioramento della funzione renale soprattutto nei pazienti con una pregressa condizione di insufficienza renale.
+Il meccanismo esatto non è chiaro.
 Il rischio di disfunzione renale da contrasto endovenoso è ora ritenuto inferiore a quello che si riteneva una volta.
+Ciononostante, prima di svolgere un esame TC con mezzo di contrasto è necessario il controllo della dunzionalità renale tramite la valutazione della eGFR.
 
-Nei pazienti con insufficienza renale acuta che richiedono una TAC con contrasto, il team clinico dovrà bilanciare i rischi e i benefici e considerare altre opzioni di indagine o modi per mitigare il rischio, ad esempio la dialisi dopo la procedura.
-I pazienti che sono attualmente in dialisi a lungo termine possono ricevere il contrasto senza rischi.
+Nel caso in cui sia necessario eseguire una TC con mezzo di contrasto in una condizione di urgenza medica è necessario che i Medici coinvolti bilancino i rischi e i benefici cercando di considerare altre opzioni di indagine e possibili strategie per ridurre il rischio di complicazioni come ad esempio l'esecuzione di una dialisi dopo la procedura.
+
+I pazienti già in dialisi a lungo termine possono assumere il mezzo di  contrasto senza ulteriori rischi; solitamente a seguito dell'esame tc viene programmata una seduta di dialisi oppure l'esame viene programmato il giorno stesso della dialisi.
 
 #### Stravaso di mezzo di contrasto
 Se una canula non è posizionata correttamente o i vasi sono fragili il contrasto può stravaccare nei tessuti circostanti; tale evenienza può provocare necrosi della pelle e dei tessuti molli interessati.
