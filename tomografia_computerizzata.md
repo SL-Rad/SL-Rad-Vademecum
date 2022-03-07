@@ -954,8 +954,8 @@ Se viene richiesto **soltanto TOR+mdc** parlare con strutturato per valutare se 
 
 #### Epatocarcinoma (HCC)
 
-Digiuno da circa 6 ore prima dell’esame
-Accesso vascolare: 22G (azzurro) } *da confermare ndr*
+Digiuno da circa 6 ore prima dell’esame <br>
+Accesso vascolare: 22G (azzurro) } *da confermare ndr* <br>
 Flusso: 2,2 mL/s } *da confermare ndr*
 
 - Quadrifasica HCC (tardiva 180")
@@ -999,8 +999,8 @@ Flusso: 2,2 mL/s } *da confermare ndr*
 > 
 > Non irradiare un soggetto giovane per un quesito di angioma epatico a meno che non siano presenti altri fattori o altri elementi nel quesito diagnostico.
 
-Digiuno da circa 6 ore prima dell’esame
-Accesso vascolare: 22G (azzurro)
+Digiuno da circa 6 ore prima dell’esame <br>
+Accesso vascolare: 22G (azzurro) <br>
 Flusso: 2,2 mL/s
 
 - AS Basale
@@ -1018,8 +1018,8 @@ Flusso: 2,2 mL/s
 
 #### Adenoma epatico
 
-Digiuno da circa 6 ore prima dell’esame
-Accesso vascolare: 22G (azzurro)
+Digiuno da circa 6 ore prima dell’esame <br>
+Accesso vascolare: 22G (azzurro) <br>
 Flusso: 2,2 mL/s
 
 - AS Basale
@@ -1036,8 +1036,8 @@ Flusso: 2,2 mL/s
 
 #### Iperplasia Nodulare Focale (FNH)
 
-Digiuno da circa 6 ore prima dell’esame
-Accesso vascolare: 22G (azzurro)
+Digiuno da circa 6 ore prima dell’esame <br>
+Accesso vascolare: 22G (azzurro) <br>
 Flusso: 2,2 mL/s
 
 - AS Basale
