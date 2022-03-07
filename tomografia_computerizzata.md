@@ -1457,6 +1457,14 @@ La linea guida **non si applica**
 - ai pazienti di età inferiore ai 35 anni 
 - ai pazienti con una storia di cancro primario o immunosoppressione.
 
+| Diametro nodulo | Basso rischio | Alto rischio |
+|---|---|---|
+| < 4 mm | no follow-up (FU) | TC a 12 mesi, se stabile stop FU |
+| 4 - 6 mm | TC a 12 mesi, se stabile stop FU | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi |
+| 6 - 8 mm | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi | TC a 3-6 mesi, se stabile ricontrollo TC a 9-12 mesi e poi a 24 mesi |
+| > 8 mm | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET |
+
+>FU = Follow-Up
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
