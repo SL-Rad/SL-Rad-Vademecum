@@ -563,16 +563,26 @@ Nel caso di pazienti MONORENE con GFR 45-50:
 - Accesso rosa &rarr; 20G
 - Accesso azzurro &rarr; 22G
 
-Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica (circa 30cc). 
+Nel caso in cui si abbiano dei dubbi su di un accesso vascolare si fa prima un lavaggio con fisiologica (circa 30cc).
+
 Durante il lavaggio il tecnico o un medico sta accanto al paziente per valutare il vaso.
+
 Il lavaggio può essere avviato sia dall'iniettore nella sala della macchina che dalla console.  
-Sul monitor dell'iniettore del mdc alla console un grafico indica la pressione nelle canaline (e nel vaso), la pressione (psi) deve essere inferiore alla linea superiore.  
+
+Sul monitor dell'iniettore del mdc alla console un grafico indica la pressione nelle canaline (e nel vaso), la pressione (psi) deve essere inferiore alla linea superiore.
+
 > Un'eventuale fase basale va acquisita prima di provare l'accesso per evitare che del mdc rimasto nelle canaline passi in circolo e crei delle false immagini.
+
+> Se il paziente è un ricoverato e scende dal reparto:
+> - deve avere già un'accesso vascolare idoneo posizionato
+> - far controllare l'accesso dagli Infermieri della Radiologia prima di utilizzarlo; frequentemente gli accessi posizionati in reparto sono inadeguati e possono portare a stravaso di mdc
 
 ### Flusso accessi
 
-Gli **esami arteriosi** richiedono un *flusso maggiore* di mdc (fino a 5cc/min) e spesso in questi esami la somministrazione di mdc è seguita da un bolo di fisologica (30cc) che spinge il mezzo di contrasto. 
-Il volume in cui il mdc dovrà distribuirsi è minore e quindi si usano *volumi inferiori di mdc*.  
+Gli **esami arteriosi** richiedono un *flusso maggiore* di mdc (fino a 5cc/min) e spesso in questi esami la somministrazione di mdc è seguita da un bolo di fisologica (30cc) che spinge il mezzo di contrasto.
+
+Il volume in cui il mdc dovrà distribuirsi è minore e quindi si usano *volumi inferiori di mdc*.
+
 Nelle **fasi venose** non è necessario un bolo compatto di mdc e quindi si utilizzano *flussi minori* ma *maggiori volumi di mdc* (130cc).
 
 - Fase arteriosa vascolare &rarr; flusso mdc = 4cc/sec - 4,5cc/sec / - 5cc/sec
@@ -595,6 +605,11 @@ Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è me
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula.
 
 Il protocollo da seguire si trova nella sala macchine della TC in Radiologia Centrale all'interno della `CARTELLA NERA` con tutta la modulistica nei ripiani in basso nel tavolo del PC con l'agenda.
+
+- Ialuronidasi 1,5-2
+- Infiltrare flebocortid da 100mg (1 fiala da 2mL) con un ago di piccolo calibro intorno alla lesione.
+- Fare un impacco con cortisonico in crema
+- Mettere ghiaccio sulla zona coinvolta
 
 ### PROTOCOLLO STRAVASO
 
@@ -621,15 +636,15 @@ Il protocollo da seguire si trova nella sala macchine della TC in Radiologia Cen
 [Approfondimento &rarr; Mezzi di contrasto](https://sl-rad.github.io/SL-Rad-Vademecum/mezzi_di_contrasto/mezzi_di_contrasto_tc.html)
 
 | Concentrazione Iodio in mdc | 320 mg I/mL | 350 mg I/mL | 370 mg I/mL | 400 mg I/mL |
-| --------------------------- | ----------- | ----------- | ----------- | ----------- ||
+| --------------------------- | ----------- | ----------- | ----------- | ----------- |
 | Posologia                   | 2 mL/kg     | 1.8 mL/kg   | 1.7 mL/kg   | 1.6 mL/kg   |
 
 | PESO PAZIENTE / [ mdc ] |  45   |  50   |  55   |  60   |  65   |  70   |  75   |  80   |  85   |  90   |  95   |  100  |  105  |  110  |
 | :---------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|           320           |  80   |  90   |  100  |  110  |  120  |  130  |  140  |  150  |  160  |  170  |  180  |  190  |  200  |  210  |  220  |
-|           350           |  72   |  81   |  90   |  99   |  108  |  117  |  126  |  135  |  144  |  153  |  162  |  171  |  180  |  189  |  198  |
-|           370           |  38   |  77   |  85   |  94   |  102  |  11   |  119  |  128  |  136  |  145  |  153  |  162  |  170  |  179  |  187  |
-|           400           |  64   |  72   |  80   |  83   |  96   |  104  |  112  |  120  |  128  |  136  |  144  |  152  |  160  |  168  |  176  |
+|         **320**         |  80   |  90   |  100  |  110  |  120  |  130  |  140  |  150  |  160  |  170  |  180  |  190  |  200  |  210  |  220  |
+|         **350**         |  72   |  81   |  90   |  99   |  108  |  117  |  126  |  135  |  144  |  153  |  162  |  171  |  180  |  189  |  198  |
+|         **370**         |  38   |  77   |  85   |  94   |  102  |  11   |  119  |  128  |  136  |  145  |  153  |  162  |  170  |  179  |  187  |
+|         **400**         |  64   |  72   |  80   |  83   |  96   |  104  |  112  |  120  |  128  |  136  |  144  |  152  |  160  |  168  |  176  |
 
 > [ I ] = Concentrazione di iodio
 > [ mdc ] = Concentrazione del mezzo di contrasto
