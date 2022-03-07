@@ -603,7 +603,9 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula
 
 |Concentrazione Iodio in mdc| 320 mg I/mL | 350 mg I/mL | 370 mg I/mL | 400 mg I/mL |
 |---|---|---|---|---|---|
-|Posologia| 2 mL/kg | 1.8 mL/kg | 1.7 mL/kg | 1.6 mL/kg |c
+|Posologia| 2 mL/kg | 1.8 mL/kg | 1.7 mL/kg | 1.6 mL/kg |
+
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
