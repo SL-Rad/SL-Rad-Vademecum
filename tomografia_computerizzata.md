@@ -1455,7 +1455,7 @@ Le raccomandazioni sui noduli polmonari della Fleischner Society riguardano il *
 La linea guida **non si applica**
 - allo screening del cancro ai polmoni
 - ai pazienti di età inferiore ai 35 anni 
-- ai pazienti con una storia di cancro primario o immunosoppressione.
+- ai pazienti con una storia di cancro primario o immunosoppressione
 
 | Diametro nodulo | Basso rischio | Alto rischio |
 |---|---|---|
@@ -1465,6 +1465,13 @@ La linea guida **non si applica**
 | > 8 mm | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET |
 
 >FU = Follow-Up
+>
+> Basso Rischio = non fumatore (o minimo fumatore) senza ulteriori fattori di rischio
+> 
+> Alto Rischio = fumatore o altri fattori
+> 
+> Fattori di rischio = anamnewsi familiare di tumore polmonare nei parenti di primo grado; esposizione ad asbesto, radon o uranio.
+
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
