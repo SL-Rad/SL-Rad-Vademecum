@@ -605,7 +605,15 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula
 |---|---|---|---|---|---|
 |Posologia| 2 mL/kg | 1.8 mL/kg | 1.7 mL/kg | 1.6 mL/kg |
 
+| PESO PAZIENTE / [ mdc ] | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 | 105 | 110 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+| 320 | 80 | x | 100 | 110 | 120 | 130 | 140 | 150 | 160 | 170 | 180 | 190 | 200 | 210 | 220 |
+| 350 | 72 | 81 | 90 | 99 |  108 | 117 | 126 | 135 | 144 | 153 | 162 | 171 | 180 | 189 | 198 |
+| 370 | 38 | 77 | 85 | 94 | 102 | 11 | 119 | 128 | 136 | 145 | 153 | 162 | 170 | 179 | 187 |
+| 400 | 64 | 72 | 80 | 83 | 96 | 104 | 112 | 120 | 128 | 136 | 144 | 152 | 160 | 168 | 176 |
 
+> [ I ] = Concentrazione di iodio
+> [ mdc ] = Concentrazione del mezzo di contrasto
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
