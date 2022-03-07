@@ -1464,13 +1464,13 @@ La linea guida **non si applica**
 | 6 - 8 mm | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi | TC a 3-6 mesi, se stabile ricontrollo TC a 9-12 mesi e poi a 24 mesi |
 | > 8 mm | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET |
 
->FU = Follow-Up
+> **FU** = Follow-Up
 >
-> Basso Rischio = non fumatore (o minimo fumatore) senza ulteriori fattori di rischio
+> **Basso Rischio** = non fumatore (o minimo fumatore) senza ulteriori fattori di rischio
 > 
-> Alto Rischio = fumatore o altri fattori
+> **Alto Rischio** = fumatore o altri fattori
 > 
-> Fattori di rischio = anamnewsi familiare di tumore polmonare nei parenti di primo grado; esposizione ad asbesto, radon o uranio.
+> **Fattori di rischio** = anamnewsi familiare di tumore polmonare nei parenti di primo grado; esposizione ad asbesto, radon o uranio.
 
 
 <div style="text-align: right">
