@@ -1464,6 +1464,8 @@ La linea guida **non si applica**
 | 6 - 8 mm | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi | TC a 3-6 mesi, se stabile ricontrollo TC a 9-12 mesi e poi a 24 mesi |
 | > 8 mm | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET |
 
+> Un nodulo non solido o solo parzialmente solido o a ground-glass (GGO) può richiedere un tempo di follow-up maggiore per escludere un adenocarcinoma indolente.
+
 > **FU** = Follow-Up
 >
 > **Basso Rischio** = non fumatore (o minimo fumatore) senza ulteriori fattori di rischio
