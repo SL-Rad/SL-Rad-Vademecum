@@ -78,7 +78,8 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 			- [Angioma](#angioma)
 			- [Adenoma epatico](#adenoma-epatico)
 			- [Iperplasia Nodulare Focale (FNH)](#iperplasia-nodulare-focale-fnh)
-		- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
+		- [PANCREAS](#pancreas)
+			- [TUMORE PANCREAS (Stadiazione)](#tumore-pancreas-stadiazione)
 		- [TUMORE NEUROENDOCRINO](#tumore-neuroendocrino)
 		- [SURRENI](#surreni)
 			- [Incidentaloma surrenalico](#incidentaloma-surrenalico)
@@ -607,6 +608,7 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula
 Il protocollo da seguire si trova nella sala macchine della TC in Radiologia Centrale all'interno della `CARTELLA NERA` con tutta la modulistica nei ripiani in basso nel tavolo del PC con l'agenda.
 
 - Ialuronidasi 1,5-2
+  - iniettare nella canula
 - Infiltrare flebocortid da 100mg (1 fiala da 2mL) con un ago di piccolo calibro intorno alla lesione.
 - Fare un impacco con cortisonico in crema
 - Mettere ghiaccio sulla zona coinvolta
@@ -1067,7 +1069,9 @@ Flusso: 2,2 mL/s
 
 ---
 
-### TUMORE PANCREAS (Stadiazione)
+### PANCREAS
+
+#### TUMORE PANCREAS (Stadiazione)
 - AS basale
 - AS arterioso parenchimale (40")
 - AC portale (80")
