@@ -16,8 +16,16 @@
 
 - [MEZZI DI CONTRASTO TC](#mezzi-di-contrasto-tc)
 		- [Descrizione generale](#descrizione-generale)
+		- [Fisica](#fisica)
+		- [Mezzi di contrasto iodati - Solubili in acqua](#mezzi-di-contrasto-iodati---solubili-in-acqua)
+			- [Mezzi di contrasto ad alta osmolalità](#mezzi-di-contrasto-ad-alta-osmolalità)
+			- [Mezzi di contrasto a bassa osmolalità](#mezzi-di-contrasto-a-bassa-osmolalità)
+		- [Mezzi di contrasto insolubile in acqua](#mezzi-di-contrasto-insolubile-in-acqua)
 		- [Comportamento del mezzo di contrasto](#comportamento-del-mezzo-di-contrasto)
 		- [Accesso endovascolare appropriato](#accesso-endovascolare-appropriato)
+		- [Controindicazioni](#controindicazioni)
+			- [Assolute](#assolute)
+			- [Relative](#relative)
 		- [Complicazioni](#complicazioni)
 			- [Anafilassi](#anafilassi)
 			- [Insufficienza renale](#insufficienza-renale)
@@ -28,7 +36,7 @@
 	- [IOMERON 350](#iomeron-350)
 			- [Descrizione](#descrizione)
 			- [Modo di somministrazione](#modo-di-somministrazione)
-			- [Controindicazioni](#controindicazioni)
+			- [Controindicazioni](#controindicazioni-1)
 			- [Altre formulazioni disponibili](#altre-formulazioni-disponibili)
 	- [BIBILIOGRAFIA](#bibiliografia)
 	- [NOTE](#note)
@@ -37,6 +45,48 @@
 
 ### Descrizione generale
 I mezzi di contrasto endovenosi (xEV) utilizzati in tomografia computerizzata sono un ampio gruppo di preparazioni chimiche sviluppate per permettere la caratterizzazione delle patologie migliorando la capacità di differenziare tra i diversi tessuti biologici.
+
+### Fisica
+La capacità di distinguere tra tessuti in relazione ad una diversa attenuazione dei raggi X (contrasto dell'immagine) dipende da due tipi di interazioni tra fotoni e materia: 
+- la diffusione Compton 
+- l'assorbimento fotoelettrico
+
+Entrambe queste interazioni dipendono dalla densità fisica, ma quest'ultima dipende anche dal numero atomico della materia. 
+Poiché lo iodio ha un numero atomico elevato, 53, rispetto alla maggior parte dei tessuti del corpo, la somministrazione di materiale iodato produce un contrasto d'immagine dovuto all'assorbimento fotoelettrico differenziale.
+
+Lo iodio ha un vantaggio particolare come agente di contrasto perché l'energia di legame del guscio k (k-edge) è di 33,2 keV, simile all'energia media dei raggi X usati nella radiografia diagnostica.
+Quando l'energia dei raggi X incidente è più vicina al k-edge dell'atomo che incontra, l'assorbimento fotoelettrico è più probabile.
+
+Le differenze nell'assorbimento fotoelettrico tra le diverse energie dei raggi X vengono sfruttate nella TC a doppia energia, in cui i pazienti vengono scansionati con due diversi spettri di raggi X.
+Le tecniche di decomposizione del materiale permettono la creazione di immagini virtuali in cui lo iodio è preferibilmente aumentato di intensità (mappa dello iodio) o rimosso del tutto (non-contrasto virtuale), che possono avere un valore diagnostico aggiuntivo.
+
+### Mezzi di contrasto iodati - Solubili in acqua
+I mezzi di contrasto iodati solubili in acqua possono essere classificati per osmolalità.
+
+#### Mezzi di contrasto ad alta osmolalità
+I mezzi di contrasto ad alta osmolalità (HOCM) sono circa da cinque a otto volte l'osmolalità del siero. In generale, gli HOCM sono composti ionici che includono un anello benzenico con tre atomi di iodio e una catena laterale contenente un gruppo acido carbossilico (-COOH). Come la prima generazione di agenti di contrasto iodati, gli HOCM sono stati associati ad alti tassi di eventi avversi e sono caduti in disgrazia negli anni '90 per scopi intravascolari e intratecali. Gli HOCM rimangono utilizzati per la somministrazione gastrointestinale e cistouretrale, compresi i seguenti agenti:
+
+diatrizoato sodio/meglumina (Gastrografin, MD-Gastroview, Cystografin)
+iotalamato sodico/meglumina (Conray, Cysto-Conray)
+
+#### Mezzi di contrasto a bassa osmolalità
+I mezzi di contrasto a bassa osmolalità (LOCM) sono meno di tre volte l'osmolalità del siero umano e sono preferiti per la somministrazione intravascolare e intratecale. I LOCM moderni sono generalmente, ma non sempre, monomeri non ionici composti da anelli benzenici tri-iodati con varie catene laterali che contengono gruppi alcolici polari (-OH) che li rendono solubili in acqua 3. LOCM in uso corrente includono i seguenti:
+
+iopamidolo (Isovue)
+ioesolo (Omnipaque)
+iopromide (Ultravist)
+ioversol (Optiray)
+ioxilan (Oxilan)
+La categoria LOCM include anche i mezzi di contrasto iso-osmolali (IOCM), che hanno approssimativamente la stessa osmolalità del siero. L'unico IOCM in uso corrente è un dimero non ionico, che è composto da due anelli benzenici tri-iodati legati covalentemente:
+
+iodixanolo (Visipaque)
+La struttura dimerica dello iodixanolo si adatta a una maggiore concentrazione di atomi di iodio per osmole, permettendo livelli diagnostici di opacizzazione del contrasto a un'osmolalità meno tossica.
+
+I LOCM non ionici sono disponibili in concentrazioni variabili da 240 a 400 mg di iodio/mL. Le formulazioni a più alta concentrazione producono un maggiore picco di miglioramento (misurato in unità Hounsfield) ma sono anche più viscose.
+
+### Mezzi di contrasto insolubile in acqua
+I mezzi di contrasto iodati insolubili in acqua hanno usi limitati. L'unico agente attualmente approvato è l'olio di semi di papavero etidato (Lipiodol), che viene utilizzato per l'embolo/scleroterapia e l'isterosalpingografia. Un agente iodato insolubile in acqua storicamente popolare, ma ora interrotto, era lo iofendilato (Pantopaque/Myodil), usato per la mielografia.
+
 
 ### Comportamento del mezzo di contrasto
 Una volta iniettato il MdC endovenoso scorre all'interno del circolo vascolare con una cinetica prevedibile:
@@ -66,6 +116,20 @@ Alcuni esami non richiedono l'iniezione della pompa perché l'imaging postcontra
 Nel contesto del malato critico in cui l'accesso endovenoso non è possibile, il contrasto iodato può essere somministrato tramite un'iniezione intraossea.
 I tassi di pressione devono essere elevati a causa della pressione intramidollare all'interno dell'osso.
 Secondo l'ACR Committee on Drugs and Contrast Media, non sono state segnalate complicazioni delle iniezioni intraossee a 5 mL/s.
+
+
+### Controindicazioni
+#### Assolute
+- documentata precedente reazione grave ai mezzi di contrasto iodati, compresi
+  - anafilassi
+  - angioedema
+  - broncospasmo
+
+#### Relative
+- precedenti reazioni lievi a mezzi di contrasto/eccipienti iodati
+- insufficienza renale
+- fattori di rischio per reazione allergica ai mezzi di contrasto iodati
+- miastenia gravis: controindicazione controversa e tuttora presente solo in alcune schede informative dei prodotti e delle linee guida
 
 ### Complicazioni
 #### Anafilassi
@@ -206,6 +270,7 @@ In generale, **l’esame con il mezzo di contrasto non deve essere ripetuto prim
 ## BIBILIOGRAFIA
 
 - [Radiopaedia - CT Intravenous Contrast Media](https://radiopaedia.org/articles/ct-intravenous-contrast-media){:target="_blank"}
+- [Radiopaedia - Iodinated Contrast Media](https://radiopaedia.org/articles/iodinated-contrast-media-1){:target="_blank"}
 - [ACR - Manual on Contrast Medica](https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf){:target="_blank"}
 - [Torrinomedica - Scheda Tecnica Iomeron](https://www.torrinomedica.it/schede-farmaci/iomeron/){:target="_blank"}
 - [Codifa - Scheda Tecnica Iomeron](https://www.codifa.it/farmaci/i/iomeron-iomeprolo-mezzi-di-contrasto){:target="_blank"}
@@ -216,5 +281,4 @@ In generale, **l’esame con il mezzo di contrasto non deve essere ripetuto prim
 ---
 
 ## NOTE
-
 
