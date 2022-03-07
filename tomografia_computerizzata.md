@@ -1088,9 +1088,12 @@ Flusso: 2,2 mL/s
 
 >Un incidentaloma può essere caratterizzato come adenoma se: 
 >
-> 1) in basale ha una densità inferiore a 10 HU 
-> 2) in portale o tardiva enhancement < 30-35 HU 
->3) wash-out in tardiva > 50%, calcolato con la seguente formula:
+> 1) in basale ha una densità inferiore a 10 HU
+> 
+> 2) in portale o tardiva enhancement < 30-35 HU
+> 
+> 3) wash-out in tardiva > 50%, calcolato con la seguente formula:
+>
 >*(1 – HU in fase tardiva / HU in fase portale) × 100*
 
 <div style="text-align: right">
