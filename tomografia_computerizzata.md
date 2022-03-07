@@ -47,6 +47,9 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [ACCESSO VASCOLARE](#accesso-vascolare)
 		- [Flusso accessi](#flusso-accessi)
 	- [**STRAVASO MDC**](#stravaso-mdc)
+		- [PROTOCOLLO STRAVASO](#protocollo-stravaso)
+			- [Stravaso di mezzo di contrasto iodato ≥ 5 mL:](#stravaso-di-mezzo-di-contrasto-iodato--5-ml)
+			- [Stravaso di mezzo di contrasto iodato ≥ 30 mL:](#stravaso-di-mezzo-di-contrasto-iodato--30-ml)
 	- [MEZZI DI CONTRASTO](#mezzi-di-contrasto)
 	- [SCANSIONI BASALI](#scansioni-basali)
 	- [CONCERTO - ESAMI LABORATORIO OSPEDALE](#concerto---esami-laboratorio-ospedale)
@@ -588,8 +591,24 @@ Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è me
 ---
 
 ## **STRAVASO MDC**
-Protocollo nella `CARTELLA NERA` sotto il PC centrale con le varie medicazioni.
+
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula.
+
+Il protocollo da seguire si trova nella sala macchine della TC in Radiologia Centrale all'interno della `CARTELLA NERA` con tutta la modulistica nei ripiani in basso nel tavolo del PC con l'agenda.
+
+### PROTOCOLLO STRAVASO
+
+#### Stravaso di mezzo di contrasto iodato ≥ 5 mL:
+- fare **impacchi di ghiaccio** tre volte al giorno per 1-3 giorni.
+- **non tenere** sulla zona interessata **materiali inzuppati o umidi** per troppo tempo al fine di evitare il **rischio di macerazione** dei tessuti.
+- **controllare ogni giorno** la zona interessata sino alla scomparsa dei segni di infiammazione (rossore, gondiore, dolore)
+- **rivolgersi al proprio medico curante** in caso di aumentato dolore, gonfiore o rossore locale.
+
+#### Stravaso di mezzo di contrasto iodato ≥ 30 mL:
+- applicare **crema cortisonica** ogni 6 ore per 7 giorni.
+- **non tenere** sulla zona interessata **materiali inzuppati o umidi** per troppo tempo al fine di evitare il **rischio di macerazione** dei tessuti.
+- **controllare ogni giorno** la zona interessata sino alla scomparsa dei segni di infiammazione (rossore, gondiore, dolore)
+- **rivolgersi al proprio medico curante** in caso di aumentato dolore, gonfiore o rossore locale.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
@@ -601,16 +620,16 @@ Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula
 
 [Approfondimento &rarr; Mezzi di contrasto](https://sl-rad.github.io/SL-Rad-Vademecum/mezzi_di_contrasto/mezzi_di_contrasto_tc.html)
 
-|Concentrazione Iodio in mdc| 320 mg I/mL | 350 mg I/mL | 370 mg I/mL | 400 mg I/mL |
-|---|---|---|---|---|---|
-|Posologia| 2 mL/kg | 1.8 mL/kg | 1.7 mL/kg | 1.6 mL/kg |
+| Concentrazione Iodio in mdc | 320 mg I/mL | 350 mg I/mL | 370 mg I/mL | 400 mg I/mL |
+| --------------------------- | ----------- | ----------- | ----------- | ----------- ||
+| Posologia                   | 2 mL/kg     | 1.8 mL/kg   | 1.7 mL/kg   | 1.6 mL/kg   |
 
-| PESO PAZIENTE / [ mdc ] | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 85 | 90 | 95 | 100 | 105 | 110 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-| 320 | 80 | 90 | 100 | 110 | 120 | 130 | 140 | 150 | 160 | 170 | 180 | 190 | 200 | 210 | 220 |
-| 350 | 72 | 81 | 90 | 99 |  108 | 117 | 126 | 135 | 144 | 153 | 162 | 171 | 180 | 189 | 198 |
-| 370 | 38 | 77 | 85 | 94 | 102 | 11 | 119 | 128 | 136 | 145 | 153 | 162 | 170 | 179 | 187 |
-| 400 | 64 | 72 | 80 | 83 | 96 | 104 | 112 | 120 | 128 | 136 | 144 | 152 | 160 | 168 | 176 |
+| PESO PAZIENTE / [ mdc ] |  45   |  50   |  55   |  60   |  65   |  70   |  75   |  80   |  85   |  90   |  95   |  100  |  105  |  110  |
+| :---------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|           320           |  80   |  90   |  100  |  110  |  120  |  130  |  140  |  150  |  160  |  170  |  180  |  190  |  200  |  210  |  220  |
+|           350           |  72   |  81   |  90   |  99   |  108  |  117  |  126  |  135  |  144  |  153  |  162  |  171  |  180  |  189  |  198  |
+|           370           |  38   |  77   |  85   |  94   |  102  |  11   |  119  |  128  |  136  |  145  |  153  |  162  |  170  |  179  |  187  |
+|           400           |  64   |  72   |  80   |  83   |  96   |  104  |  112  |  120  |  128  |  136  |  144  |  152  |  160  |  168  |  176  |
 
 > [ I ] = Concentrazione di iodio
 > [ mdc ] = Concentrazione del mezzo di contrasto
@@ -1216,6 +1235,31 @@ Se viene richiesto anche il TOR eseguire in nefrografica (90")
 ---
 
 #### COLON TC - COLONSCOPIA VIRTUALE (CV)
+
+Prepazaione per la Colonscopia Virtualle con COLON-PEG:
+- **Non assumere cibi con fibre** nei tre giorni precedenti la colonscopia: frutta, verdura, patate con buccia, riso, legumi, alimenti integrali, carni rosse o dure e fibrose, frutta secca, confetture, marmellate, olive, sottaceti, succhi di frutta e verdura
+- Nei tre giorni precedenti all'esame **sono utilizzabili**: carne magra, prosciutto, pesce, pane bianco, patate sbucciate, uova, burro, gelato, formaggi, yogurt, latte, gelatine, miele, brodo di carne, bevande limpide (tè, camomilla, tisane) e analcoliche
+- **Evitare farmaci a base di ferro** e **carbone vegetale**
+- Acquistare in farmacia:
+  - **COLON-PEG** - 1 confezione da due bustine
+  - **CLISMA LAX** - 1 confezione
+- **Bere 1 - 1,5 L di acqua** nei due giorni antecedenti l'esame per facilitare il lavaggio della parete colica.
+
+| GIORNO PRECEDENTE L'ESAME |                                                    |
+| :-----------------------: | -------------------------------------------------- |
+|           12:00           | Pranzo leggero con alimenti permessi               |
+|           14:00           | Bere una busta di COLON-PEG diluita in 1 L d'acqua |
+|           16:00           | 1 o più bichieri d'acqua                           |
+|           18:00           | Bere una busta di COLON-PEG diluita in 1 L d'acqua |
+|           20:00           | Cena leggera con gli alimenti permessi             |
+|           21:00           | 1 o più bichieri d'acqua                           |
+|           22:00           | 1 o più bichieri d'acqua                           |
+
+| GIORNO DELL'ESAME |                         |
+| :---------------: | ----------------------- |
+|       07:00       | Praticare un CLISMA LAX |
+
+- Presentarsi in Ospedale portando con sé 1L di acqua naturale
 - 30mL Grafin in 1L di H20 2h prima dell'esame
 - Buscopan 30 min prima dell'esame
 
@@ -1457,12 +1501,12 @@ La linea guida **non si applica**
 - ai pazienti di età inferiore ai 35 anni 
 - ai pazienti con una storia di cancro primario o immunosoppressione
 
-| Diametro nodulo | Basso rischio | Alto rischio |
-|---|---|---|
-| < 4 mm | no follow-up (FU) | TC a 12 mesi, se stabile stop FU |
-| 4 - 6 mm | TC a 12 mesi, se stabile stop FU | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi |
-| 6 - 8 mm | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi | TC a 3-6 mesi, se stabile ricontrollo TC a 9-12 mesi e poi a 24 mesi |
-| > 8 mm | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET |
+| Diametro nodulo | Basso rischio                                               | Alto rischio                                                         |
+| --------------- | ----------------------------------------------------------- | -------------------------------------------------------------------- |
+| < 4 mm          | no follow-up (FU)                                           | TC a 12 mesi, se stabile stop FU                                     |
+| 4 - 6 mm        | TC a 12 mesi, se stabile stop FU                            | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi               |
+| 6 - 8 mm        | TC a 6-12 mesi, se stabile ricontrollo TC a 18-24 mesi      | TC a 3-6 mesi, se stabile ricontrollo TC a 9-12 mesi e poi a 24 mesi |
+| > 8 mm          | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET | TC a 3, a 9 e a 24 mesi; valutare se eseguire biopsia o PET          |
 
 > Un nodulo non solido o solo parzialmente solido o a ground-glass (GGO) può richiedere un tempo di follow-up maggiore per escludere un adenocarcinoma indolente.
 
@@ -1472,7 +1516,10 @@ La linea guida **non si applica**
 > 
 > **Alto Rischio** = fumatore o altri fattori
 > 
-> **Fattori di rischio** = anamnewsi familiare di tumore polmonare nei parenti di primo grado; esposizione ad asbesto, radon o uranio.
+> **Fattori di rischio** = anamnesi familiare di tumore polmonare nei parenti di primo grado; esposizione ad asbesto, radon o uranio.
+
+-[Radiographics - Updated Fleischner Society Guidelines for Managing Incidental Pulmonary Nodules: Common Questions and Challenging Scenarios](https://pubs.rsna.org/doi/10.1148/rg.2018180017)
+- [Radiology Assistant - Fleischner 2017 guideline](https://radiologyassistant.nl/chest/plumonary-nodules/fleischner-2017-guideline)
 
 
 <div style="text-align: right">
