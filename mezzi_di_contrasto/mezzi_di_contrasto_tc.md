@@ -31,6 +31,8 @@
 		- [Anafilassi](#anafilassi)
 		- [Insufficienza renale](#insufficienza-renale)
 		- [Stravaso di mezzo di contrasto](#stravaso-di-mezzo-di-contrasto)
+		- [SOMMINISTRAZIONE DI MDC A BASE DI IODIO E GADOLINIO NELLA STESSA GIORNATA](#somministrazione-di-mdc-a-base-di-iodio-e-gadolinio-nella-stessa-giornata)
+	- [> Nel caso di studi congiunti del basso addome conviene acquisire prima le immagini di TC e successivamente quelle di RM.](#-nel-caso-di-studi-congiunti-del-basso-addome-conviene-acquisire-prima-le-immagini-di-tc-e-successivamente-quelle-di-rm)
 	- [ULTRAVIST 370](#ultravist-370)
 		- [Reazioni avverse](#reazioni-avverse)
 		- [Reazioni allergiche](#reazioni-allergiche)
@@ -194,6 +196,19 @@ Se una canula non è posizionata correttamente o i vasi sono fragili il contrast
 
 ---
 
+### SOMMINISTRAZIONE DI MDC A BASE DI IODIO E GADOLINIO NELLA STESSA GIORNATA
+
+|          |                        |
+| -------- | ---------------------- |
+| GFR > 30 | Attendere almeno 4 ore |
+| GFR < 30 | Attendere 7 giorni     |
+
+> Il gadolinio viene escreto al 75% entro 4 ore dalla somministrazione.
+
+> Il gadolinio è radiopaco e può essere rendere radiopache le urine.
+> Nel caso di studi congiunti del basso addome conviene acquisire prima le immagini di TC e successivamente quelle di RM.
+---
+
 ## ULTRAVIST 370
 
 [Scheda Tecnica &rarr; Torrinomedica - Ultravist](https://www.torrinomedica.it/schede-farmaci/ultravist/){:target="_blank"}
@@ -309,6 +324,7 @@ In generale, **l’esame con il mezzo di contrasto non deve essere ripetuto prim
 - [Radiopaedia - CT Intravenous Contrast Media](https://radiopaedia.org/articles/ct-intravenous-contrast-media){:target="_blank"}
 - [Radiopaedia - Iodinated Contrast Media](https://radiopaedia.org/articles/iodinated-contrast-media-1){:target="_blank"}
 - [ACR - Manual on Contrast Medica](https://www.acr.org/-/media/ACR/Files/Clinical-Resources/Contrast_Media.pdf){:target="_blank"}
+- [ESUR Guidelines on Contrast Agents](https://www.esur.org/fileadmin/content/2019/ESUR_Guidelines_10.0_Final_Version.pdf)
 - [Torrinomedica - Scheda Tecnica Iomeron](https://www.torrinomedica.it/schede-farmaci/iomeron/){:target="_blank"}
 - [Codifa - Scheda Tecnica Iomeron](https://www.codifa.it/farmaci/i/iomeron-iomeprolo-mezzi-di-contrasto){:target="_blank"}
 - [Torrinomedica - Scheda Tecnica Ultravist](https://www.torrinomedica.it/schede-farmaci/ultravist/){:target="_blank"}
