@@ -411,6 +411,9 @@ Per la procedura è utile essere in due; l'**operatore** lavora in sterilità e 
 - Mettere un cerotto (**Cosmopor E**: *7,2 cm x 5 cm*)
 
 > Non si somministra acido ialuronico su di una articolarizone molto infiammata, la flogosi degragerebbe velocemente l'acido ialuronico inattivandolo. In questi casi si sfiamma prima con del cortisonico.
+> Nel caso si vada a infiltrare acido ialuronico in una articolazione infiammata l distensione della capsula crea un forte dolore ed è possibile che il paziente provi un dolore durante e subito dopo la procedura.
+
+> Nel caso di previsione di intervento chirurgico di protesizzazione d'anca non si può somministrare cortisnici infitrativi nei 6 mesi precedenti. In questo caso si può decidere di sommnistrare solo acido ialuronico anche se verrà presto degradato.
 
 ### Refertazione
 
