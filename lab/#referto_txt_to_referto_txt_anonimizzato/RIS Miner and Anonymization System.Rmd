@@ -1,5 +1,0 @@
----
-title: "RIS Miner and Anonymization System"
-author: "SL-Rad"
-output: html_notebook
----
