@@ -15,19 +15,15 @@
 - - -
 
 - [ECOGRAFIA PRE-ESPIANTO DI ORGANI](#ecografia-pre-espianto-di-organi)
-	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
-	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
-	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-	- [REFERTAZIONE](#refertazione)
-	- [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
-		- [REFERTI PREFATTI](#referti-prefatti)
-		- [PATOLOGIE](#patologie)
-			- [Patologia #1](#patologia-1)
-			- [Patologia #2](#patologia-2)
-			- [Patologia #3](#patologia-3)
-	- [BIBILIOGRAFIA](#bibiliografia)
-	- [- SUGGERIMENTI SULL'ESECUZIONE DELL'ECOGRAFIA ADDOMINALE NELLA VALUTAZIONE DELL'IDONETIò DEGLI ORGNAI ADDOMINALI](#--suggerimenti-sullesecuzione-dellecografia-addominale-nella-valutazione-dellidonetiò-degli-orgnai-addominali)
-	- [NOTE](#note)
+  - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
+  - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
+  - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
+  - [REFERTAZIONE](#refertazione)
+  - [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
+    - [REFERTI PREFATTI](#referti-prefatti)
+  - [BIBILIOGRAFIA](#bibiliografia)
+  - [- SUGGERIMENTI SULL'ESECUZIONE DELL'ECOGRAFIA ADDOMINALE NELLA VALUTAZIONE DELL'IDONETIò DEGLI ORGNAI ADDOMINALI](#--suggerimenti-sullesecuzione-dellecografia-addominale-nella-valutazione-dellidonetiò-degli-orgnai-addominali)
+  - [NOTE](#note)
 
 - - -
 
@@ -65,11 +61,27 @@ e ogni altra informazione ritenuta rilevante.
 ## FLOWCHART REFERTAZIONE
 
 ### REFERTI PREFATTI
-### PATOLOGIE
+ 
+Esame eseguito al letto del paziente, compatibilmente con l'habitus costituzionale.
+ 
+Fegato di dimensioni nei limiti della norma, privo di alterazioni ecostrutturali.
+(diametro longitudinale massimo del lobo destro: 16 cm; diametro longitudinale massimo del lobo sinistro: 12 cm; diametro trasverso massimo 23-24 circa).
+ 
+Esiti di colecistectomia.
+ 
+Minima ectasia delle vie biliari intraepatiche prossime all'ilo; via biliare principale di calibro nei limiti della normalità (10 mm circa); lungo il suo decorso al III distale apprezzabili due immagini tenuemente iperecogene mobili, di circa 10 mm, compatibili con calcoli endoluminali.
+ 
+Regolare aspetto ecografico del pancreas.
+Milza nei limiti per dimensioni (asse maggiore: 11,5 cm, asse trasverso massimo: 6 centimetri circa), ad ecostruttura omogenea.
+ 
+Reni regolari per sede, dimensioni (asse maggiore : 12 cm circa a sinistra, 11,5 cm circa a destra), con mantello cortico-midollare di spessore conservato (circa 20 mm ai poli e circa 15 mm al mesorene).
+Al III superiore del rene sinistro apprezzabile una cisti corticale parzialmente esofitica di 55 mm.
+Al III inferiore del rene destro apprezzabile una cisti corticale di 20 mm.
+Vie escretrici urinarie non dilatate.
+ 
+Aorta addominale di calibro nei limiti della normalità.
 
-#### Patologia #1
-#### Patologia #2
-#### Patologia #3
+Non apprezzabili espansi in sede pelvica.
 
 ---
 
