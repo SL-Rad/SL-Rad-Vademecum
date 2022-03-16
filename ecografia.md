@@ -52,6 +52,8 @@ Alla fine delle attività ricordarsi di spegnere computer ed ecografi premurando
 
 Entro la fine della giornata va preparata l'agenda per i giorni successivi.
 
+NB: i pazienti provenienti dalla RIA vanno in appogio al PS
+
 (*) Queste attività sono solitamente svolte dagli OSS di sala, ma nel caso in cui, per qualche motivo, non siano presenti è importante ricordarsi di farlo.
 
 <div style="text-align: right">
