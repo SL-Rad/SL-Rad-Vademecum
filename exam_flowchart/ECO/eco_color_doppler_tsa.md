@@ -54,9 +54,10 @@ Per iniziare l’esame dei TSA **si parte a livello della succlavia** in modo ta
 
 Per distinguere l’**ICA (Internal Carotid Artery)** dall’ **ECA (External Carotid Artery)** ci possiamo basare sia su un fattore anatomico che funzionale.
 
-Il **fattore anatomico** è che **l’ICA non dà rami collaterali** a differenza dell’ECA.
+Il **fattore anatomico** è che **l’ICA non dà rami collaterali** a differenza dell’ECA, la quale da origine all'**Arteria Tiroidea Superiore**.
 
 Il **fattore funzionale** è che **l’ICA** essendo diretta ad irrorare il parenchima cerebrale **ha un flusso cospicuo** **sia in sistole che in diastole** ed è a **bassa resistenza** perché chiaramente l’encefalo non può rimanere senza sangue nemmeno un secondo.
+
 
 **L’ECA** è invece diretta, con i vari **rami collaterali**, ad irrorare lo splancnocranio e pertanto ha le **caratteristiche di un’arteria muscolare** con **un circolo ad alta resistenza** ed una **netta discrepanza** tra **flusso in sistole che in diastole.**
 
