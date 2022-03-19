@@ -117,7 +117,11 @@ Il consenso informato resta a noi.
 - **AP basale** `grafia`: deve **visualizzarsi il palloncino** 
   - **in uretra** `nell’uomo`
   - **in vescica** `nella donna`
-- **Inserire mdc** e controllare con `scopie` successive l’avvenuto **riempimento vescicale**.
+- **Inserire mdc** e controllare con `scopie` successive l’avvenuto **riempimento vescicale**
+  
+  >Nel caso in cui il quesito diagnostico riguardi l'uretra maschile è importante sproiettare il pene in modo da rettileinizzare il più possibile il tratto che verrà indagato. Per farlo è possibile far sollevare leggermente su un fianco il paziente
+
+
 - **A vescica repleta** `grafie`:
   - `AP`
   - `2 OBLIQUE`
