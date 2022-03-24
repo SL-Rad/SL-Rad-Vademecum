@@ -35,6 +35,19 @@ In alcuni casi trova indicazione anche per la valutazione di **lesioni neoplasit
 
 ## INDICAZIONI & LINEE GUIDA
 
+- Esame caratterizzato da **un'elevata accuratezza diagnostica** nel rilevare
+  - la **presenza**
+  - la **severità**
+    - dell’**aterosclerosi coronarica**.
+<br>
+- Permette di ottenere **informazioni aggiuntive** rispetto all’esame angiografico tradizionale quali:
+  - lo studio della **parete delle coronarie**
+  - la valutazione della **frazione di eiezione** del ventricolo sinistro
+  - lo studio delle **valvole cardiache**
+<br>
+- La TCMS è caratterizzata da **elevati valori** di **sensibilità** e **specificità** nell’identificazione delle **stenosi coronariche** con **un’elevato valore predittivo negativo (> 97%)** a rendere molto 
+- incoraggiante ruolo della metodica nella *valutazione di un ampio gruppo di pazienti con fattori di rischio e una clinica molto dubbia*, che tradizionalmente verrebbero sottoposti ad un cateterismo selettivo.
+
 ---
 
 ## CONTROINDICAZIONI ASSOLUTE E RELATIVE
