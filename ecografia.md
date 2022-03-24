@@ -52,8 +52,6 @@ Alla fine delle attività ricordarsi di spegnere computer ed ecografi premurando
 
 Entro la fine della giornata va preparata l'agenda per i giorni successivi.
 
-NB: i pazienti provenienti dalla RIA vanno in appogio al PS
-
 (*) Queste attività sono solitamente svolte dagli OSS di sala, ma nel caso in cui, per qualche motivo, non siano presenti è importante ricordarsi di farlo.
 
 <div style="text-align: right">
@@ -71,6 +69,7 @@ NB: i pazienti provenienti dalla RIA vanno in appogio al PS
   Qualora sia ritenuta un'effettiva urgenza programmare in agenda in uno spazio extra entro 72h.
   > Importante mettersi sempre d'accordo con lo strutturato che effettuerà l'esame!
 - **richieste urgenti** per pazienti **ricoverati**: indirizzare alla radiologia del pronto soccorso (7005)
+- **pazienti RIA** solitamente devono appoggiarsi al ***PS***, eventualmente si può chiedere allo strutturato se concordare diversamente
 
 <div style="text-align: right">
 <a href="#ecografia">⬆️</a>
@@ -108,11 +107,12 @@ Da compilare entro fine giornata.
 - **pazienti COVID+** o provenienti da reparto COVID o in isolamento
   -  urgenti &rarr;  devono contattare il pronto soccorso
   -  in elezione &rarr; da programmare (in accordo con lo strutturato)
+     > verificare la presenza di un "mezzi" in una determinata giornata, qualora sia presente è lui a recarsi in PS ed eseguire l'eco di un pz Covid positivo
 - **Eco-color doppler arterie renali** → viene svolto dal Prof e da pochi altri strutturati, da segnare preferibilmente venerdì mattina dopo essersi accertati dell'appropriatezza della richiesta (stenosi arterie renali con pregressa consulenza dei nefrologi) → chiedere all'infermiera dell'ecografia.
 - **Eco-color doppler ARTERIOSO**: 
   - accettare SOLO se la richiesta proviene dalla Cardiologia dell'Ospedale (con richiesta telefonica esplicita) per controllo post o pre-chirurgico. 
   - Per ogni altro motivo chiamare per annullare la richiesta indicando di contattare la chirurgia vascolare.
-- **Posizionamento di PICC, PORT, ecc** → IGNORARE (sono procedure svolte dalla radiologia interventistica in Sala 1, se chiamano indicare di contattare l'interno 7003).
+- **Posizionamento di PICC, PORT, ecc** → *IGNORARE* (sono procedure svolte dalla radiologia interventistica in Sala 1, se chiamano indicare di contattare l'interno 7003).
 - **Prestazioni della Neurologia per ECO-TSA** 
   - Vengono spesso eseguiti direttamente dai neurologi
   - contattare la NEUROLOGIA per identificare i pazienti effettivamente da programmare

@@ -15,18 +15,18 @@
 - - -
 
 - [TC TORACE](#tc-torace)
-	- [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
-	- [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
-	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-	- [REFERTAZIONE](#refertazione)
-	- [REFERTI PREFATTI](#referti-prefatti)
-		- [NEGATIVO](#negativo)
-	- [PATOLOGIE](#patologie)
-		- [Patologia #1](#patologia-1)
-		- [Patologia #2](#patologia-2)
-		- [Patologia #3](#patologia-3)
-	- [BIBILIOGRAFIA](#bibiliografia)
-	- [NOTE](#note)
+  - [INDICAZIONI & LINEE GUIDA](#indicazioni--linee-guida)
+  - [CONTROINDICAZIONI ASSOLUTE E RELATIVE](#controindicazioni-assolute-e-relative)
+  - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
+  - [REFERTAZIONE](#refertazione)
+  - [REFERTI PREFATTI](#referti-prefatti)
+    - [NEGATIVO](#negativo)
+  - [PATOLOGIE](#patologie)
+    - [Patologia #1](#patologia-1)
+    - [Patologia #2](#patologia-2)
+    - [Patologia #3](#patologia-3)
+  - [BIBILIOGRAFIA](#bibiliografia)
+  - [NOTE](#note)
 
 - - -
 
@@ -122,7 +122,7 @@ diametro massimo di 16 mm.`
 
 - **aree a vetro smerigliato? (ground-glass)** <br>
 `(Ad entrambi gli emitoraci) si riconoscono plurime sfumate aree "a vetro smerigliato", maggiormente estese a sinistra;`<br><br>
-` si osserva (incremento) dimensionale delle aree di addensamento parenchimale con aspetto "a vetro smerigliato" localizzate in sede (perilare destra).`
+`si osserva (incremento) dimensionale delle aree di addensamento parenchimale con aspetto "a vetro smerigliato" localizzate in sede (perilare destra).`
   - **associato a consolidamento?** <br>
   `a cui si associa un'area di addensamento parenchimale con aspetto maggiormente consolidativo.`
   - **comparsa di nuove aree?**<br>
@@ -132,7 +132,7 @@ diametro massimo di 16 mm.`
 `(al segmento anteriore del lobo inferiore sinistro, in sede periscissurale), si associa una (limitata / modesta / estesa) area di addensamento parenchimale con aspetto (maggiormente) consolidativo.`
 
 - **nodularità (nodulo polmonare)?**
-  - **presente** <br> `(Al lobo inferiore sinistro, in sede mantellare,) si riconosce una nodularità parenchimale  `
+  - **presente** <br> `(Al lobo inferiore sinistro, in sede mantellare,) si riconosce una nodularità parenchimale`
     - **diametro**<br>
 	`del diametro massimo di 10 mm,`
     - **margini** <br>
