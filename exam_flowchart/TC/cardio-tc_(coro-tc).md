@@ -35,18 +35,78 @@ In alcuni casi trova indicazione anche per la valutazione di **lesioni neoplasit
 
 ## INDICAZIONI & LINEE GUIDA
 
+Dai dati attualmente pubblicati emerge **l’elevato valore predittivo negativo** della Coronarografia-TC nel valutare la presenza di **patologia coronarica significativa**.
+
+Le applicazioni cliniche della metodica su cui c’è pieno consenso in letteratura sono:
+
+- Paziente con **dolore toracico** e **Stress Test non dirimente**
+  - Stress test **non interpretabile o dubbio**;
+  - *Probabilità pre-test intermedio* con **ECG non interpretabile** o **impossibilità di effetture il test** da sforzo.
+- Paziente con **dolore toracico acuto**
+  - *Probabilità pre-test intermedia* **senza** segni **ECG** **né rialzo** degli **enzimi nel tempo**.
+- Paziente sintomatico per valutazione strutture intra-cardiache
+- Valutazione sospette anomalie coronariche.
+  - Valutazione strutture intra ed extra cardiache.
+- Valutazione masse cardiache (neoplasie o trombi) in pazienti con limitazioni nell’esecuzione di Ecocardiogramma, RM o Ecografia Trans-esofagea;
+- Valutazione del pericardio (masse, pericarditi e complicanze post chirurgiche).
+  - Valutazione morfologica e funzionale
+- Valutazione di anomalie congenite (coronarie, grossi vasi, camere cardiache e valvole);e
+- Valutazione delle coronarie in pazienti con scompenso cardiaco di nuova insorgenza.
+– Valutazione di pazienti con limitazioni nell’esecuzione di Ecocardiogramma, RM o Ecografia Trans-esofagea.
+•
+Studio vene polmonari;
+•
+Studio vene cardiache;
+•
+Valutazione morfologica delle arterie coronarie e delle arterie mam-
+marie (bypass).
+–
+Valutazione delle patologie aortiche o polmonari
+•
+Sospetto di dissezioni e/o aneurismi dell’aorta toracica;
+•
+Sospetta embolia polmonare.
+Altre indicazioni, sulle quali non è stato raggiunto consenso sulla base
+della letteratura precedente, ma che sembrano essere possibili con le nuove
+tecnologie a disposizione sono:
+–
+Follow-up dei pazienti con pregresso posizionamento di bypass aorto-
+coronarico (CABG);
+–
+Follow-up degli stent coronarici quando posizionati nei rami principali;
+
+
+
 - Esame caratterizzato da **un'elevata accuratezza diagnostica** nel rilevare
   - la **presenza**
   - la **severità**
     - dell’**aterosclerosi coronarica**.
+
 <br>
+
 - Permette di ottenere **informazioni aggiuntive** rispetto all’esame angiografico tradizionale quali:
   - lo studio della **parete delle coronarie**
   - la valutazione della **frazione di eiezione** del ventricolo sinistro
   - lo studio delle **valvole cardiache**
+
 <br>
-- La TCMS è caratterizzata da **elevati valori** di **sensibilità** e **specificità** nell’identificazione delle **stenosi coronariche** con **un’elevato valore predittivo negativo (> 97%)** a rendere molto 
-- incoraggiante ruolo della metodica nella *valutazione di un ampio gruppo di pazienti con fattori di rischio e una clinica molto dubbia*, che tradizionalmente verrebbero sottoposti ad un cateterismo selettivo.
+
+- **elevati valori** di **sensibilità** e **specificità** nell’identificazione delle **stenosi coronariche** con **un’elevato valore predittivo negativo (> 97%)**
+  - valutazione di un **ampio gruppo di pazienti** con **fattori di rischio** e una **clinica** molto **dubbia**, che tradizionalmente verrebbero sottoposti ad un cateterismo selettivo.
+
+<br>
+
+- **L’angiografia coronarica con TCMS** è divenuta la **metodica non invasiva** con la **migliore accuratezza diagnostica**, comparata con l’angiografia convenzionale, e
+rappresenta il punto di riferimento per le altre metodiche non invasive.
+- **L’aumento della risoluzione spaziale** ha permesso di migliorare
+- la visualizzazione dei vasi di piccolo calibro
+- ridurre **l’artefatto da blooming** dovuto al calcio o a strutture metalliche (stent) e
+- **definire meglio** la presenza e le **caratteristiche delle placche coronariche**
+  - volume
+  - densità
+- **L’aumento della risoluzione temporale** ha consentito una riduzione dei tempi di scansione, degli artefatti dovuti al movimento e una più accurata valutazione della funzione delle camere cardiache e delle valvole.
+
+
 
 ---
 
