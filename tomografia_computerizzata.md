@@ -601,6 +601,20 @@ Il tipo di accessso vascolare da usare per ogni tipo di fase con contrasto è me
 
 ---
 
+## ACCESSI CENTRALI
+
+Gli unici accessi centrali idonei per gli iniettori di mdc sono:
+- Power Port
+- Power PICC
+- Mini Midline
+- CVC distale
+
+<div style="text-align: right">
+<a href="#tomografia-computerizzata">⬆️</a>
+</div>
+
+---
+
 ## **STRAVASO MDC**
 
 Nell'immediato chiamare l'infermiere e somministrare **ialuronidasi** in cannula.
