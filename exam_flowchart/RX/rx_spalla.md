@@ -252,6 +252,10 @@ extrarotazione  improvviso
 
 Brown, A. K., & King, D. G. (2016). Musculoskeletal X-Rays for Medical Students and Trainees (1st ed.). Wiley-Blackwell.
 
+Skeletal Radiology: The Bare Bones by Felix S. Chew (2010–04-19). (2022). LWW.
+
+Faletti, C. (2015). Traumatologia scheletrica: Imaging integrato clinico-radiologico (Italian Edition) (1a ed. 2016 ed.). Springer.
+
 ---
 
 ## NOTE
