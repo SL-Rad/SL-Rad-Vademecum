@@ -20,27 +20,27 @@
 - - -
 
 - [RX SPALLA](#rx-spalla)
-	- [QUESITO DIAGNOSTICO](#quesito-diagnostico)
-	- [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
-	- [REFERTAZIONE](#refertazione)
-		- [REFERTI PREFATTI](#referti-prefatti)
-			- [INTRODUZIONE](#introduzione)
-			- [LESIONI OSSEE](#lesioni-ossee)
-				- [NON LESIONI](#non-lesioni)
-				- [FRATTURE](#fratture)
-			- [RAPPORTI ARTICOLARI](#rapporti-articolari)
-				- [PRESERVATI](#preservati)
-			- [SEGNI DEGENERATIVI](#segni-degenerativi)
-				- [OSTEOARTROSI](#osteoartrosi)
-				- [ENTESOPATIA](#entesopatia)
-			- [CALCIFICAZIONI TESSUTI MOLLI](#calcificazioni-tessuti-molli)
-			- [CONTROLLI POST-CHIRURGICI](#controlli-post-chirurgici)
-	- [ANATOMIA](#anatomia)
-	- [PATOLOGIE](#patologie)
-		- [FRATTURE](#fratture-1)
-		- [LUSSAZIONI](#lussazioni)
-	- [BIBILIOGRAFIA](#bibiliografia)
-	- [NOTE](#note)
+  - [QUESITO DIAGNOSTICO](#quesito-diagnostico)
+  - [ESECUZIONE DELL'ESAME](#esecuzione-dellesame)
+  - [REFERTAZIONE](#refertazione)
+    - [REFERTI PREFATTI](#referti-prefatti)
+      - [INTRODUZIONE](#introduzione)
+      - [LESIONI OSSEE](#lesioni-ossee)
+        - [NON LESIONI](#non-lesioni)
+        - [FRATTURE](#fratture)
+      - [RAPPORTI ARTICOLARI](#rapporti-articolari)
+        - [PRESERVATI](#preservati)
+      - [SEGNI DEGENERATIVI](#segni-degenerativi)
+        - [OSTEOARTROSI](#osteoartrosi)
+        - [ENTESOPATIA](#entesopatia)
+      - [CALCIFICAZIONI TESSUTI MOLLI](#calcificazioni-tessuti-molli)
+      - [CONTROLLI POST-CHIRURGICI](#controlli-post-chirurgici)
+  - [ANATOMIA](#anatomia)
+  - [PATOLOGIE](#patologie)
+    - [FRATTURE](#fratture-1)
+    - [LUSSAZIONI](#lussazioni)
+  - [BIBILIOGRAFIA](#bibiliografia)
+  - [NOTE](#note)
 
 - - -
 
@@ -227,11 +227,11 @@ energia.
   - **Meccanismo indiretto**
 
 <div style="text-align: center">
-<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Skeletal_Radiology-frattura_collo_chirurgico_omero_1.png"/>
+<img style="max-width:480px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Skeletal_Radiology-frattura_collo_chirurgico_omero_1.png"/>
 </div>
 
 <div style="text-align: center">
-<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Skeletal_Radiology-frattura_collo_chirurgico_omero_2.png"/>
+<img style="max-width:480px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Skeletal_Radiology-frattura_collo_chirurgico_omero_2.png"/>
 </div>
 
 ### LUSSAZIONI
@@ -249,6 +249,8 @@ extrarotazione  improvviso
 ---
 
 ## BIBILIOGRAFIA
+
+Brown, A. K., & King, D. G. (2016). Musculoskeletal X-Rays for Medical Students and Trainees (1st ed.). Wiley-Blackwell.
 
 ---
 

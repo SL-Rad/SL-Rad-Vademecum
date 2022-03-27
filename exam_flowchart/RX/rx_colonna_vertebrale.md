@@ -21,11 +21,9 @@
 	- [REFERTAZIONE](#refertazione)
 		- [RX COLONNA CERVICALE](#rx-colonna-cervicale)
 	- [FLOWCHART REFERTAZIONE](#flowchart-refertazione)
-		- [REFERTI PREFATTI](#referti-prefatti)
-		- [PATOLOGIE](#patologie)
-			- [Patologia #1](#patologia-1)
-			- [Patologia #2](#patologia-2)
-			- [Patologia #3](#patologia-3)
+		- [NEGATIVO](#negativo)
+	- [ANATOMIA](#anatomia)
+	- [PATOLOGIE](#patologie)
 	- [BIBILIOGRAFIA](#bibiliografia)
 	- [NOTE](#note)
 
@@ -76,16 +74,41 @@ Se vengono eseguite **almeno 2 proiezioni laterali** di un tratto di colonna ver
 
 ## FLOWCHART REFERTAZIONE
 
-### REFERTI PREFATTI
-### PATOLOGIE
+### NEGATIVO
 
-#### Patologia #1
-#### Patologia #2
-#### Patologia #3
+---
+
+## ANATOMIA
+
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/rx_colonna_cervicale-anatomia_1.png"/>
+</div>
+
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/rx_colonna_cervicale-anatomia_2.png"/>
+</div>
+
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/rx_colonna_cervicale-anatomia_3.png"/>
+</div>
+
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/rx_colonna_lombare-anatomia_1.png"/>
+</div>
+
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/rx_colonna_lombare-anatomia_2.png"/>
+</div>
+
+---
+
+## PATOLOGIE
 
 ---
 
 ## BIBILIOGRAFIA
+
+Brown, A. K., & King, D. G. (2016). Musculoskeletal X-Rays for Medical Students and Trainees (1st ed.). Wiley-Blackwell.
 
 ---
 
