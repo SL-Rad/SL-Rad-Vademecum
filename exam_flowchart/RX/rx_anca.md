@@ -12,6 +12,10 @@
 
 # RX ANCA
 
+| Codice nomenclatore |                             Descrizione esame                             |
+| :-----------------: | :-----------------------------------------------------------------------: |
+|        88.26        | RADIOGRAFIA DI PELVI E ANCA Radiografia del bacino, Radiografia dell'anca |
+
 - - -
 
 - [RX ANCA](#rx-anca)

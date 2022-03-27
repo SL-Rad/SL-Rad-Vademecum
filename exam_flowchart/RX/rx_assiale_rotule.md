@@ -12,6 +12,11 @@
 
 # RX ASSIALE ROTULA
 
+| Codice nomenclatore |                Descrizione esame                |
+| :-----------------: | :---------------------------------------------: |
+|        88.29        |  RADIOGRAFIA ASSIALE DI ROTULE (1 proiezione)   |
+|       88.29.2       | RADIOGRAFIA ASSIALE DELLA ROTULA (3 proiezioni) |
+
 - - -
 
 - [RX ASSIALE ROTULA](#rx-assiale-rotula)
