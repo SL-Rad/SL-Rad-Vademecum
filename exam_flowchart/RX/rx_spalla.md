@@ -69,6 +69,7 @@
 - Calcificazioni dei tessuti molli
 - Controllo post-operatorio
   - Protesi inversa di spalla
+  - Osteosintesi con placca e viti
 
 ---
 
