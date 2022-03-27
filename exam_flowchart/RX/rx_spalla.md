@@ -226,6 +226,14 @@ energia.
   - **Meccanismo diretto**
   - **Meccanismo indiretto**
 
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Skeletal_Radiology-frattura_collo_chirurgico_omero_1.png"/>
+</div>
+
+<div style="text-align: center">
+<img style="max-width:720px; width:100%;" src="https://sl-rad.github.io/SL-Rad-Vademecum/img/Skeletal_Radiology-frattura_collo_chirurgico_omero_2.png"/>
+</div>
+
 ### LUSSAZIONI
 
 - **Lussazione  traumatica** &rarr; trauma
