@@ -1,0 +1,1 @@
+Dopo somministrazione di mdc ev, non si evidenziano immagini riferibili a processi occupanti spazio.
