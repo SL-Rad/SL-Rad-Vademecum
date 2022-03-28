@@ -792,7 +792,8 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 ## ILEO
-
+- **negativo**<br>
+`Non si evidenziano per il resto significativi reperti patologici a carico delle anse di piccolo e grosso intestino.`
 
 - **ANASTOMOSI**
   - **raccolte perianastomotiche**<br>
@@ -803,6 +804,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 ## COLON
+- **negativo**<br>
+`Non si evidenziano per il resto significativi reperti patologici a carico delle anse di piccolo e grosso intestino.`
+
 - **ispessimento di parete?** <br>
 `Si riconosce (diffuso) ispessimento delle pareti del colon (destro), del colon (discendente) e del (sigma),`
   - **ipotesi diagnostiche?** <br>

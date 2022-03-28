@@ -124,3 +124,5 @@ Qual è il valore ASPECTS? <br /> <img src="anki_deck/anki_img/ASPECTS8_1.jpg" /
 <img src="anki_deck\anki_img\2022-03-25-RADIOL-1222-000004.png" />	201900710
 <img src="anki_deck\anki_img\2022-03-25-RADIOL-1222-000005.png" />	2019010732
 <img src="anki_deck\anki_img\2022-03-25-RADIOL-1222-000006.png" />	2019011515
+<img src="anki_deck\anki_img\2022-03-28-WKS-0009-000002.png" />	2022 18288 </br>Al segmento apicale del lobo superiore destro si associa una nodularità parenchimale con aspetto "a vetro smerigliato", del diametro massimo di 8 mm, reperto meritevole di rivalutazione nel tempo.
+<img src="anki_deck\anki_img\2022-03-28-WKS-0009-000003.png" />	2022 8215 </br>A partire da tale disco si riconosce raccolta di più probabile significato ascessuale nel contesto del muscolo psoas di destra, estesa in senso cranio-caudale per 46 mm e con estremo distale a livello del piatto somatico superiore di L5, reperto compatibile con l'ipotesi diagnostica di spondilodiscite, non evidenziandosi con certezza e con i limiti della metodica alterazioni ossee contigue.
