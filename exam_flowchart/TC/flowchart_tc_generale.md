@@ -94,7 +94,7 @@
 	`L'esame è stato acquisito in fase venosa.`
     - **Quadrifasica**<br>
         `L'esame è stato eseguito in condizioni basali e dopo somministrazione e.v. di MdC iodato (__________ mL) in fase arteriosa parenchimale, portale e tardiva (e confrontato con il precedente analogo del __/__/____).`
-	
+<br>
   > Si specifica in quale fase è stata acquisita la scansione quando viene evidenziato un reperto che avrebbe richiesto una fase differente per essere caratterizzato meglio come per esempio il rilevamento di embolia polmonare durante una scansione di torace in fase portale oppure quando per motivi tecnici non è stato eseguito un ripassaggio dove poteva essere utile come per esempio sola fase arteriosa senza portale per valutare lo spandimento.
 
 - **Confronto con precedenti**
