@@ -130,3 +130,4 @@ Qual è il valore ASPECTS? <br /> <img src="anki_deck/anki_img/ASPECTS8_1.jpg" /
 <img src="anki_deck\anki_img\2022-03-28-WKS-0009-000004.png" />	2022018802 </br>Collateralmente si segnala pseudocisti mucosa nel seno mascellare destro.
 <img src="anki_deck\anki_img\2022-03-28-WKS-0009-000005.png" />	202218825 </br>Collateralmente, si segnalano ispessimenti mucoperiostei flogistici in corrispondenza dei seni mascellari
 <img src="anki_deck\anki_img\2022-03-28-WKS-0009-000006.png" />	202218825 </br>Collateralmente, plurimi residui radicolari a entrambe le arcate dentarie e segni di osteolisi periapicale flogistica.
+<img src="anki_deck\anki_img\cisti_idatidea_milza.gif" />	2021057562 </br>una formazione ovalare ipodensa con pareti calcifiche a livello del polo splenico superiore del diametro assiale massimo di 14 mm, già presente nel precedente controllo TC (cisti idatidea?) e di formazioni cistiche renali bilaterali.
