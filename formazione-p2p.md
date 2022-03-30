@@ -99,3 +99,5 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 ### Archivio delle presentazioni 
 
 - [2 Marzo 2022 - Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
+- [30 Marzo 2022 - Curva spettrale doppler](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/curva_spettrale_doppler.html)
+- [30 Marzo 2022 - Eco Doppler TSA](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/lezione_doppler_tsa_specializzandi.html)
