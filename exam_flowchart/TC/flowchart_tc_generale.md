@@ -33,7 +33,7 @@
   - [COSTE](#coste)
   - [PARETE TORACICA](#parete-toracica)
   - [COLONNA VERTEBRALE](#colonna-vertebrale)
-  - [AORTA ADDOMINALE](#aorta-addominale)
+  - [AORTA ADDOMINALE<br>](#aorta-addominale)
   - [ARTERIE & VENA MESENTERICA SUPERIORE & INFERIORE](#arterie--vena-mesenterica-superiore--inferiore)
   - [STOMACO](#stomaco)
   - [DUODENO](#duodeno)
@@ -45,6 +45,7 @@
   - [PANCREAS](#pancreas)
   - [SURRENI](#surreni)
   - [RENI](#reni)
+  - [ARTERIE RENALI](#arterie-renali)
   - [URETELI](#ureteli)
   - [VESCICA](#vescica)
   - [PROSTATA](#prostata)
@@ -246,6 +247,8 @@
 - **calibro?**
 - **spessore della parete?**
 
+**ECTASIA AORTA ASCENDENTE**<br>
+`Si conferma ectasia dell'aorta toracica ascendente (calibro massimo di 42 mm); per il resto l'aorta toraco-addominale ha calibro regolare, senza segni di dissezione.`
 
 
 ## ARTERIE POLMONARI
@@ -343,7 +346,8 @@
 
 
 - **enfisema?**<br>
-`Persistono grossolane manifestazioni enfisematose (centro-lobulari) e (parasettali) d'ambo i lati, cui concomitano ulteriori grossolane strie dense di natura fibrotica in sede (apicale destra).`
+`Persistono grossolane manifestazioni enfisematose (centro-lobulari) e (parasettali) d'ambo i lati, cui concomitano ulteriori grossolane strie dense di natura fibrotica in sede (apicale destra).`<br>
+`Sono presenti manifestazioni di enfisema parasettale in regione apicale bilateralmente, più estese a destra.`
 
 - **intrappolamento aereo *(Air trapping)*?**
   - ***assente*** <br>
@@ -496,13 +500,16 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 - **spondilartrosi osteofitaria?** <br>
 `in quadro di (grossolana) spondiloartrosi a carattere osteofitario.`<br><br>
-`Sono presenti (grossolane) manifestazioni spondiloartrosiche a carattere osteofitario in sede
-(dorso-lombare).`
+`Sono presenti (grossolane) manifestazioni spondiloartrosiche a carattere osteofitario in sede (dorso-lombare).`<br>
+` Si segnalano manifestazioni spondiloartrosiche a carattere osteofitario, cui concomitano segni di degenerazione gassosa di alcuni dischi intersomatici.`
 
 
 
 
-## AORTA ADDOMINALE
+## AORTA ADDOMINALE<br>
+`Sono presenti segni di ateromasia calcifica dell'aorta toraco-addominale.`<br>
+`Sono presenti calcificazioni distrofiche a livello dell'aorta addominale e dei vasi iliaci.`<br>
+`Si segnalano diffuse e grossolane apposizioni ateromasiche in parte calcifiche a livello dell'aorta e dei vasi iliaci.`
 
 
 
@@ -593,8 +600,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 
 - **STEATOSI**<br>
-`Il fegato presenta aspetto steatosico`<br><br>
-`Fegato ingrandito di aspetto steatosico`
+`Il fegato presenta aspetto steatosico`<br>
+`Fegato ingrandito di aspetto steatosico`<br>
+`Si riconosce aspetto diffusamente ipodenso del parenchima epatico, come nei quadri di steatosi.`
 
   - **area di risparmio**<br>
 `Il fegato, in prossimità della colecisti presenta una sfumata area di ipodensità di incerto significato; la sede suggerire in prima ipotesi la presenza di un'area di risparmio da steatosi, a scopo prudenziale può anche essere utile un completamento con metodica ecografica`
@@ -683,7 +691,9 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 ## COLECISTI
 
 - **calcoli colecisti?** <br> 
-`(Si conferma) la presenza di formazioni litiasiche tenuemente dense nel lume colecistico`
+`(Si conferma) la presenza di formazioni litiasiche tenuemente dense nel lume colecistico`<br>
+`La colecisti, normodistesa, non contiene formazioni litiasiche calcifiche.`<br>
+`La colecisti, normodistesa, contiene una formazione litiasica calcifica del diametro massimo di 20 mm.`
 
 
 
@@ -760,7 +770,10 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 `Si conferma la presenza di un calcolo calcifico di __ mm (al gruppo caliceale superiore sinistro),`
 
 
+## ARTERIE RENALI
 
+**ARTERIA RENALE ACCESSORIA**<br>
+`segnalandosi la presenza di un'arteria renale accessoria a destra.`
 
 ## URETELI
 - **esctasia?**
@@ -777,7 +790,11 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 - **deplezione?** <br>
 `La vescica è depleta`
 - **catetere vescicale?**<br>
-`in presenza di catetere urinario.`
+`in presenza di catetere urinario.`<br>
+`La vescica, ben distesa, ha pareti nette e lume libero, con aspetto in parte prolassato.`<br>
+`La vescica, scarsamente repleta, è priva di grossolane lesioni vegetanti endoluminali.`<br>
+`La vescica, modicamente repleta, è priva di grossolane lesioni vegetanti endoluminali.`<br>
+`La vescica, modicamente repleta, ha pareti nette e lume libero.` 
 
 
 
@@ -785,8 +802,11 @@ destro, dell'emisacro omolaterale e dell'arco anteriore della III costa destra,
 
 ## PROSTATA
 - **dimensione?**<br>
-`La prostata ha dimensioni (nella norma / incrementate), diametro trasverso massimo di __ mm.`
+`La prostata ha dimensioni (nella norma / incrementate), diametro trasverso massimo di __ mm.`<br>
+`La prostata ha dimensioni nei limiti di norma (diametro trasverso massimo di 40 mm).`<br>
 
+- **prostatectomia radicale**
+`Si riconoscono gli esiti di pregresso intervento chirurgico di prostatectomia radicale, senza evidenti segni di recidiva locale di malattia.`
 
 
 
