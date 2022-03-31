@@ -32,6 +32,7 @@ Sulla pagina sono raggrupapti i progetti formativi da pari a pari organizzati e 
         - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
         - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
         - [15 Dicembre 2021](#15-dicembre-2021)
+        - [15 Dicembre 2021](#15-dicembre-2021-1)
       - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
     - [**ECO-FRIENDLY**](#eco-friendly)
     - [Archivio delle presentazioni](#archivio-delle-presentazioni)
@@ -75,6 +76,11 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 - [15 Dicembre 2021 - A]()
 - [15 Dicembre 2021 - B]()
+
+##### 15 Dicembre 2021
+
+- [23 Marzo 2022 - A]()
+- [23 Marzo 2022 - B]()
 
 <div style="text-align: right">
 <a href="#caseual-wednesday">⬆️</a>
