@@ -46,6 +46,7 @@ Guida completa alla gestione della sala di tomografia computerizzata.
 	- [GESTIONE DEL PAZIENTE](#gestione-del-paziente)
 	- [ACCESSO VASCOLARE](#accesso-vascolare)
 		- [Flusso accessi](#flusso-accessi)
+	- [ACCESSI CENTRALI](#accessi-centrali)
 	- [**STRAVASO MDC**](#stravaso-mdc)
 		- [PROTOCOLLO STRAVASO](#protocollo-stravaso)
 			- [Stravaso di mezzo di contrasto iodato ≥ 5 mL:](#stravaso-di-mezzo-di-contrasto-iodato--5-ml)
@@ -1389,10 +1390,16 @@ selezionati si fa con mdc e.v.
 
 #### STUDIO ANGIOGRAFICO ARTI INFERIORI
 
-- Basale dal carrefour iliaco ai piedi
-- Fase arteriosa con bolus tracking (ROI in aorta addominale sotto-renale)
-- Fase venosa a 60"
-  - Da discutere sempre con lo strutturato, alcuni preferiscono la venosa a 120" (con eventuale ripassaggio a 180")
+Quesito diagnostico:
+- *"Valutazione vascolarizzazione arto inferiore (destro) in previsione di intervento di amputazione di gamba per piede diabetico."*
+
+- Basale dal carrefour iliaco (o dalle creste iliache) ai piedi.
+- **Fase arteriosa vascolare** con bolus tracking (ROI in aorta addominale sotto-renale) e partenza immediata al superamento del cut-off.
+  - può essere opportuno impostare un ritardo di 10" dal cut-off per permettere un buon riempimento di tutte le arterie anche in condizioni di circolo lento.
+- **Ripassaggio fase arteriosa vascolare** (dai piedi verso il bacino) subito dopo la prima fase arteriosa.
+  - Spesso non viene richiesto, può essere utile per essere sicuri di acquisire tutta la vascolarizzazione arteriosa degli arti inferiori.
+- **Fase venosa a 60" oppure a 120"** (con **eventuale ripassaggio a 180"**).
+  - dipende dalle preferenze del radiologo, per essere sicuri di avere una buona opacizzazione degli arti inferiori sarebbe preferibile attendere 120" per la fase venosa.
 
 <div style="text-align: right">
 <a href="#tomografia-computerizzata">⬆️</a>
