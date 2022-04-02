@@ -112,121 +112,121 @@
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_1_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_1_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_2_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_2_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_3_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_3_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">4 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_4_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_4_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">5 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_5_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_5_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">6 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_6_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_6_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">7 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_7_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_7_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">8 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_8_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_8_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">9 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_9_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_9_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">10 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_10_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_10_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">11 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_11_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_11_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">12 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_12_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_12_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">13 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_13_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_13_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">14 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_14_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_14_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">15 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_15_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_15_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">16 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_16_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_16_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">17 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_17_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_17_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">18 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_18_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_18_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">19 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_19_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_19_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">20 / 20</div>
-    <img src="P:\Github\SL-Rad-Vademecum\formazione_p2p\there_and_back_again\errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_20_of_20.png" style="width: 100%" />
+    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_20_of_20.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
