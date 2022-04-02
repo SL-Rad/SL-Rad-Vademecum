@@ -126,7 +126,7 @@ Raccolta delle presentazioni realizzate dai tesisti e dagli specializzandi della
 
 - [Ottobre 2021 - Artificial intelligence (AI) in diagnostic imaging: application to Coronavirus 2019 Disease (COVID-19)](formazione_p2p/there_and_back_again/artificial_intelligence_(ai)_in_diagnostic_imaging_application_to_coronavirus_2019_disease_(covid-19).html)
 - [Marzo 2022 - L’errore in radiologia: analisi di una casistica nazionale di richieste di risarcimento](formazione_p2p/there_and_back_again/errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento.html)
-- [Marzo 2022 - Advanced Gastric Cancer]()
+- [Marzo 2022 - Advanced Gastric Cancer](formazione_p2p/there_and_back_again/advanced_gastric_cancer.html)
 
 <div style="text-align: right">
 <a href="#sl-rad---formazione-peer-to-peer">⬆️</a>

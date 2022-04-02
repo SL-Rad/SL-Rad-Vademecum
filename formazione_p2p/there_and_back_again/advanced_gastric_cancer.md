@@ -1,6 +1,6 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-<title>SL Rad Vademecum | L’errore in radiologia: analisi di una casistica nazionale di richieste di risarcimento</title>
+<title>SL Rad Vademecum | Advanced Gastric Cancer</title>
 <style>
   * {
     box-sizing: border-box;
@@ -105,128 +105,110 @@
 
 <hr>
 
-<h1> L’errore in radiologia: analisi di una casistica nazionale di richieste di risarcimento </h1>
+<h1> ADVANCED GASTRIC CANCER </h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_1_of_20.png" style="width: 100%" />
+    <div class="numbertext">1 / 17</div>
+    <img src="advanced_gastric_cancer_1_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_2_of_20.png" style="width: 100%" />
+    <div class="numbertext">2 / 17</div>
+    <img src="advanced_gastric_cancer_2_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_3_of_20.png" style="width: 100%" />
+    <div class="numbertext">3 / 17</div>
+    <img src="advanced_gastric_cancer_3_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">4 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_4_of_20.png" style="width: 100%" />
+    <div class="numbertext">4 / 17</div>
+    <img src="advanced_gastric_cancer_4_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">5 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_5_of_20.png" style="width: 100%" />
+    <div class="numbertext">5 / 17</div>
+    <img src="advanced_gastric_cancer_5_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">6 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_6_of_20.png" style="width: 100%" />
+    <div class="numbertext">6 / 17</div>
+    <img src="advanced_gastric_cancer_6_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">7 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_7_of_20.png" style="width: 100%" />
+    <div class="numbertext">7 / 17</div>
+    <img src="advanced_gastric_cancer_7_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">8 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_8_of_20.png" style="width: 100%" />
+    <div class="numbertext">8 / 17</div>
+    <img src="advanced_gastric_cancer_8_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">9 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_9_of_20.png" style="width: 100%" />
+    <div class="numbertext">9 / 17</div>
+    <img src="advanced_gastric_cancer_9_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">10 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_10_of_20.png" style="width: 100%" />
+    <div class="numbertext">10 / 17</div>
+    <img src="advanced_gastric_cancer_10_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">11 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_11_of_20.png" style="width: 100%" />
+    <div class="numbertext">11 / 17</div>
+    <img src="advanced_gastric_cancer_11_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">12 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_12_of_20.png" style="width: 100%" />
+    <div class="numbertext">12 / 17</div>
+    <img src="advanced_gastric_cancer_12_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">13 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_13_of_20.png" style="width: 100%" />
+    <div class="numbertext">13 / 17</div>
+    <img src="advanced_gastric_cancer_13_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">14 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_14_of_20.png" style="width: 100%" />
+    <div class="numbertext">14 / 17</div>
+    <img src="advanced_gastric_cancer_14_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">15 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_15_of_20.png" style="width: 100%" />
+    <div class="numbertext">15 / 17</div>
+    <img src="advanced_gastric_cancer_15_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">16 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_16_of_20.png" style="width: 100%" />
+    <div class="numbertext">16 / 17</div>
+    <img src="advanced_gastric_cancer_16_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">17 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_17_of_20.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">18 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_18_of_20.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">19 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_19_of_20.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">20 / 20</div>
-    <img src="errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento_20_of_20.png" style="width: 100%" />
+    <div class="numbertext">17 / 17</div>
+    <img src="advanced_gastric_cancer_17_of_17.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
@@ -255,9 +237,6 @@
   <span class="dot" onclick="currentSlide(15)"></span>
   <span class="dot" onclick="currentSlide(16)"></span>
   <span class="dot" onclick="currentSlide(17)"></span>
-  <span class="dot" onclick="currentSlide(18)"></span>
-  <span class="dot" onclick="currentSlide(19)"></span>
-  <span class="dot" onclick="currentSlide(20)"></span>
 </div>
 
 <hr>
