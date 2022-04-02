@@ -33,9 +33,9 @@ Sulla pagina sono raggruppati i progetti formativi da pari a pari organizzati e 
         - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
         - [15 Dicembre 2021](#15-dicembre-2021)
         - [23 Marzo 2022](#23-marzo-2022)
-      - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
     - [**ECO-FRIENDLY**](#eco-friendly)
       - [Archivio delle presentazioni](#archivio-delle-presentazioni)
+    - [THERE AND BACK AGAIN](#there-and-back-again)
 
 - - -
 
@@ -83,20 +83,23 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 - [23 Marzo 2022 - Le vie biliari](caseual_wednesdays/2022-03-23/vie_biliari.html)
 
 <div style="text-align: right">
-<a href="#caseual-wednesday">⬆️</a>
+<a href="#sl-rad---formazione-peer-to-peer">⬆️</a>
 </div>
 
 ---
 
+<!---
 #### Come preparsi al Case*ual* Wednesday?
 
 [Caseual Wednesday &rarr; Vademecum](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/how_to_be_caseual_on_wednesday.html)
 
 <div style="text-align: right">
-<a href="#caseual-wednesday">⬆️</a>
+<a href="#sl-rad---formazione-peer-to-peer">⬆️</a>
 </div>
 
 ---
+
+-->
 
 ### **ECO-FRIENDLY**
 
@@ -114,3 +117,11 @@ Archivio delle presentazioni del progetto ECO-Friendly e presentazione della lez
 - [2 Marzo 2022 - Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
 - [30 Marzo 2022 - Curva spettrale doppler](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/curva_spettrale_doppler.html)
 - [30 Marzo 2022 - Eco Doppler TSA](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/lezione_doppler_tsa_specializzandi.html)
+
+<div style="text-align: right">
+<a href="#sl-rad---formazione-peer-to-peer">⬆️</a>
+</div>
+
+---
+
+### THERE AND BACK AGAIN
