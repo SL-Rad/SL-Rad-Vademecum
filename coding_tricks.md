@@ -1,7 +1,7 @@
 ![](img/codice-simboli-md.png)
 
 #### Metodo rapido per caricare le modifiche su github dal terminale
-`git add . | git commit -m "mdc tc - testo da rivedere" | git push | clear`
+`git fetch | git pull | git add . | git commit -m "code" | git push | clear`
 
 #### Commento html/markdown
 `<!---  -->`
@@ -16,5 +16,5 @@
 `<br>
 ``
 `
-#### !PERiCOLO! CANCELLA TUTTO IN UNA CARTELLA
+#### !PERICOLO! CANCELLA TUTTO IN UNA CARTELLA
 `Get-ChildItem -Path 'U:\Referti 2020\' -File | Remove-Item -Verbose`
