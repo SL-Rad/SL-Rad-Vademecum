@@ -7,7 +7,7 @@ La maggior parte della gittata sistolica serve a spingere in avanti  la colonna 
 - 20% di questa energia si trasmette in senso radiale -> *flusso radiale*
 - La dilatazione conseguente delle grandi arterie determina una riserva di energia potenziale -> in diastole viene ceduta per mantenere un flusso costante
 
-	![[Pasted image 20220329091353.png]]
+	![](documents/slide_slrad/Curva_spettrale_images/Pasted_image_20220329091353.png)
 
 - Il flusso radiale genera un'onda di parete (*polso arterioso*) -> velocità in m/s
 	- Dipende dall'elasticità della tonaca media -> più lenta in arterie elastiche, più veloce nelle arterie sclerotiche
@@ -43,7 +43,7 @@ Ulteriore parametro che si può ottenere dalla velocità di scorrimento della co
 	- La resistenza
 - La formula per la portata è: Q=S x V (S superficie, V velocità)
 
-
+---
 
 ## Profilo di scorrimento
 Il sangue è costituito da una parte corpuscolata e una parte fluida. Questo fa sì che il sangue scorra secondo delle lamelle concentriche (*streamlines*). 
@@ -92,9 +92,7 @@ Questo flusso viene perturbato nei punti di passaggio:
 
 ![[Pasted image 20220329104825.png]]
 
-
-
-
+---
 
 ## Curva spettrale nel settore arterioso
 ### Flusso assiale e radiale
@@ -145,13 +143,15 @@ L'ampiezza dei flussi dipende da:
 
 	![[Pasted image 20220329120203.png]]
 
-
+---
 
 ## Variazione curva V/t in funzione delle resistenze
 Le resistenze vascolari vengono definite grazie all'equazione di Poiseuille:
 
 ![[Pasted image 20220329130046.png]]
+
 ![[Pasted image 20220329130107.png]]
+
 ![[Pasted image 20220329130115.png]]
 
 Conseguenza -> grande importanza del raggio del vaso
@@ -225,6 +225,7 @@ Conseguenza di ciò è la formazione di un flusso quasi costante a valle.
 
 
 ### Effetti del circolo collaterale
+
 **Territorio ad alta resistenza**
 - Stenosi completa
 	- A ridosso dell'ostruzione -> complesso stump-flow (rimbalzo dell'onda di parete sull'ostruzione)
@@ -259,6 +260,9 @@ Il flusso continuo rappresenta un flusso di riserva -> la presenza di una stenos
 - A valle la stenosi determina caduta del flusso diastolico
 - Aumenta l'[[Indice di resistenza]] (si avvicina a 1)
 - In caso di stenosi serrata scompare il flusso diastolico con appiattimento del complesso sistolico
+
+---
+
 ## Parametri descrittivi della curva spettrale
 ### Analisi qualitativa
 
