@@ -105,7 +105,7 @@
 
 <hr>
 
-<h1> METASTASI EPATICHE DA TUMORE DEL COLON-RETTO TRATTATE MEDIANTE TERMOABLAZIONE PERCUTANEA: TEXTURE ANALYSIS E PREDIZIONE DELL’OUTCOME </h1>
+<h1> Metastasi epatiche da tumore del colon-retto trattate mediante termoablazione percutanea: <br>texture analysis e predizione dell’outcome </h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
