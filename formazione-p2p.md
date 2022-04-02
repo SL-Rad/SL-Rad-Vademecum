@@ -32,10 +32,10 @@ Sulla pagina sono raggruppati i progetti formativi da pari a pari organizzati e 
         - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
         - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
         - [15 Dicembre 2021](#15-dicembre-2021)
-        - [23 Marzo 2022](#23-marzo-2022)
+        - [23 Marzo 2022 \| Addome](#23-marzo-2022--addome)
     - [**ECO-FRIENDLY**](#eco-friendly)
       - [Archivio delle presentazioni](#archivio-delle-presentazioni)
-    - [THERE AND BACK AGAIN](#there-and-back-again)
+    - [**THERE AND BACK AGAIN**](#there-and-back-again)
 
 - - -
 
@@ -77,7 +77,7 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 - [15 Dicembre 2021 - A]()
 - [15 Dicembre 2021 - B]()
 
-##### 23 Marzo 2022
+##### 23 Marzo 2022 \| Addome
 
 - [23 Marzo 2022 - Le occlusioni intestinali](caseual_wednesdays/2022-03-23/occlusioni_intestinali.html)
 - [23 Marzo 2022 - Le vie biliari](caseual_wednesdays/2022-03-23/vie_biliari.html)
@@ -124,4 +124,16 @@ Archivio delle presentazioni del progetto ECO-Friendly e presentazione della lez
 
 ---
 
-### THERE AND BACK AGAIN
+### **THERE AND BACK AGAIN**
+
+Raccolta delle presentazioni realizzate dai tesisti e dagli specializzandi della Radiologia.
+
+- [Ottobre 2021 - Artificial intelligence (AI) in diagnostic imaging: application to Coronavirus 2019 Disease (COVID-19)](formazione_p2p/there_and_back_again/artificial_intelligence_(ai)_in_diagnostic_imaging_application_to_coronavirus_2019_disease_(covid-19).html)
+- [Marzo 2022 - L’errore in radiologia: analisi di una casistica nazionale di richieste di risarcimento](formazione_p2p/there_and_back_again/errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento.html)
+- [Marzo 2022 - Advanced Gastric Cancer]()
+
+<div style="text-align: right">
+<a href="#sl-rad---formazione-peer-to-peer">⬆️</a>
+</div>
+
+---
