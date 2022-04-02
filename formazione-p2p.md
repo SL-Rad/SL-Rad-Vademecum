@@ -125,6 +125,7 @@ Archivio delle presentazioni del progetto ECO-Friendly e presentazione della lez
 Raccolta delle presentazioni realizzate dai tesisti e dagli specializzandi della Radiologia.
 
 - [Ottobre 2021 - Artificial intelligence (AI) in diagnostic imaging: application to Coronavirus 2019 Disease (COVID-19)](formazione_p2p/there_and_back_again/artificial_intelligence_(ai)_in_diagnostic_imaging_application_to_coronavirus_2019_disease_(covid-19).html)
+- [Marzo 2022 - Metastasi epatiche da tumore del colon-retto trattate mediante termoablazione percutanea: texture analysis e predizione dell’outcome](formazione_p2p/there_and_back_again/metastasi_epatiche_da_tumore_del_colon-retto_trattate_mediante_termoablazione_percutanea_texture_analysis_e_predizione_dell’outcom.html)
 - [Marzo 2022 - L’errore in radiologia: analisi di una casistica nazionale di richieste di risarcimento](formazione_p2p/there_and_back_again/errore_in_radiologia_analisi_di_una_casistica_nazionale_di_richieste_di_risarcimento.html)
 - [Marzo 2022 - Advanced Gastric Cancer](formazione_p2p/there_and_back_again/advanced_gastric_cancer.html)
 
