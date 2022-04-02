@@ -199,11 +199,8 @@
 
 <hr>
 <h2>ALLEGATI</h2>
-
 <br>
-
 <a href="formazione_p2p\eco_friendly\interpretazione_curva_spettrale_doppler.html">Appunti e approfondimento della lezione</a>
-
 <br>
 
 <hr>
