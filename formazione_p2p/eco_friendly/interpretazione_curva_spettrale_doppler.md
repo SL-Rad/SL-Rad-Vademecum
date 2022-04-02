@@ -7,7 +7,7 @@ La maggior parte della gittata sistolica serve a spingere in avanti  la colonna 
 - 20% di questa energia si trasmette in senso radiale -> *flusso radiale*
 - La dilatazione conseguente delle grandi arterie determina una riserva di energia potenziale -> in diastole viene ceduta per mantenere un flusso costante
 
-	![](formazione_p2p\eco_friendly\pasted_image_20220329091353.png)
+	![](pasted_image_20220329091353.png)
 
 - Il flusso radiale genera un'onda di parete (*polso arterioso*) -> velocità in m/s
 	- Dipende dall'elasticità della tonaca media -> più lenta in arterie elastiche, più veloce nelle arterie sclerotiche
@@ -16,11 +16,11 @@ La maggior parte della gittata sistolica serve a spingere in avanti  la colonna 
 - **Incisura dicrota**: chiusura valvola semilunare aortica + contropulsazione di parete generata dall'onda stazionaria che si genera per riflessione dell'onda sfigmica a livello delle biforcazioni
 	- Coincide con inizio della diastole
 
-	![[Pasted image 20220329091811.png]]
+	![](pasted_image_20220329091811.png)
 
 - **Onda reverse**: deflessione negativa nel versante discendente dell'onda causata da un effetto di rimbalzo dell'onda incidente a livello delle ramificazioni e delle diramazioni periferiche vasocostrette	
 
-	![[Pasted image 20220329091829.png]]
+	![](pasted_image_20220329091829.png)
 
 
 ### Parametri da considerare
@@ -71,7 +71,7 @@ Occorre inoltre distinguere il comportamento dei fluidi Newtoniani (l'acqua) da 
 	- Profilo di flusso piatto e uniforme
 	- Conseguenza sulla curva spettrale -> spettro stretto
 
-![[Pasted image 20220329100513.png]]
+![](pasted_image_20220329100513.png)
 
 Il flusso rimane laminare finchè non supera un certo limite di:
 - velocità (velocità critica)
@@ -90,7 +90,7 @@ Questo flusso viene perturbato nei punti di passaggio:
 - Biforcazioni arteriose
 - Placche ateromasiche
 
-![[Pasted image 20220329104825.png]]
+![](pasted_image_20220329104825.png)
 
 ---
 
@@ -126,12 +126,12 @@ L'ampiezza dei flussi dipende da:
 - Sistole: brusca accelerazione assiale
 - Diastole: Decelerazione prolungata
 	
-	![[Pasted image 20220329115510.png]]
+	![](pasted_image_20220329115510.png)
 
 **Curva trifasica ad alta resistenza**
 - Flusso continuo nullo ->  curva V/t rappresentata solo da flusso pulsato/discontinuo
 
-	![[Pasted image 20220329115605.png]]
+	![](pasted_image_20220329115605.png)
 
 - Tratti:
 	- *Tempo di latenza dell'onda*: ritardo con cui l'onda arriva in periferia
@@ -141,25 +141,25 @@ L'ampiezza dei flussi dipende da:
 	- *Onda reverse*: rimbalzo della colonna ematica contro le resistenze e le diramazioni periferiche vasocostrette
 	- *Flusso diastolico lento*
 
-	![[Pasted image 20220329120203.png]]
+	![](pasted_image_20220329120203.png)
 
 ---
 
 ## Variazione curva V/t in funzione delle resistenze
 Le resistenze vascolari vengono definite grazie all'equazione di Poiseuille:
 
-![[Pasted image 20220329130046.png]]
+![](pasted_image_20220329130046.png)
 
-![[Pasted image 20220329130107.png]]
+![](pasted_image_20220329130107.png)
 
-![[Pasted image 20220329130115.png]]
+![](pasted_image_20220329130115.png)
 
 Conseguenza -> grande importanza del raggio del vaso
 
 Si può testare l'effetto della modificazione del raggio con due test:
 - *Test dell'ischemia a pugno chiuso* (arteria radiale)
 
-	![[Pasted image 20220329130340.png]]
+	![](pasted_image_20220329130340.png)
 - *Iperventilazione e apnea* (arteria carotide interna)
 	- Iperventilazione -> ipocapnia -> vasocostrizione
 		- Riduzione picco sistolico
@@ -183,11 +183,11 @@ La presenza di una stenosi provoca la modifica **a valle** della curva in varie 
 4. Flusso appiattito con lieve modulazione sistolica
 5. Flussi terminali
 
-![[Pasted image 20220329131831.png]]
+![](pasted_image_20220329131831.png)
 
 Conseguenza di ciò è la formazione di un flusso quasi costante a valle.
 
-![[Pasted image 20220329131808.png]]
+![](pasted_image_20220329131808.png)
 
 ### Effetti emodinamici diretti di una stenosi
 - *Incremento velocità nel tratto stenotico*
@@ -196,7 +196,7 @@ Conseguenza di ciò è la formazione di un flusso quasi costante a valle.
 	- La convergenza provoca disturbo e dispersione della velocità
 	- Cambia l'angolo di incidenza del fascio US -> sottostima della velocità e della severità di stenosi
 
-![[Pasted image 20220329143130.png]]
+![](pasted_image_20220329143130.png)
 
 -  *Aumento tensione transmurale post-stenotica*
 	-  Nel passaggio da stenosi a tratto post-stenotico si formano linee di flusso di ricircolo e linee di flusso reverse
@@ -207,21 +207,21 @@ Conseguenza di ciò è la formazione di un flusso quasi costante a valle.
 **Effetti nella curva spettrale per % di stenosi**
 - Stenosi < 50% (superficie regolare)
 
-![[Pasted image 20220329143725.png]]
+![](pasted_image_20220329143725.png)
 
 - Stenosi < 50% (superficie irregolare)
 	- A livello della stenosi si ha modesta dispersione spettrale + modesta accelerazione sistolica
 
-![[Pasted image 20220329143745.png]]
+![](pasted_image_20220329143745.png)
 
 - Stenosi 50-90%
 
-![[Pasted image 20220329143802.png]]
+![](pasted_image_20220329143802.png)
 
 - Stenosi > 90%
 	- Marcata dispersione dello spettro
 	- Velocità elevatissime a livello della stenosi
-![[Pasted image 20220329143812.png]]
+![](pasted_image_20220329143812.png)
 
 
 ### Effetti del circolo collaterale
@@ -231,18 +231,18 @@ Conseguenza di ciò è la formazione di un flusso quasi costante a valle.
 	- A ridosso dell'ostruzione -> complesso stump-flow (rimbalzo dell'onda di parete sull'ostruzione)
 	- A valle: appiattimento complessi sistolici fino alla scomparsa
 
-![[Pasted image 20220329145125.png]]
+![](pasted_image_20220329145125.png)
 
 - Stenosi parzialmente compensata
 	- A valle: demodulazione della curva -> riduzione componente pulsatile
 	- Riduzione in ampiezza dell'onda + allargamento complesso sistolico
 	- Perdita onda reverse
 
-![[Pasted image 20220329145244.png]]
+![](pasted_image_20220329145244.png)
 
 - Stenosi compensata
 
-![[Pasted image 20220329145258.png]]
+![](pasted_image_20220329145258.png)
 
 Quando un *vaso* arterioso viene *riabitato a valle* dell'ostruzione mediante vasi collaterali acquisisce un *aspetto* *monofasico*:
 - Sistolico slargato
@@ -292,13 +292,13 @@ Per misurare l'impedenza sono stati proposti numerosi parametri semiquantitativi
 
 - L'indice di Pulsatilità (IP)
 	
-	![[Pasted image 20220402115108.png]]
+	![](pasted_image_20220402115108.png)
 	- Dove S è la velocità sistolica massima, D la velocità telediastolica minima e Vm la velocità media.
 	- Viene utilizzato per valutare l'impedenza nei territori vascolari ad alta resistenza (curva trifasica)
 	- E' influenzata da stenosi, resistenze periferiche e dalla frequenza cardiaca
 
 - L'indice di Resistenza (IR)
 
-	![[Pasted image 20220402115451.png]]
+	![](pasted_image_20220402115451.png)
 	-  Dove S è la velocità sistolica massima e D la velocità telediastolica minima
 	-  Serve a stimare l'impedenza nelle arterie dei territori vascolari a bassa resistenza (curva monofasica)
