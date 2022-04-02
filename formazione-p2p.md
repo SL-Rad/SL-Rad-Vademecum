@@ -41,15 +41,11 @@ Sulla pagina sono raggruppati i progetti formativi da pari a pari organizzati e 
 
 ### **CASEUAL WEDNESDAY**
 
-I **Case*ual* Wednesday** sono incontri mensili organizzati dagli specializzandi con l'intento di permettere a specializzandi e strutturati di **incontrasi e discutere dei casi interessanti** passati nelle sale della radiologia nei mesi precedenti.
+I **Case*ual* Wednesday** sono incontri mensili organizzati dagli specializzandi con l'intento di permettere a specializzandi e strutturati di **incontrarsi e discutere dei casi interessanti** passati nelle sale della radiologia nei mesi precedenti.
 
-Gli incontri vengono solitamente organizzati **il 2° mercoledì del mese** **dalle 15:30 alle 16:30** nella **Biblioteca della Radiologia Centrale**.
+Gli incontri vengono organizzati **il 2° mercoledì del mese** **dalle 15:30 alle 16:30** nella **Biblioteca della Radiologia Centrale**.
 
 **Tre specializzandi** presentano un caso di **5-7 minuti** ciascuno (**6-10 Slide**).
-
-Ogni mese cerchiamo di coinvolgere **uno strutturato** per un quarto caso.
-
-Ogni incontro ha **un tema specifico** che può venire di volta in volta proposto dallo strutturato che accetta di partecipare.
 
 Ogni incontro deve prevedere immancabilmente la presenza di un **vassoio di pasticcini**.
 
@@ -103,11 +99,11 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 ### **ECO-FRIENDLY**
 
-Il progetto ECO-Friendly rappresenta un approfondimento teorico-pratico delle tecniche acquisite durante il periodo di turnazione in ecografia e si compone di incontri pomeridiani a cadenza mensile, solitamente il quarto mercoledì del mese.
+Il progetto ECO-Friendly rappresenta un approfondimento teorico-pratico delle tecniche acquisite durante il periodo di turnazione in ecografia e si compone di incontri pomeridiani a cadenza mensile, solitamente il **quarto mercoledì del mese**.
 
-Ad ogni incontro uno specializzando del secondo anno prepara una breve presentazione sugli aspetti teorici dell'ecografia di un determinato distretto: basi di fisica delle tecniche ecografiche applicate, anatomia del distretto, reperti patologici e loro caratterizzazizione, frasi di refertazione.
+Ad ogni incontro uno specializzando del secondo anno prepara una breve presentazione sugli aspetti teorici dell'ecografia di un determinato distretto: basi di fisica delle tecniche ecografiche applicate, anatomia del distretto, reperti patologici e loro caratterizzazione, frasi di refertazione.
 
-A seguito della presentazione si passa in sala ecografica dove si provano le tecniche e le manovre tra i partecipanti dell'incontro.
+A seguito della presentazione si passa in sala ecografica dove si provano le tecniche e le manovre tra i partecipanti.
 
 #### Archivio delle presentazioni
 
