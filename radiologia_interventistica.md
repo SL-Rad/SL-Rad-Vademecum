@@ -31,21 +31,13 @@
 			- [Tecnica dinamica](#tecnica-dinamica)
 			- [Esami sul liquido ascitico](#esami-sul-liquido-ascitico)
 		- [COMPLICAZIONI](#complicazioni)
-		- [REFERTO PROCEDURA #1](#referto-procedura-1)
+		- [REFERTO PROCEDURA](#referto-procedura)
 	- [DRENAGGIO PERCUTANEO TC GUIDATO](#drenaggio-percutaneo-tc-guidato)
 	- [POSIZIONAMENTO/RIMOZIONE PICC](#posizionamentorimozione-picc)
 	- [RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA](#radiofrequenza-percutanea-lesione-nodulare-epatica)
 	- [BIOPSIA LINFONODALE ECOGUIDATA](#biopsia-linfonodale-ecoguidata)
 	- [AGOBIOPSIA TORACICA ECOGUIDATA](#agobiopsia-toracica-ecoguidata)
 	- [AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI](#agobiopsia-ecoguidata-tessuti-superficiali)
-	- [](#)
-	- [](#-1)
-	- [](#-2)
-	- [](#-3)
-	- [](#-4)
-	- [](#-5)
-	- [](#-6)
-	- [](#-7)
 
 - - -
 
@@ -123,46 +115,57 @@ Prima di eseguire la procedura:
 > La procedura può essere eseguita:
 >
 > - alla cieca utilizzando la tecnica del punto di riferimento
-> 	- 15 cm lateralmente all'ombelico nel quadrante inferiore destro o sinistro
+>   - 15 cm lateralmente all'ombelico nel quadrante inferiore destro o sinistro
 > - dopo la marcatura ecografica prima della procedura
 > - sotto guida d'immagine tipicamente con guida ecografica.
 
-La guida ecografica può essere utilizzata in modo dinamico o statico, anche se entrambi dovrebbero utilizzare gli stessi obiettivi di scansione pre-procedurale:
-- l'identificazione della più grande raccolta ascitica
-  - 3 cm è la tasca minima sicura 
-- e dove la parete addominale è priva di vasi o tessuto adiposo eccessivo
+La guida ecografica può essere utilizzata in modo dinamico o statico; obiettivi della scansione pre-procedurale:
+
+- **identificazione** della **raccolta** ascitica **di dimensioni maggiori**
+  - la **dimensione minima di sicurezza** di una falda ascitica deve essere **> 3 cm**
+- dove la **parete addominale** è **priva di vasi** o eccessivo tessuto adiposo
 
 #### Tecnica statica
 
-il sito di ingresso ideale è segnato con due linee perpendicolari che indicano la posizione della sacca di fluido mirata, come identificata in due piani ortogonali
-il catetere sopra l'ago viene inserito in modo perpendicolare all'incrocio delle suddette marcature
+Il sito di ingresso ideale è segnato con **due linee perpendicolari** che indicano la posizione della sacca di fluido mirata, **l'ago** viene **inserito** in modo **perpendicolare** all'**incrocio delle linee** di marcatura.
 
 #### Tecnica dinamica
 
-si può utilizzare la visualizzazione sull'asse corto o sull'asse lungo
- la seconda permette la visualizzazione dell'ago durante tutta la procedura
-la prima si basa sulla visualizzazione intermittente della punta dell'ago
-entrambi gli approcci richiedono un angolo di ingresso di 45 gradi, sia nel punto medio dell'impronta della sonda (asse corto) e avanzando l'ago in modo fuori piano, o leggermente laterale all'impronta della sonda (asse lungo), avanzando in modo in piano.
-Un ago 18G con una siringa da 10 mL viene passato usando una tecnica a Z, per ridurre al minimo il rischio di perdite persistenti dopo la rimozione. La pressione negativa viene mantenuta sulla siringa fino all'aspirazione del liquido ascitico, con successivo avanzamento del catetere, rimozione dell'ago e fissaggio di un rubinetto a tre vie.
+1. Si può utilizzare una visualizzazione:
+   - sull'asse corto
+     - visualizzazione intermittente della punta dell'ago
+   - sull'asse lungo
+     - permette la visualizzazione dell'ago durante tutta la procedura
+	> Entrambi gli approcci richiedono un **angolo di ingresso di 45 gradi**
 
-La tecnica Seldinger può essere usata per lasciare un catetere di ~8 Fr in situ per le procedure terapeutiche. In alternativa, può essere utilizzato anche un set di cateteri trocar.
+2. Un **ago 18G** con una **siringa da 10 mL** viene passato usando una **tecnica a Z** per **ridurre** al minimo il **rischio** di **perdite persistenti dopo la rimozione**.
+3. La **pressione negativa** viene mantenuta sulla siringa **fino all'aspirazione del liquido ascitico**,
+4. successivo **avanzamento del catetere**,
+5. **rimozione dell'ago**
+6. **fissaggio di un rubinetto a tre vie**.
+
+> La **tecnica Seldinger** può essere usata per lasciare un catetere di ~8 Fr in situ per le procedure terapeutiche.
+>
+> In alternativa, può essere utilizzato anche un **set di cateteri trocar**.
 
 #### Esami sul liquido ascitico
 
 Il fluido può essere inviato per i seguenti test:
 
-- colorazione di Gram, coltura e sensibilità
-- conteggio delle cellule (soprattutto neutrofili)
-- citologia
-- livelli di albumina (per valutare il gradiente di albumina dell'ascite sierica (SA-AG)
-- livello di trigliceridi (elevato nell'ascite chilosa)
-- livello di glucosio
-- livello di lattato deidrogenasi
-- livello di amilasi (suggerisce una patologia pancreatica)
-- pH
+- colorazione di **Gram**, **coltura** e **sensibilità**
+- **conteggio delle cellule** (soprattutto **neutrofili**)
+- **citologia**
+- livelli di **albumina** (per valutare il **gradiente di albumina dell'ascite sierica (SA-AG)**)
+- livello di **trigliceridi** (elevato nell'**ascite chilosa**)
+- livello di **glucosio**
+- livello di **lattato deidrogenasi**
+- livello di **amilasi** (suggerisce una **patologia pancreatica**)
+- **pH**
 
-Dopo la procedura, bisogna fare attenzione alle procedure terapeutiche per evitare grandi spostamenti di liquidi. 
-L'albumina deve essere sostituita parenteralmente per evitare il disequilibrio, riconoscendo il rischio di collasso circolatorio post paracentesi, più comunemente indicato quando vengono liberati >5 litri di liquido. 
+Dopo la procedura, bisogna fare attenzione alle procedure terapeutiche per evitare grandi spostamenti di liquidi.
+
+L'albumina deve essere sostituita per via paraenterale per evitare disequilibri responsabili di rischi di collasso circolatorio post-paracentesi, più comuni quando vengono drenati >5 litri di liquido.
+
 I diuretici, la restrizione di sale e acqua sono frequentemente utilizzati.
 
 ### COMPLICAZIONI
@@ -182,7 +185,7 @@ I diuretici, la restrizione di sale e acqua sono frequentemente utilizzati.
   - minimizzato sostituendo volume e albumina
 - Sindrome epato-renale
 
-### REFERTO PROCEDURA #1
+### REFERTO PROCEDURA
 
 Sotto **guida ecografica**
 è stata eseguita la **paracentesi** in (**fossa iliaca destra**),
@@ -202,6 +205,16 @@ e si collega il sistema alla **sacca Danese**.
 ---
 
 ## DRENAGGIO PERCUTANEO TC GUIDATO
+
+Con **guida TC** ed **approccio laterale**
+è stato eseguito **dreanaggio** della nota **raccolta retro cardiaca sinistra polmonare omolaterale**
+utilizzando dapprima **ago di CHIBA 21 x 20 cm** (anche **con tecnica a doppia infissione**)
+e successivamente mediante **ago da 18 G**.
+
+Il **liquido** drenato, **sieroso** (**circa 50 cc**)
+è stato raccolto in **due beute distinte** per le opportune **analisi di laboratorio**.
+**Non** si evidenziano **complicanze maggiori immediate**.
+Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -249,7 +262,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -257,7 +270,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -265,7 +278,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -273,7 +286,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -281,7 +294,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -289,7 +302,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -297,7 +310,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -305,7 +318,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## 
+##
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
