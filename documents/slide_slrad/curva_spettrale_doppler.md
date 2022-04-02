@@ -200,7 +200,7 @@
 <hr>
 <h2>ALLEGATI</h2>
 
-- [Appunti e approfondimento della lezione](documents/slide_slrad/Interpretazione_curva_spettrale_doppler.md")
+- [Appunti e approfondimento della lezione](documents/slide_slrad/../../Interpretazione_curva_spettrale_Doppler.md)
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
