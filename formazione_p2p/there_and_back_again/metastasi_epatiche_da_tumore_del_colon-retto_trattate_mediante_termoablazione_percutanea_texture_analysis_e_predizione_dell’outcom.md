@@ -1,6 +1,6 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-<title>SL Rad Vademecum | METASTASI EPATICHE DA TUMORE DEL COLON-RETTO TRATTATE MEDIANTE TERMOABLAZIONE PERCUTANEA: TEXTURE ANALYSIS E PREDIZIONE DELL’OUTCOME</title>
+<title>SL Rad Vademecum | Metastasi epatiche da tumore del colon-retto trattate mediante termoablazione percutanea: texture analysis e predizione dell’outcome</title>
 <style>
   * {
     box-sizing: border-box;
