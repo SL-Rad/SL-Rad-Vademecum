@@ -199,7 +199,7 @@
 
 <hr>
 <h2>ALLEGATI</h2>
-
+<a href="https://sl-rad.github.io/SL-Rad-Vademecum/formazione_p2p/eco_friendly/interpretazione_curva_spettrale_doppler.html">&rarr; Interpretazione della curva spettrale del doppler</a>
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
