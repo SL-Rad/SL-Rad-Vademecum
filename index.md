@@ -51,6 +51,10 @@
 <br>
 <br>
 <br>
+  <a style="text-align: center; word-break: break-word; display: flex; align-items: center;" href="https://sl-rad.github.io/SL-Rad-Vademecum/radiologia_interventistica.html"><img src="https://sl-rad.github.io/SL-Rad-Vademecum/icons\needle.png" width="64px" /> &nbsp; Radiologia Interventistica</a>
+<br>
+<br>
+<br>
 <div style="text-align: center;" class="qr-code">
 <img src="https://sl-rad.github.io/SL-Rad-Vademecum/qr code\qr_repair_dec.png" width="256px"/>
 </div>
