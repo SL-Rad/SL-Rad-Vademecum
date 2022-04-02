@@ -100,10 +100,13 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 ### **ECO-FRIENDLY**
 
+Il progetto ECO-Friendly rappresenta un approfondimento teorico-pratico delle tecniche acquisite durante il periodo di turnazione in ecografia e si compone di incontri pomeridiani a cadenza mensile, solitamente il quarto mercoledì del mese.
+Ad ogni incontro uno specializzando del secondo anno prepara una breve presentazione sugli aspetti teorici dell'ecografia di un determinato distretto: basi di fisica delle tecniche ecografiche applicate, anatomia del distretto, reperti patologici e loro caratterizzazizione, frasi di refertazione.
+A seguito della presentazione si passa in sala ecografica dove si provano le tecniche e le manovre tra i partecipanti dell'incontro.
 
+### Archivio delle presentazioni
 
-### Archivio delle presentazioni 
-
+- [Novembre 2021 - Ultrasound 101: Practical Course of Ultrasonography](documents/slide_slrad/ultrasound101-practical_course_of_ultrasonography.html)
 - [2 Marzo 2022 - Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
 - [30 Marzo 2022 - Curva spettrale doppler](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/curva_spettrale_doppler.html)
 - [30 Marzo 2022 - Eco Doppler TSA](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/lezione_doppler_tsa_specializzandi.html)

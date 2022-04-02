@@ -1,6 +1,6 @@
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-<title>SL Rad Vademecum | CASEual Wednesday - Appendicite epiploica</title>
+<title>SL Rad Vademecum | Ultrasound 101: Practical Course of Ultrasonography</title>
 <style>
   * {
     box-sizing: border-box;
@@ -105,122 +105,86 @@
 
 <hr>
 
-<h1> PRINCIPI DI DOPPLER PULSATO </h1>
+<h1> ULTRASOUND 101: PRACTICAL COURSE OF ULTRASONOGRAPHY </h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 19</div>
-    <img src="principi_di_doppler_pulsato_1_of_19.png" style="width: 100%" />
+    <div class="numbertext">1 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_1_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 19</div>
-    <img src="principi_di_doppler_pulsato_2_of_19.png" style="width: 100%" />
+    <div class="numbertext">2 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_2_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 19</div>z
-    <img src="principi_di_doppler_pulsato_3_of_19.png" style="width: 100%" />
+    <div class="numbertext">3 / 13</div>z
+    <img src="ultrasound101-practical_course_of_ultrasonography_3_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">4 / 19</div>
-    <img src="principi_di_doppler_pulsato_4_of_19.png" style="width: 100%" />
+    <div class="numbertext">4 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_4_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">5 / 19</div>
-    <img src="principi_di_doppler_pulsato_5_of_19.png" style="width: 100%" />
+    <div class="numbertext">5 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_5_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">6 / 19</div>
-    <img src="principi_di_doppler_pulsato_6_of_19.png" style="width: 100%" />
+    <div class="numbertext">6 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_6_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">7 / 19</div>
-    <img src="principi_di_doppler_pulsato_7_of_19.png" style="width: 100%" />
+    <div class="numbertext">7 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_7_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">8 / 19</div>
-    <img src="principi_di_doppler_pulsato_8_of_19.png" style="width: 100%" />
+    <div class="numbertext">8 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_8_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">9 / 19</div>
-    <img src="principi_di_doppler_pulsato_9_of_19.png" style="width: 100%" />
+    <div class="numbertext">9 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_9_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">10 / 19</div>
-    <img src="principi_di_doppler_pulsato_10_of_19.png" style="width: 100%" />
+    <div class="numbertext">10 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_10_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">11 / 19</div>
-    <img src="principi_di_doppler_pulsato_11_of_19.png" style="width: 100%" />
+    <div class="numbertext">11 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_11_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">12 / 19</div>
-    <img src="principi_di_doppler_pulsato_12_of_19.png" style="width: 100%" />
+    <div class="numbertext">12 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_12_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">13 / 19</div>
-    <img src="principi_di_doppler_pulsato_13_of_19.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">14 / 19</div>
-    <img src="principi_di_doppler_pulsato_14_of_19.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">15 / 19</div>
-    <img src="principi_di_doppler_pulsato_15_of_19.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">16 / 19</div>
-    <img src="principi_di_doppler_pulsato_16_of_19.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">17 / 19</div>
-    <img src="principi_di_doppler_pulsato_17_of_19.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">18 / 19</div>
-    <img src="principi_di_doppler_pulsato_18_of_19.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">19 / 19</div>
-    <img src="principi_di_doppler_pulsato_19_of_19.png" style="width: 100%" />
+    <div class="numbertext">13 / 13</div>
+    <img src="ultrasound101-practical_course_of_ultrasonography_13_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
@@ -245,12 +209,6 @@
   <span class="dot" onclick="currentSlide(11)"></span>
   <span class="dot" onclick="currentSlide(12)"></span>
   <span class="dot" onclick="currentSlide(13)"></span>
-  <span class="dot" onclick="currentSlide(14)"></span>
-  <span class="dot" onclick="currentSlide(15)"></span>
-  <span class="dot" onclick="currentSlide(16)"></span>
-  <span class="dot" onclick="currentSlide(17)"></span>
-  <span class="dot" onclick="currentSlide(18)"></span>
-  <span class="dot" onclick="currentSlide(19)"></span>
 </div>
 
 <hr>
@@ -258,18 +216,6 @@
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
-<ul>
-<li><p>ECOGRAFIA CLINICA E COLOR DOPPLER IN NEFROLOGIA ; Mario Meola ;
-Capitolo 6 - Principi Teorici ed Applicazione Doppler ; 2008 ; EUREKA Editore</p>
-</li>
-<li><p>ECO-COLOR DOPPLER EMODINAMICA – FISICA – TECNICA ; A. M. De
-Gaetano ; Toshiba Medical System</p>
-</li>
-<li><p>Optimizing Doppler and Color Flow US: Application to Hepatic Sonography
-Jonathan B. Kruskal, Peggy A. Newman, Laurie G. Sammons, Robert A.
-Kane <a href="https://doi.org/10.1148/rg.243035139">https://doi.org/10.1148/rg.243035139</a></p>
-</li>
-</ul>
 
 <script>
   var slideIndex = 1;
