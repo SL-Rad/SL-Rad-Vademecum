@@ -22,7 +22,7 @@
 
 # SL Rad - Formazione peer-to-peer
 
-Sulla pagina sono raggrupapti i progetti formativi da pari a pari organizzati e promossi dagli specializzandi della Radiologia.
+Sulla pagina sono raggruppati i progetti formativi da pari a pari organizzati e promossi dagli specializzandi della Radiologia.
 
 - - -
 
@@ -45,7 +45,7 @@ I **Case*ual* Wednesday** sono incontri mensili organizzati dagli specializzandi
 
 Gli incontri vengono solitamente organizzati **il 2° mercoledì del mese** **dalle 15:30 alle 16:30** nella **Biblioteca della Radiologia Centrale**.
 
-**Tre specializzandi** presentano un caso di **5-7 minuti** chiascuno (**6-10 Slide**).
+**Tre specializzandi** presentano un caso di **5-7 minuti** ciascuno (**6-10 Slide**).
 
 Ogni mese cerchiamo di coinvolgere **uno strutturato** per un quarto caso.
 
@@ -101,10 +101,14 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 ### **ECO-FRIENDLY**
 
 Il progetto ECO-Friendly rappresenta un approfondimento teorico-pratico delle tecniche acquisite durante il periodo di turnazione in ecografia e si compone di incontri pomeridiani a cadenza mensile, solitamente il quarto mercoledì del mese.
+
 Ad ogni incontro uno specializzando del secondo anno prepara una breve presentazione sugli aspetti teorici dell'ecografia di un determinato distretto: basi di fisica delle tecniche ecografiche applicate, anatomia del distretto, reperti patologici e loro caratterizzazizione, frasi di refertazione.
+
 A seguito della presentazione si passa in sala ecografica dove si provano le tecniche e le manovre tra i partecipanti dell'incontro.
 
 #### Archivio delle presentazioni
+
+Archivio delle presentazioni del progetto ECO-Friendly e presentazione della lezione di ecografia pratica svolta agli studenti del Corso di Laurea in Medicina e Chirurgia.
 
 - [Novembre 2021 - Ultrasound 101: Practical Course of Ultrasonography](documents/slide_slrad/ultrasound101-practical_course_of_ultrasonography.html)
 - [2 Marzo 2022 - Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
