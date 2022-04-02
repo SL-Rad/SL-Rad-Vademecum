@@ -16,3 +16,5 @@
 `<br>
 ``
 `
+#### !PERiCOLO! CANCELLA TUTTO IN UNA CARTELLA
+`Get-ChildItem -Path 'U:\Referti 2020\' -File | Remove-Item -Verbose`
