@@ -35,7 +35,7 @@ Sulla pagina sono raggrupapti i progetti formativi da pari a pari organizzati e 
         - [23 Marzo 2022](#23-marzo-2022)
       - [Come preparsi al Case*ual* Wednesday?](#come-preparsi-al-caseual-wednesday)
     - [**ECO-FRIENDLY**](#eco-friendly)
-    - [Archivio delle presentazioni](#archivio-delle-presentazioni)
+      - [Archivio delle presentazioni](#archivio-delle-presentazioni)
 
 - - -
 
@@ -104,7 +104,7 @@ Il progetto ECO-Friendly rappresenta un approfondimento teorico-pratico delle te
 Ad ogni incontro uno specializzando del secondo anno prepara una breve presentazione sugli aspetti teorici dell'ecografia di un determinato distretto: basi di fisica delle tecniche ecografiche applicate, anatomia del distretto, reperti patologici e loro caratterizzazizione, frasi di refertazione.
 A seguito della presentazione si passa in sala ecografica dove si provano le tecniche e le manovre tra i partecipanti dell'incontro.
 
-### Archivio delle presentazioni
+#### Archivio delle presentazioni
 
 - [Novembre 2021 - Ultrasound 101: Practical Course of Ultrasonography](documents/slide_slrad/ultrasound101-practical_course_of_ultrasonography.html)
 - [2 Marzo 2022 - Principi di doppler pulsato](https://sl-rad.github.io/SL-Rad-Vademecum/documents/slide_slrad/principi_di_doppler_pulsato.html)
