@@ -18,7 +18,8 @@
 	- [CONSULENZA RADIOLOGICA](#consulenza-radiologica)
 	- [AGOBIOPSIA EPATICA CEUS-GUIDATA](#agobiopsia-epatica-ceus-guidata)
 	- [AGOBIOPSIA ECOGUIDATA SEDI PROFONDE](#agobiopsia-ecoguidata-sedi-profonde)
-	- [DRENAGGIO PERCUTANEO ECOGUIDATO](#drenaggio-percutaneo-ecoguidato)
+- [DRENAGGIO PERCUTAENO ECOGUIDATO](#drenaggio-percutaeno-ecoguidato)
+	- [PARACENTESI ECOGUIDATA](#paracentesi-ecoguidata)
 		- [INDICAZIONI](#indicazioni)
 			- [Diagnostiche:](#diagnostiche)
 			- [Terapeutiche:](#terapeutiche)
@@ -38,6 +39,8 @@
 	- [BIOPSIA LINFONODALE ECOGUIDATA](#biopsia-linfonodale-ecoguidata)
 	- [AGOBIOPSIA TORACICA ECOGUIDATA](#agobiopsia-toracica-ecoguidata)
 	- [AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI](#agobiopsia-ecoguidata-tessuti-superficiali)
+	- [MATERIALE](#materiale-1)
+		- [AGO DI CHIBA](#ago-di-chiba)
 
 - - -
 
@@ -65,7 +68,30 @@
 
 ---
 
-## DRENAGGIO PERCUTANEO ECOGUIDATO
+# DRENAGGIO PERCUTAENO ECOGUIDATO
+
+h 11:00 
+Sotto **guida ecografica **
+è stato posizionato un **catetere di drenaggio** del calibro di **8.4 F** 
+nella **raccolta** già nota in sede **parietocolia sinistra**.
+
+Sono stati evacuati circa **20 cc di fluido purulento** 
+di cui si allega un **campione** per gli **esami di laboratorio**. 
+
+Al termine della procedura il **catetere** è stato **lasciato in sede**, 
+assicurato alla cute con un **punto di seta**, 
+**raccordato** a **sacca danese** per essere gestito dai Medici Curanti. 
+
+Il **controllo ecografico** al termine della procedura **non** ha evidenziato **complicanze immediate**; 
+si consiglia **emocromo** di controllo **tra circa due ore**.
+
+<div style="text-align: right">
+<a href="#radiologia-interventistica">⬆️</a>
+</div>
+
+---
+
+## PARACENTESI ECOGUIDATA
 
 ### INDICAZIONI
 
@@ -319,6 +345,38 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 ---
 
 ##
+
+<div style="text-align: right">
+<a href="#radiologia-interventistica">⬆️</a>
+</div>
+
+---
+
+## MATERIALE
+
+### AGO DI CHIBA
+L'ago Chiba è uno degli **aghi da biopsia/accesso percutaneo** più comunemente usati.
+
+È un **ago cavo in due parti** con una **punta smussata** angolata a **30 gradi**.
+
+Lo **stiletto interno** (anch'esso **smussato**) è **rimovibile**.
+
+La smussatura dell'ago Chiba risulta in una guida superiore rispetto agli aghi trocar convenzionali.
+
+Il suo calibro è tipicamente compreso tra 18-22 G e viene utilizzato principalmente per:
+
+- la biopsia tissutale in aspirazione
+- aspirare fluidi
+- ottenere un accesso percutaneo all'albero biliare (ad esempio PTC) e al sistema pelvico-cefalico del rene.
+
+Può anche essere usato per forare e quindi sgonfiare un palloncino intravascolare se non riesce a sgonfiarsi attraverso la sua stessa valvola.
+
+> **TIPOLOGIE DI AGO**
+> 
+> ![](img/ago-trocar-chiba.png)
+> 1. Ago a singola parete con centro cavo
+> 2. Ago trocar
+> 3. Ago di Chiba
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
