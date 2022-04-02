@@ -202,7 +202,7 @@
 
 <br>
 
-<a href="documents/slide_slrad/interpretazione_curva_spettrale_doppler.html">Appunti e approfondimento della lezione</a>
+<a href="formazione_p2p\eco_friendly\interpretazione_curva_spettrale_doppler.hmtl">Appunti e approfondimento della lezione</a>
 
 <br>
 

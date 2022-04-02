@@ -7,7 +7,7 @@ La maggior parte della gittata sistolica serve a spingere in avanti  la colonna 
 - 20% di questa energia si trasmette in senso radiale -> *flusso radiale*
 - La dilatazione conseguente delle grandi arterie determina una riserva di energia potenziale -> in diastole viene ceduta per mantenere un flusso costante
 
-	![](documents/slide_slrad/Curva_spettrale_images/Pasted_image_20220329091353.png)
+	![](formazione_p2p\eco_friendly\pasted_image_20220329091353.png)
 
 - Il flusso radiale genera un'onda di parete (*polso arterioso*) -> velocità in m/s
 	- Dipende dall'elasticità della tonaca media -> più lenta in arterie elastiche, più veloce nelle arterie sclerotiche
