@@ -30,7 +30,7 @@
 
 ## TEORIA
 
-- [Interpretazione dell'onda spettrale](/formazione_p2p/eco_friendly/interpretazione_curva_spettrale_doppler.md)
+- [Interpretazione dell'onda spettrale](formazione_p2p/eco_friendly/interpretazione_curva_spettrale_doppler.html)
 
 ---
 
