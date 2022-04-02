@@ -65,31 +65,19 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
   - Fotocopiare il referto dell'ultima RM eseguita fuori dall'ospedale e dell’ultima visita. Allegare entrambe le fotocopie alle buste e all'etichetta
 - Restituire gli originali degli esami precedenti
 - Controllare la **creatinina** (**max 3 mesi precedenti**) e riportare i valori sulla fotocopia della visita:
-  - Se l’ha eseguita presso l'Ospedale è possibile ricercare l'esame sul portale **Concerto** (andare in sala TC a verificare):
-    - Accedere a Concerto
-    - Referti → Interrogazione richieste
-    - Spuntare “Senza omonimi” e cercare il paziente
+  - Se l’ha eseguita presso l'Ospedale è possibile ricercare l'esame sul portale **ConcertoWeb** 
 - Far **FIRMARE IL CONSENSO INFORMATO**
-  - **MODULO A** se risonanza magnetica **SENZA MDC**
-  - **MODULO A + MODULO B** se risonanza magnetica **CON MDC**
-  - **MODULO C** se prevista somministrazione di Buscopan
-- Casella della preparazione → Compilare se esegue **premedicazione**
-  - **Antiallergica**
-  - **Nefroprotettiva**
-- Mandare il paziente in infermeria per prendere l'accesso ed eventualmente far somministrare buscopan per RM prostata
-- Far entrare il paziente nello **spogliatoio** e accertarsi che abbia **rimosso ogni oggetto metallico** (verificare sul Modulo A che non abbia segnalato corpi estranei o altri elementi non rimovibili; se sì → segnalare allo Strutturato)
-- Consegnare camice da indossare con apertura posteriormente, cuffia, calzari e mascherina SENZA FERRETTO.
-- Il paziente deve rimane in canottiera, mutande, calze (NO reggiseno con ferretto) 
-- Far attendere il paziente nello spogliatoio finché il paziente precedente non termina l’esame e rientra nel proprio spogliatoio.
+  - Solo fronte per esame senza MdC
+  - Fronte e retro per esami che prevedano MdC, Buscopan, gel, ecc.
+- Mandare il paziente in infermeria per l'accesso venoso
 - Prima di iniziare l'esame far **firmare** il **consenso informato** allo **strutturato**
-- Controllare che le scansioni siano adeguate e non sia necessario eseguirne altre (in RM ogni strutturato ha tendenzialmente delle proprie preferenze specifiche, consultarsi sempre con lui)
-- Consegnare la pratica allo strutturato per la refertazione
+
 
 **Domande importanti**
 
-- Allergie → chiedere se ha eseguito la preparazione nel modo corretto
-- Se fa esame PROSTATA viene somministrato Buscopan, quindi chiedere se ha:
-  - ARITMIE (leggere in cartella l’APR perché spesso non sanno rispondere)
+- Pregresse allergie al MdC → chiedere se ha eseguito la preparazione nel modo corretto
+- La DefecoRM e la mpMRI prostatica prevedono la somministrazione di Buscopan, per cui occorre indagare eventuali controindicazioni:
+  - ARITMIE
   - GLAUCOMA
   - ASMA GRAVE
   - GRAVE RITENZIONE URINARIA
@@ -98,9 +86,10 @@ Nel caso di dubbi, prendere l’appunto riportando il numero del reparto e il no
 
 - Il paziente ricoverato deve arrivare **già munito di consenso firmato e di accesso venoso**.
 - **Verificare** che **non abbia indosso oggetti di metallo**: 
-  - protesi dentarie rimovibili
-  - apparecchi acustici
-  - anelli, collane, ecc
+  - PaceMaker
+  - Protesi dentarie rimovibili
+  - Apparecchi acustici
+  - Anelli, collane, ecc
 - Terminato l’esame → **programmare il rientro** tramite sito dei **trasporti (PaMa)** (interno 7004).
 
 <div style="text-align: right">
@@ -126,7 +115,7 @@ Queste agende vengono gestite direttamente dagli specialisti tramite prenotazion
 - ORL (chiamano per prenotare)
   - Odonto
   - Rivoli-Pinerolo
-- Colangio GEL: chiamano i GEL per prenotare
+- Colangio GEL
 - Endocrino
 - Retto (chiamano per prenotare)
 - Ricoverati
@@ -184,7 +173,7 @@ Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
   - *Alto rischio*: necessario il cardiologo in sala
 
 **Prenotazione**
-- Si prenota giorno e ora dell'esame in accordo con la cardiologia
+- Si prenota giorno e ora dell'esame in accordo con la cardiologia (slot fisso il giovedì mattina)
 - Il paziente, un'ora prima dell'esame, deve andare nell'ambulatorio di cardiologia per disattivare il PM
 - Dopo l'esame bisogna rimandare il paziente agli ambulatori
 - Nel caso di un *paziente esterno* questi deve presentarsi con *doppia impegnativa per visita cardiologica* (la prima per la disattivazione, la seconda per la riattivazione)
@@ -211,13 +200,13 @@ Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
 - RM Encefalo
   - Sclerosi Multipla
   - Metastasi
-  - Studio Angio
+  - Studio Angio (TOF)
 - Colangio RM
 - Defeco RM
 - Entero RM
 - RM Retto
 - RM Prostata
-- PNA (PieloNefrite Acuta)
+- PieloRM (PieloNefrite Acuta)
 - RM Bacino
 - RM Colonna
 - Studio Accumulo Marziale (cuore + addome superiore)
@@ -227,10 +216,10 @@ Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
 - RM Ginocchio
 - RM Caviglia
 - RM pene
-- PieloRM
 - RM Torace
   - Ernia
   - Timoma
+- CardioRM
 
 <div style="text-align: right">
 <a href="#risonanza-magnetica">⬆️</a>
@@ -240,8 +229,6 @@ Le **informazioni** che dobbiamo ottenere **dalla cardiologia** sono:
 
 ## NOTE
 
-- Il buscopan prima delle mpMRI si somministra per via intramuscolare (IM) in sede glutea.
-- Il grembiule viene fatto indossare per consuetudine con l'apertura rivolata anteriormente, solo quando venivano usate le bobine endorettali veniva indossato con l'apertura rivolta posteriormente.
 
 
 <div style="text-align: right">
