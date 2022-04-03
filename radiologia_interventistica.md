@@ -182,9 +182,9 @@ Il sito di ingresso ideale è segnato con **due linee perpendicolari** che indic
 
 1. Si può utilizzare una visualizzazione:
    - sull'asse corto
-     - visualizzazione intermittente della punta dell'ago
+    - visualizzazione intermittente della punta dell'ago
    - sull'asse lungo
-     - permette la visualizzazione dell'ago durante tutta la procedura
+    - permette la visualizzazione dell'ago durante tutta la procedura
 	> Entrambi gli approcci richiedono un **angolo di ingresso di 45 gradi**
 
 2. Un **ago 18G** con una **siringa da 10 mL** viene passato usando una **tecnica a Z** per **ridurre** al minimo il **rischio** di **perdite persistenti dopo la rimozione**.
@@ -227,9 +227,9 @@ I diuretici, la restrizione di sale e acqua sono frequentemente utilizzati.
 - Emorragia
   - locale
   - intraperitoneale
-    - dovuta a bassa conta piastrinica
-    - INR elevato
-    - bassi livelli di fibrinogeno nel siero
+   - dovuta a bassa conta piastrinica
+   - INR elevato
+   - bassi livelli di fibrinogeno nel siero
 - Collasso circolatorio
   - minimizzato sostituendo volume e albumina
 - Sindrome epato-renale
@@ -303,7 +303,9 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI
+## AGOBIOPSIA ECOGUIDATA
+
+
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -311,7 +313,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-##
+## AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -448,6 +450,69 @@ Può anche essere usato per forare e quindi sgonfiare un palloncino intravascola
 - Istruzioni post-dimissione impartite
 - Appuntamento ambulatoriale di follow-up (o eventuale ecografia / RX / TC di controllo)
 - Risultati della procedura comunicati al medico curante
+
+
+<!---
+## Aspirazione con ago sottile (FNA)
+L'aspirazione con ago sottile ( FNA ) è un tipo di campionamento tissutale minimamente invasivo. Utilizza spesso gli ultrasuoni come strumento di puntamento, sebbene sia possibile utilizzare la TC e persino la risonanza magnetica o la fluoroscopia, a seconda della situazione. La guida per l'imaging è particolarmente utile durante il campionamento di lesioni profonde o diffuse. Anche con una lesione palpabile e discreta, l'imaging consente il campionamento controllato di diverse regioni all'interno della lesione.
+
+L'aspirazione con ago sottile ottiene cellule per la valutazione da parte di un patologo. Le cellule sono disorganizzate e non mantengono più la disposizione spaziale che avevano originariamente nella lesione. Al fine di preservare la disposizione spaziale delle cellule, che può essere utile per l'analisi istopatologica, è necessario ottenere una biopsia del nucleo .
+
+Indicazioni
+FNA è una tecnica flessibile e può campionare praticamente qualsiasi cosa. Le applicazioni attualmente includono cellule di campionamento nelle lesioni da:
+
+tiroide
+collo non tiroideo, ad es. linfonodi parotidei, cervicali
+Seno
+fegato
+linfonodi
+polmone
+osso
+tratto gastrointestinale
+mediastino
+Controindicazioni
+Ci sono poche controindicazioni assolute all'FNA, la più probabile è la coagulopatia non correggibile o il disturbo piastrinico. 
+
+Le controindicazioni relative includono l'incapacità di sdraiarsi, la difficoltà a controllare la frequenza e la profondità della respirazione (più importante per le biopsie toraciche e addominali) o l'ansia. L'impossibilità di raggiungere la lesione con l'ago, senza attraversare strutture importanti, è una controindicazione più o meno relativa, a seconda delle strutture attraversate, dell'esperienza dell'operatore e della necessità della biopsia.
+
+Procedure
+Valutazione preprocessuale
+consenso del paziente e esame fisico mirato pre-procedura
+se l'ecografia viene utilizzata come guida per l'imaging, viene comunemente eseguito un esame ecografico mirato pre-procedura
+Attrezzatura
+L '"ago sottile" in un FNA varia a seconda del sistema sottoposto a biopsia e della natura della lesione, ma in genere è un ago da 25 gauge a 27 gauge con uno stiletto. Per le procedure guidate dagli ultrasuoni, il trasduttore può avere una guida dell'ago.
+
+Tecnica
+La tecnica FNA varierà a seconda del sistema mirato e della natura della lesione. Le tecniche comuni a tutte le procedure includono:
+
+anestesia locale con lidocaina tamponata al 2%.
+facendo avanzare l'ago sottile sotto la guida dell'imaging fino a quando la punta non si trova nell'area prevista per la biopsia
+rimozione dello stiletto
+più brevi passaggi attraverso la lesione (riempimento dell'ago di cellule)
+rimozione dell'ago con un'adeguata disposizione delle cellule (es. vetrino per striscio, contenitore per blocco cellulare)
+di solito si ottengono più campioni in una sessione
+Assistenza post-procedurale
+Non esiste un'assistenza post-procedura standardizzata per FNA. La compressione del sito bioptico con una garza è comune per controllare il sanguinamento locale minore. Se il polmone viene sottoposto a biopsia , è possibile ottenere una radiografia post procedura
+
+Complicazioni
+Le complicanze sono rare con una tecnica FNA appropriata, solitamente limitate a sanguinamento o infezione. Il sanguinamento è più una preoccupazione per le aspirazioni addominali più profonde poiché raramente è possibile applicare una pressione diretta.
+
+Il pneumotorace è un rischio di biopsie polmonari. È possibile ottenere una radiografia post-procedura o un'ecografia per cercare questa complicanza.
+
+Il cracking tiroideo è una rara complicanza della biopsia FNA dei noduli tiroidei.
+
+Risultati
+Il successo dell'FNA si misura in termini di aspirazione di una quantità diagnostica di tessuto e mantenimento del comfort del paziente. 
+
+Le percentuali di successo nell'aspirazione del tessuto diagnostico dipendono da molteplici fattori, non ultimo dei quali include la dimensione dell'ago utilizzato, la posizione della lesione e il tipo di lesione da sottoporre a biopsia. Gli aghi "sottili" di diametro maggiore catturano più tessuto per aspirazione e hanno maggiori probabilità di produrre tessuto diagnostico, ma i vantaggi dell'aspirazione minimamente invasiva diminuiscono.
+
+Se un'aspirazione con ago sottile non restituisce materiale diagnostico, può essere ripetuta. In alternativa, se appropriato, può essere tentata una biopsia del nucleo.
+
+Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui l'appropriata somministrazione dell'anestesia locale, la riduzione al minimo del numero di campioni e l'ottenimento di materiale sufficiente per evitare di dover richiamare il paziente. Gli ultimi due sono spesso in conflitto tra loro.
+-->
+
+
+
 
 ## BIBLIOGRAFIA
 
