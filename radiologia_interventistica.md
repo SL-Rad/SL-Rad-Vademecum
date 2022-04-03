@@ -413,7 +413,7 @@ Può anche essere usato per forare e quindi sgonfiare un palloncino intravascola
 
 ### PIANIFICAZIONE DELLA PROCEDURA
 - Caso discusso con il medico curante/team multidisciplinare (GIC)
-- Esami radiologici precedenti visualizzati
+- Esami radiologici precedenti
 - Anamnesi medica
 - Consenso informato
 - Profilassi
@@ -452,30 +452,46 @@ Può anche essere usato per forare e quindi sgonfiare un palloncino intravascola
 - Risultati della procedura comunicati al medico curante
 
 
-<!---
-## Aspirazione con ago sottile (FNA)
-L'aspirazione con ago sottile ( FNA ) è un tipo di campionamento tissutale minimamente invasivo. Utilizza spesso gli ultrasuoni come strumento di puntamento, sebbene sia possibile utilizzare la TC e persino la risonanza magnetica o la fluoroscopia, a seconda della situazione. La guida per l'imaging è particolarmente utile durante il campionamento di lesioni profonde o diffuse. Anche con una lesione palpabile e discreta, l'imaging consente il campionamento controllato di diverse regioni all'interno della lesione.
+## Fine Needle Aspiration (FNA)
+L'aspirazione con ago sottile (FNA) è un tipo di campionamento tissutale minimamente invasivo. 
+Tipicamente viene svolto sotto guida ecografica, sebbene a dipendenza del contesto sia possibile utilizzare anche la TC, la risonanza magnetica o la fluoroscopia.
+La guida per l'imaging è di particolare utilità durante il campionamento di lesioni profonde o diffuse in quanto anche nel caso di una lesione delimitata e palpabile, la guida imaging consente un campionamento mirato di diverse regioni all'interno della lesione.
 
-L'aspirazione con ago sottile ottiene cellule per la valutazione da parte di un patologo. Le cellule sono disorganizzate e non mantengono più la disposizione spaziale che avevano originariamente nella lesione. Al fine di preservare la disposizione spaziale delle cellule, che può essere utile per l'analisi istopatologica, è necessario ottenere una biopsia del nucleo .
+L'aspirazione con ago sottile (FNA) ottiene cellule per la valutazione anatomo-patologica. 
+Il materiale raccolto contiene cellule disorganizzate che non mantengono più la disposizione spaziale che avevano originariamente nella lesione. 
+Nel caso in cui ai fini dell'analisi istopatologica sia necessario preservare la disposizione spaziale delle cellule, occorre eseguire una biopsia del nucleo (core-biopsy).
 
-Indicazioni
-FNA è una tecnica flessibile e può campionare praticamente qualsiasi cosa. Le applicazioni attualmente includono cellule di campionamento nelle lesioni da:
+### Indicazioni
 
-tiroide
-collo non tiroideo, ad es. linfonodi parotidei, cervicali
-Seno
-fegato
-linfonodi
-polmone
-osso
-tratto gastrointestinale
-mediastino
-Controindicazioni
-Ci sono poche controindicazioni assolute all'FNA, la più probabile è la coagulopatia non correggibile o il disturbo piastrinico. 
+Raccolta di materiale cellulare da:
 
-Le controindicazioni relative includono l'incapacità di sdraiarsi, la difficoltà a controllare la frequenza e la profondità della respirazione (più importante per le biopsie toraciche e addominali) o l'ansia. L'impossibilità di raggiungere la lesione con l'ago, senza attraversare strutture importanti, è una controindicazione più o meno relativa, a seconda delle strutture attraversate, dell'esperienza dell'operatore e della necessità della biopsia.
+- Tiroide
+- Collo
+  - Linfonodi parotidei
+  - Linfonodi cervicali
+- Seno
+- Fegato
+- Linfonodi
+- Polmone
+- Osso
+- Tratto gastrointestinale
+- Mediastino
 
-Procedure
+### Controindicazioni
+
+Controindicazioni assolute:
+- diatesi emorragica incoercibile
+- ipopiastrinemia
+
+Controindicazioni relative:
+- incapacità di sdraiarsiù
+- difficoltà a controllare la frequenza e la profondità della respirazione 
+  - più importante per le biopsie toraciche e addominali
+  - ansia
+  
+ > L'impossibilità di raggiungere la lesione con l'ago, senza attraversare strutture importanti, è una controindicazione relativa da valutare a seconda delle strutture attraversate, dell'esperienza dell'operatore e della necessità della biopsia.
+
+### Procedure
 Valutazione preprocessuale
 consenso del paziente e esame fisico mirato pre-procedura
 se l'ecografia viene utilizzata come guida per l'imaging, viene comunemente eseguito un esame ecografico mirato pre-procedura
@@ -509,8 +525,6 @@ Le percentuali di successo nell'aspirazione del tessuto diagnostico dipendono da
 Se un'aspirazione con ago sottile non restituisce materiale diagnostico, può essere ripetuta. In alternativa, se appropriato, può essere tentata una biopsia del nucleo.
 
 Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui l'appropriata somministrazione dell'anestesia locale, la riduzione al minimo del numero di campioni e l'ottenimento di materiale sufficiente per evitare di dover richiamare il paziente. Gli ultimi due sono spesso in conflitto tra loro.
--->
-
 
 
 
