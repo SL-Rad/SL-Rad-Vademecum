@@ -214,6 +214,12 @@
 <hr>
 <h2>ALLEGATI</h2>
 
+<div style="text-align: center;">
+    <video style ="width:100%; max-width:720px;" controls>
+       <source src="https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-12-15/infarto_intestinale.mp4" type="video/mp4">
+    </video>
+</div>
+
 <hr>
 <h2> BIBLIOGRAFIA </h2>
 

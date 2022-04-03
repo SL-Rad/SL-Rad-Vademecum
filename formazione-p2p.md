@@ -70,8 +70,8 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 
 ##### 15 Dicembre 2021
 
-- [15 Dicembre 2021 - A]()
-- [15 Dicembre 2021 - B]()
+- [15 Dicembre 2021 - Infarto Intestinale](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-12-15/infarto_intestinale.html)
+- [15 Dicembre 2021 - Fistola Aorto-Duodenale](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-12-15/fistola_ad.html)
 
 ##### 23 Marzo 2022 \| Addome
 
