@@ -406,3 +406,49 @@ Può anche essere usato per forare e quindi sgonfiare un palloncino intravascola
 </div>
 
 ---
+
+## CHECKLIST PRE-PROCEDURALE
+
+### PIANIFICAZIONE DELLA PROCEDURA
+- Caso discusso con il medico curante/team multidisciplinare (GIC)
+- Esami radiologici precedenti visualizzati
+- Anamnesi medica
+- Consenso informato
+- Profilassi
+- Strumenti specifici presenti e richiesti
+- Indicare digiuno al paziente
+- Esami di laboratorio valutati 
+   - emocromo (PLTs)
+   - profilo della coagulazione (INR)
+   - funzionalità renale (Creatinina, eGFR)
+- anestesista
+- interrompere terapia anti-coagulante
+- posto letto post-procedurale
+- indicare eventuale profilassi anti-allergica
+
+### CHECKLIST PRE-PROCEDURA
+- sono presenti tutti i membri del team
+- identificare paziente
+- valutare se sito accesso corretto
+- paziente a digiuno
+- accesso EV se necessario
+- monitor attivo e collegato
+- screening della coagulazione e altri test di laboratorio pertinenti controllati
+- verifica delle allergie e/o della corretta profilassi
+- antibiotici e altri farmaci somministrati
+- spiegare la procedura al paziente, comprese le complicanze, e raccogliere il consenso
+
+### CHECKLIST POST-PROCEDSURA
+- referto post-procedura scritto
+- segni vitali nella norma durante la procedura
+- indicare i medicinali e mezzi di contrasto somministrati
+- esami di laboratorio richiesti
+- campioni etichettati e inviati al laboratorio
+- risultati della procedura discussi con il paziente
+- istruzioni post-dimissione impartite
+- appuntamento ambulatoriale di follow-up (o eventuale ecografia / RX / TC di controllo)
+- risultati della procedura comunicati al medico curante
+
+## BIBLIOGRAFIA
+
+-[Patient Safety in Interventional Radiology: A CIRSE IR Checklist](https://link.springer.com/content/pdf/10.1007/s00270-011-0289-5.pdf)
