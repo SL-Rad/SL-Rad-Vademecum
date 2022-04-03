@@ -31,7 +31,7 @@ Sulla pagina sono raggruppati i progetti formativi da pari a pari organizzati e 
       - [Archivio dei casi interessanti](#archivio-dei-casi-interessanti)
         - [13 Ottobre 2021 \| Gli spazi peritoneali](#13-ottobre-2021--gli-spazi-peritoneali)
         - [10 Novembre 2021 \| Sanguinamenti](#10-novembre-2021--sanguinamenti)
-        - [15 Dicembre 2021](#15-dicembre-2021)
+        - [15 Dicembre 2021 \| Addome](#15-dicembre-2021--addome)
         - [23 Marzo 2022 \| Addome](#23-marzo-2022--addome)
     - [**ECO-FRIENDLY**](#eco-friendly)
       - [Archivio delle presentazioni](#archivio-delle-presentazioni)
@@ -68,7 +68,7 @@ Archivio dei casi interessati presentati ai precedenti Caseual Wednesday.
 - [10 Novembre 2021 - Angiomiolipoma emorragico](caseual_wednesdays/2021-11-10/angiomiolipoma_emorragico.html)
 - [10 Novembre 2021 - Tamponamento pericardico](caseual_wednesdays/2021-11-10/tamponamento_pericardico.html)
 
-##### 15 Dicembre 2021
+##### 15 Dicembre 2021 \| Addome
 
 - [15 Dicembre 2021 - Infarto Intestinale](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-12-15/infarto_intestinale.html)
 - [15 Dicembre 2021 - Fistola Aorto-Duodenale](https://sl-rad.github.io/SL-Rad-Vademecum/caseual_wednesdays/2021-12-15/fistola_ad.html)
