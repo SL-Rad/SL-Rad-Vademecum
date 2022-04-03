@@ -111,128 +111,80 @@
 <div class="slideshow-container">
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 21</div>
-    <img src="infarto_intestinale_1_of_21.png" style="width: 100%" />
+    <div class="numbertext">1 / 13</div>
+    <img src="infarto_intestinale_1_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 21</div>
-    <img src="infarto_intestinale_2_of_21.png" style="width: 100%" />
+    <div class="numbertext">2 / 13</div>
+    <img src="infarto_intestinale_2_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 21</div>
-    <img src="infarto_intestinale_3_of_21.png" style="width: 100%" />
+    <div class="numbertext">3 / 13</div>
+    <img src="infarto_intestinale_3_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">4 / 21</div>
-    <img src="infarto_intestinale_4_of_21.png" style="width: 100%" />
+    <div class="numbertext">4 / 13</div>
+    <img src="infarto_intestinale_4_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">5 / 21</div>
-    <img src="infarto_intestinale_5_of_21.png" style="width: 100%" />
+    <div class="numbertext">5 / 13</div>
+    <img src="infarto_intestinale_5_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">6 / 21</div>
-    <img src="infarto_intestinale_6_of_21.png" style="width: 100%" />
+    <div class="numbertext">6 / 13</div>
+    <img src="infarto_intestinale_6_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">7 / 21</div>
-    <img src="infarto_intestinale_7_of_21.png" style="width: 100%" />
+    <div class="numbertext">7 / 13</div>
+    <img src="infarto_intestinale_7_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">8 / 21</div>
-    <img src="infarto_intestinale_8_of_21.png" style="width: 100%" />
+    <div class="numbertext">8 / 13</div>
+    <img src="infarto_intestinale_8_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">9 / 21</div>
-    <img src="infarto_intestinale_9_of_21.png" style="width: 100%" />
+    <div class="numbertext">9 / 13</div>
+    <img src="infarto_intestinale_9_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">10 / 21</div>
-    <img src="infarto_intestinale_10_of_21.png" style="width: 100%" />
+    <div class="numbertext">10 / 13</div>
+    <img src="infarto_intestinale_10_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">11 / 21</div>
-    <img src="infarto_intestinale_11_of_21.png" style="width: 100%" />
+    <div class="numbertext">11 / 13</div>
+    <img src="infarto_intestinale_11_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">12 / 21</div>
-    <img src="infarto_intestinale_12_of_21.png" style="width: 100%" />
+    <div class="numbertext">12 / 13</div>
+    <img src="infarto_intestinale_12_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">13 / 21</div>
-    <img src="infarto_intestinale_13_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">14 / 21</div>
-    <img src="infarto_intestinale_14_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">15 / 21</div>
-    <img src="infarto_intestinale_15_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">16 / 21</div>
-    <img src="infarto_intestinale_16_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">17 / 21</div>
-    <img src="infarto_intestinale_17_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">18 / 21</div>
-    <img src="infarto_intestinale_18_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">19 / 21</div>
-    <img src="infarto_intestinale_19_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">20 / 21</div>
-    <img src="infarto_intestinale_20_of_21.png" style="width: 100%" />
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext">21 / 21</div>
-    <img src="infarto_intestinale_21_of_21.png" style="width: 100%" />
+    <div class="numbertext">13 / 13</div>
+    <img src="infarto_intestinale_13_of_13.png" style="width: 100%" />
     <div class="text"></div>
   </div>
 
@@ -257,14 +209,6 @@
   <span class="dot" onclick="currentSlide(11)"></span>
   <span class="dot" onclick="currentSlide(12)"></span>
   <span class="dot" onclick="currentSlide(13)"></span>
-  <span class="dot" onclick="currentSlide(14)"></span>
-  <span class="dot" onclick="currentSlide(15)"></span>
-  <span class="dot" onclick="currentSlide(16)"></span>
-  <span class="dot" onclick="currentSlide(17)"></span>
-  <span class="dot" onclick="currentSlide(18)"></span>
-  <span class="dot" onclick="currentSlide(19)"></span>
-  <span class="dot" onclick="currentSlide(20)"></span>
-  <span class="dot" onclick="currentSlide(21)"></span>
 </div>
 
 <hr>
