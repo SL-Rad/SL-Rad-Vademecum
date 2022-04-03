@@ -68,7 +68,30 @@
 
 ---
 
-# DRENAGGIO PERCUTAENO ECOGUIDATO
+## DRENAGGIO PERCUTAENO ECOGUIDATO
+
+## INDICAZIONI
+Qualsiasi raccolta fluida anomala accessibile:
+
+- **Ascesso diverticolare** complicato
+- **Ascesso** correlato al **Morbo di Crohn**
+- Appendicite complicata con **ascesso appendicolare**
+- **Ascesso tuboovarico**
+- Prelievi di liquidi post-chirurgici
+- **Ascesso epatico** 
+   - amebico 
+   - post-operatorio
+- **Ascesso renale **
+- **Ascesso retroperitoneale**
+- **Ascesso splenico**
+
+## CONTROINDICAZIONI
+Le controindicazioni comuni sono:
+
+- target non è accessibile
+- diatesi emorragica
+
+## PROCEDURA
 
 h 11:00 
 Sotto **guida ecografica **
