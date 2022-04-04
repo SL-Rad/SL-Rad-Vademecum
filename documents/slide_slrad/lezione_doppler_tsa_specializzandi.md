@@ -311,7 +311,7 @@
 <hr>
 <h2>ALLEGATI</h2>
 
-<a href=https://sl-rad.github.io/SL-Rad-Vademecum/formazione_p2p/eco_friendly/anatomia_tsa.html>&rarr; Anatomia TSA</a>
+<a href=https://sl-rad.github.io/SL-Rad-Vademecum/formazione_p2p/eco_friendly/anatomia_tsa.html>Anatomia TSA</a>
 
 <hr>
 <h2> BIBLIOGRAFIA </h2>
