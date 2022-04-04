@@ -43,7 +43,12 @@
   - [AGOBIOPSIA TORACICA ECOGUIDATA](#agobiopsia-toracica-ecoguidata)
   - [AGOBIOPSIA ECOGUIDATA](#agobiopsia-ecoguidata)
   - [AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI](#agobiopsia-ecoguidata-tessuti-superficiali)
-  - [MATERIALE](#materiale-1)
+  - [AGO BIOPSIA POLMONARE TC GUIDATA](#ago-biopsia-polmonare-tc-guidata)
+  - [BIOPSIA TC GUIDATA](#biopsia-tc-guidata)
+    - [MATERIALE](#materiale-1)
+    - [PROCEDURA](#procedura-2)
+    - [REFERTO - AGOBIOPSIA TORACICA TC GUIDATA](#referto---agobiopsia-toracica-tc-guidata)
+  - [MATERIALE](#materiale-2)
     - [AGO DI CHIBA](#ago-di-chiba)
   - [CHECKLIST PRE-PROCEDURALE](#checklist-pre-procedurale)
     - [PIANIFICAZIONE DELLA PROCEDURA](#pianificazione-della-procedura)
@@ -335,7 +340,105 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-##
+## AGO BIOPSIA POLMONARE TC GUIDATA
+
+## BIOPSIA TC GUIDATA
+
+- valutare **PT**, **INR**, **piastirine**
+- valutare **tampone covid**
+- **parlare con Paziente** per vedere se è **collaborante**
+  - se paziente agitata (**ansiosa**) **lexotan 8gtt** in bicchiere (beve con cannuccia)
+    - se Paziente non collaborante la procedura non può essere eseguita
+  - far firmare il **conseso informato**
+- vedere **lettera del GIC**/**referto oncologia**
+- vedere **precedenti TC/PET**
+  - visionare **l'ultima PET** per **determinare le regioni maggiormente captanti** della lesione al fine di utilizzarle come **target**
+- su richiesta dell'anatomo-patologo
+  - misurare **dimensione della lesione**
+  - le **caratteristiche TC**:
+    - **margini** rotondeggiandi/spiculati
+    - **enhancement** contrastografico
+    - **captazione FDG** in SUV
+
+> Il valore di SUV (Standardized Uptake Value) è un parametro semi-quantitativo valutabile negli esami FDG-PET/SPECT che indica l'intensità di emissione di una determinata lesione in rapporto alla dose totale iniettata in rapporto alla massa corporea.
+>
+> Rappresenta un parametro funzionale che suggerisce l'elevata attività metabolica di una struttura o di una lesione. Tipicamente un valore superiore ai 2,5 può indicare una lesione neoplastica.
+>
+> Un valore di SUV pari a 1 indica un'area con captazione pari al resto dell'organismo.
+
+### MATERIALE
+
+- marker cutaneo
+- guanti sterili
+- telo sterile
+- telo forato sterile
+- lidocaina 8mL + 2mL bicarbonato
+- siringa 10mL
+- ago 20 per asprazione (bianco)
+- ago 22 per inizione (nero)
+- coassiale 
+- tru-cut 18G x 200 mm
+
+### PROCEDURA
+
+- monitorare saturazione e frequenza cardiaca del paziente
+- scout
+- scansione iniziale
+- posizionare griglia
+- valutare dove posizionare marker cutaneo (misurare distanza in cm su schermo)
+- centrare lesione (centratura laser)
+- misurare la distanza con metro dalla centratura laser
+- segno con pennarello su cute
+- posizionare marker con adesivo
+- scansione per visionare repere
+- misurare distanza tra repere e pleura (e repere e lesione)
+
+DA QUI PROCEDERE IN STERILITA'
+
+- indossare guanti sterili
+- accedere con ago da anestesia (22G) di pochi
+- iniettare anestesia locale con ago da 22G (lidocaina 8mL + 2mL bicarbonato)
+  - non raggiungere la plera ma iniettare solo i tessuti superficiali
+- scansione di controllo con ago da anestesa ancora dentro ???
+- rimuovere l'ago da anestesia
+- posizonare il coassiale lungo il decorso dell'ago da anestesia
+- scansione di controllo
+  - far attenzione a posizionarlo a senza superare la pleura
+    - mantenere una distanza > 1cm ??? dalla pleura
+- caricare l'ago tru-cut a due scatti (20 mm)
+- rimuovere il mandrino del coassiale
+  - dopo aver rimosso il mandrino tappare il canale non un dito
+    > tappare il buco impedisce gli cambi di aria tra interno ed esterno minimizzando il rischio di infezione e preserva la pressione interna diminuendo il rischio di PNX.
+- accedere con ago tru-cut attraverso il coassiale
+- arrivati alla pleura far accedere il tru-cut picchiettandolo con il dito sul grilletto in modo da avere un miglior accesso
+- scansione di controllo
+  - valutare la posizione della punta dell'ago
+- rientrare in sala
+- informare il paziente che sentirà lo scatto di una molla e di non preoccuparsi
+- scattare con il tru-cut
+- uscire con il tru-cut
+- tappare con dito il foro del coassaile
+- riposizionare il mandrino del coassiale a 3/4
+  - in questo modo il canale del coassiale è sigillato ma la punta del mandrino e interna al canale e non può ledere i tessuti
+- far eseguire scan di controllo
+- spostarsi alla postazione degli anatomi-patologi
+- ricaricare il tru-cut (2 scatti?)
+- posizionandosi sopra la spugna far avanzare la punta del tru-cut senza farlo scattare
+- depositare il frustolo di tessuto sulla spugnetta
+  - ruotare di 3/4 in modo da facilitare il distacco del frustolo
+    - il materiale deve essere preferibilmente disteso e integro
+- mentre i patologi valutano l'idoneità della biopsia controllare la scansione di controllo per PNX o emorragia
+- se richiesto secondo campione ripetere la procedura ruotando eventualmente il tru-cut di 180° al secondo scatto per evitare di scattare a vuoto
+- uscire con trucut insieme al coassiale
+- tamponare immediatamene con forza la zona interessata
+- dopo la procedura controllare per PNX o soffusione emorragica.
+- indicare RX del torace di controllo a 2 ore.
+
+> Controllare con una scansione ogni volta che si posiziona l'ago, il pazinte si può essere mosso nel frattempo
+
+### REFERTO - AGOBIOPSIA TORACICA TC GUIDATA
+Con guida TC ed approccio anteriore destro è stata eseguita la biopsia sulla nota lesione polmonare
+omolaterale utilizzando ago di TRU-CUT 18-15 cm (2 prelievi). Alla valutazione estemporanea anatomo-patologica il prelievo risulta idoneo. Non si evidenziano complicanze maggiori immediate segnalando minima soffusione perilesionale. Si consiglia controllo a 2 ore dal termine della procedura con radiografia del torace. Termine della procedura ore: 9:40.
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -552,37 +655,3 @@ Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui 
 
 ## NOTE
 
-- valutare pt, inr, piastirine
-- valutare tampone covid
-- parlare con pz per vedere se è collaborante
-  - se paziente agitata (ansiosa) lexotan 8gtt in bicchiere (beve con cannuccia)
-- vedere lettera del gic/referto oncologia
-- vedere precedenti tc/pet
-- di
-- misurare dimensione della lesione
-- far firmare il conseso informato
-
-
-- telo sterile
-- telo forato
-- lidocaina 8mL+2mL bicarbonato
-- siringa 10mL
-- ago 20 per asprazione (bianco)
-- ago 22 per inizione (nero)
-
-- scansione iniziale
-- centrare lesione (centratura laser)
-- segno con marker su cute 
-- posizionare repere con adesivo
-- scansione per visionare repere
-- misurare distanza tra repere e pleura (e repere e lesione)
-- accedere con ago da anestesia (22G) di poco ( _____ )
-- anestesia (lidocaina 8mL + 2mL bicarbonato)
-- 
-
-- controllare con una scansione ogni volta che si posiziona l'ago, la pazint si può essere mossa
-- dopo la procedura controllare per pnx, emorragia.
-
-AGOBIOPSIA TORACICA TC GUIDATA
-Con guida TC ed approccio anteriore destro è stata eseguita la biopsia sulla nota lesione polmonare
-omolaterale utilizzando ago di TRU-CUT 18-15 cm (2 prelievi). Alla valutazione estemporanea anatomo-patologica il prelievo risulta idoneo. Non si evidenziano complicanze maggiori immediate segnalando minima soffusione perilesionale. Si consiglia controllo a 2 ore dal termine della procedura con radiografia del torace. Termine della procedura ore: 9:40.
