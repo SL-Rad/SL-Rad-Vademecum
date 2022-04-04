@@ -560,7 +560,7 @@ Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui 
 - vedere precedenti tc/pet
 - di
 - misurare dimensione della lesione
-
+- far firmare il conseso informato
 
 
 - telo sterile
