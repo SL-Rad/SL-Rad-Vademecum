@@ -30,6 +30,7 @@
 
 ## TEORIA
 
+- [Anatomia TSA](https://sl-rad.github.io/SL-Rad-Vademecum/formazione_p2p/eco_friendly/anatomia_tsa.html)
 - [Interpretazione dell'onda spettrale](https://sl-rad.github.io/SL-Rad-Vademecum/formazione_p2p/eco_friendly/interpretazione_curva_spettrale_doppler.html)
 
 ---

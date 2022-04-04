@@ -30,6 +30,7 @@
 		- [Analisi qualitativa](#analisi-qualitativa)
 		- [Analisi quantitativa (velocità)](#analisi-quantitativa-velocità)
 		- [Analisi semiquantitativa (impedenza)](#analisi-semiquantitativa-impedenza)
+	- [Bibliografia](#bibliografia)
 
 - - -
 
@@ -353,6 +354,19 @@ Per misurare l'impedenza sono stati proposti numerosi parametri semiquantitativi
 	![](pasted_image_20220402115451.png)
 	-  Dove S è la velocità sistolica massima e D la velocità telediastolica minima
 	-  Serve a stimare l'impedenza nelle arterie dei territori vascolari a bassa resistenza (curva monofasica)
+
+	![](pasted_image_20220329145950.png)
+
+<div style="text-align: right">
+<a href="#interpretazione-curva-spettrale-doppler">⬆️</a>
+</div>
+
+--- 
+
+## Bibliografia
+
+- Il Doppler nella pratica clinica. Semeiotica e basi interpretative del segnale Doppler. *Ecografia e ColorDoppler nella pratica clinica* – Mario Meola
+
 
 <div style="text-align: right">
 <a href="#interpretazione-curva-spettrale-doppler">⬆️</a>
