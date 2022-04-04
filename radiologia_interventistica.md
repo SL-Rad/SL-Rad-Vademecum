@@ -570,9 +570,18 @@ Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui 
 - ago 20 per asprazione (bianco)
 - ago 22 per inizione (nero)
 
+- scansione iniziale
 - centrare lesione (centratura laser)
+- segno con marker su cute 
+- posizionare repere con adesivo
+- scansione per visionare repere
+- misurare distanza tra repere e pleura (e repere e lesione)
+- accedere con ago da anestesia (22G) di poco ( _____ )
+- anestesia (lidocaina 8mL + 2mL bicarbonato)
 - 
-- posizionare repere
+
+- controllare con una scansione ogni volta che si posiziona l'ago, la pazint si può essere mossa
+- dopo la procedura controllare per pnx, emorragia.
 
 AGOBIOPSIA TORACICA TC GUIDATA
 Con guida TC ed approccio anteriore destro è stata eseguita la biopsia sulla nota lesione polmonare
