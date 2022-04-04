@@ -15,32 +15,46 @@
 - - -
 
 - [RADIOLOGIA INTERVENTISTICA](#radiologia-interventistica)
-	- [CONSULENZA RADIOLOGICA](#consulenza-radiologica)
-	- [AGOBIOPSIA EPATICA CEUS-GUIDATA](#agobiopsia-epatica-ceus-guidata)
-	- [AGOBIOPSIA ECOGUIDATA SEDI PROFONDE](#agobiopsia-ecoguidata-sedi-profonde)
-- [DRENAGGIO PERCUTAENO ECOGUIDATO](#drenaggio-percutaeno-ecoguidato)
-	- [PARACENTESI ECOGUIDATA](#paracentesi-ecoguidata)
-		- [INDICAZIONI](#indicazioni)
-			- [Diagnostiche:](#diagnostiche)
-			- [Terapeutiche:](#terapeutiche)
-		- [CONTROINDICAZIONI](#controindicazioni)
-			- [Assolute:](#assolute)
-			- [Relative:](#relative)
-		- [MATERIALE](#materiale)
-		- [PROCEDURA](#procedura)
-			- [Tecnica statica](#tecnica-statica)
-			- [Tecnica dinamica](#tecnica-dinamica)
-			- [Esami sul liquido ascitico](#esami-sul-liquido-ascitico)
-		- [COMPLICAZIONI](#complicazioni)
-		- [REFERTO PROCEDURA](#referto-procedura)
-	- [DRENAGGIO PERCUTANEO TC GUIDATO](#drenaggio-percutaneo-tc-guidato)
-	- [POSIZIONAMENTO/RIMOZIONE PICC](#posizionamentorimozione-picc)
-	- [RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA](#radiofrequenza-percutanea-lesione-nodulare-epatica)
-	- [BIOPSIA LINFONODALE ECOGUIDATA](#biopsia-linfonodale-ecoguidata)
-	- [AGOBIOPSIA TORACICA ECOGUIDATA](#agobiopsia-toracica-ecoguidata)
-	- [AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI](#agobiopsia-ecoguidata-tessuti-superficiali)
-	- [MATERIALE](#materiale-1)
-		- [AGO DI CHIBA](#ago-di-chiba)
+  - [CONSULENZA RADIOLOGICA](#consulenza-radiologica)
+  - [AGOBIOPSIA EPATICA CEUS-GUIDATA](#agobiopsia-epatica-ceus-guidata)
+  - [AGOBIOPSIA ECOGUIDATA SEDI PROFONDE](#agobiopsia-ecoguidata-sedi-profonde)
+  - [DRENAGGIO PERCUTAENO ECOGUIDATO](#drenaggio-percutaeno-ecoguidato)
+  - [INDICAZIONI](#indicazioni)
+  - [CONTROINDICAZIONI](#controindicazioni)
+  - [PROCEDURA](#procedura)
+  - [PARACENTESI ECOGUIDATA](#paracentesi-ecoguidata)
+    - [INDICAZIONI](#indicazioni-1)
+      - [Diagnostiche:](#diagnostiche)
+      - [Terapeutiche:](#terapeutiche)
+    - [CONTROINDICAZIONI](#controindicazioni-1)
+      - [Assolute:](#assolute)
+      - [Relative:](#relative)
+    - [MATERIALE](#materiale)
+    - [PROCEDURA](#procedura-1)
+      - [Tecnica statica](#tecnica-statica)
+      - [Tecnica dinamica](#tecnica-dinamica)
+      - [Esami sul liquido ascitico](#esami-sul-liquido-ascitico)
+    - [COMPLICAZIONI](#complicazioni)
+    - [REFERTO PROCEDURA](#referto-procedura)
+  - [DRENAGGIO PERCUTANEO TC GUIDATO](#drenaggio-percutaneo-tc-guidato)
+  - [POSIZIONAMENTO/RIMOZIONE PICC](#posizionamentorimozione-picc)
+  - [RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA](#radiofrequenza-percutanea-lesione-nodulare-epatica)
+  - [BIOPSIA LINFONODALE ECOGUIDATA](#biopsia-linfonodale-ecoguidata)
+  - [AGOBIOPSIA TORACICA ECOGUIDATA](#agobiopsia-toracica-ecoguidata)
+  - [AGOBIOPSIA ECOGUIDATA](#agobiopsia-ecoguidata)
+  - [AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI](#agobiopsia-ecoguidata-tessuti-superficiali)
+  - [MATERIALE](#materiale-1)
+    - [AGO DI CHIBA](#ago-di-chiba)
+  - [CHECKLIST PRE-PROCEDURALE](#checklist-pre-procedurale)
+    - [PIANIFICAZIONE DELLA PROCEDURA](#pianificazione-della-procedura)
+    - [CHECKLIST PRE-PROCEDURA](#checklist-pre-procedura)
+    - [CHECKLIST POST-PROCEDURA](#checklist-post-procedura)
+  - [Fine Needle Aspiration (FNA)](#fine-needle-aspiration-fna)
+    - [Indicazioni](#indicazioni-2)
+    - [Controindicazioni](#controindicazioni-2)
+    - [Procedure](#procedure)
+  - [BIBLIOGRAFIA](#bibliografia)
+  - [NOTE](#note)
 
 - - -
 
@@ -531,3 +545,35 @@ Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui 
 ## BIBLIOGRAFIA
 
 -[Patient Safety in Interventional Radiology: A CIRSE IR Checklist](https://link.springer.com/content/pdf/10.1007/s00270-011-0289-5.pdf)
+
+
+
+---
+
+## NOTE
+
+- valutare pt, inr, piastirine
+- valutare tampone covid
+- parlare con pz per vedere se è collaborante
+  - se paziente agitata (ansiosa) lexotan 8gtt in bicchiere (beve con cannuccia)
+- vedere lettera del gic/referto oncologia
+- vedere precedenti tc/pet
+- di
+- misurare dimensione della lesione
+
+
+
+- telo sterile
+- telo forato
+- lidocaina 8mL+2mL bicarbonato
+- siringa 10mL
+- ago 20 per asprazione (bianco)
+- ago 22 per inizione (nero)
+
+- centrare lesione (centratura laser)
+- 
+- posizionare repere
+
+AGOBIOPSIA TORACICA TC GUIDATA
+Con guida TC ed approccio anteriore destro è stata eseguita la biopsia sulla nota lesione polmonare
+omolaterale utilizzando ago di TRU-CUT 18-15 cm (2 prelievi). Alla valutazione estemporanea anatomo-patologica il prelievo risulta idoneo. Non si evidenziano complicanze maggiori immediate segnalando minima soffusione perilesionale. Si consiglia controllo a 2 ore dal termine della procedura con radiografia del torace. Termine della procedura ore: 9:40.
