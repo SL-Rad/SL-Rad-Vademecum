@@ -40,6 +40,27 @@
 
 ## ESECUZIONE DELL'ESAME
 
+**Proiezioni**
+- **AP**
+  - Eseguita con apparecchio portatile al letto del Paziente.
+- **PA**
+  - Eseguita in sala torace
+  - Paziente posizionato a circa 180-200 cm dal detettore in posizione eretta
+  - Braccia abbassate
+- **LL**
+  - Eseguita in sala torace
+  - Per convenzione il lato sinistro del torace è appoggiato al detettore
+  - Paziente posizionato a circa 180-200 cm dal detettore in posizione eretta
+  - Braccia sollevate
+
+> Il cuore nella proiezione AP risulta ingrandito rispetto alla PA. 
+> Nella AP i margini, come la silhouette cardiaca,sono più sfumati rispetto alla PA.
+
+**Respiro**
+- L'immagine viene *normalmente* acquisita *in inspirazione*
+- Viene acquisito un radiogramma *in espirazione* se sussiste il sospetto di *pneumotorace* o per individuare eventuale *"air trapping"*
+  - Il parenchima polmonare appare più radiopaco in espirazione per la sovrapposizione di strutture vascolari &rarr; questa caratteristica viene sfruttata per identificare aree di "air trapping" la cui radiotrasparenza rimane invariata in inspirio e in espirio.
+
 ---
 
 ## REFERTAZIONE
