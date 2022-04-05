@@ -671,12 +671,31 @@ Catetere venoso centrale (CVC) **non tunnellizzato** in **silicone**.
 - ago 22 per inizione (nero)
 - Kit Catetere Hohn
 - bisturi
-- fisiologica sterile 500mL per contenitore catetere
--  
+- fisiologica sterile 500 mL per contenitore catetere
 
 ### PROCEDURA POSIZIONAMENTO
 
+**PRIMA DELLA PROCEDURA**
 
+- Valutare **RX Torace**
+  - Fare attenzione a decidere l'idoneità o eseguire l'accesso se il **polmone** del lato **controlaterale** è interessato da **diffuso** processo di **addensamento** o da massivo **versamento** pleurico.
+  Nel caso di **complicazioni della procedura**, nello specifico **PNX**, l'assenza di compenso ventilatorio dell'altro polmone può portare ad una **grave desaturazione** e **rischio di vita** per il paziente, a maggior ragione se anziano e fragile.
+
+**PRIMA DI ACCEDERE IN SALA**
+Per procedere necessario assistente per indossare il camice sterile &rarr; Tecnico radiologo / infermiere / oss di sala
+
+1. Indossare **grembiule piombato** e **scudo tiroideo**
+2. Accurato **lavaggio delle mani**
+3. **Asciugare** mani con **telini sterili** presenti nel kit del camice sterile
+4. Indossare **camice sterile**
+5. L'assistente lega i **lacci interni non sterili** del camice
+6. L'operatore prende il **laccio sterile del camice** e con l'appropiato aiuto dell'assistente lo lega in sterilità
+
+**IN SALA**
+
+L'assistente di sala ha solitamente predispone e assiste nel preparare il piano sterile di lavoro sull'allivo.
+
+  
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
