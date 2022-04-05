@@ -15,14 +15,14 @@
 - - -
 
 - [RADIOLOGIA INTERVENTISTICA](#radiologia-interventistica)
-  - [CONSULENZA RADIOLOGICA](#consulenza-radiologica)
-  - [AGOBIOPSIA EPATICA CEUS-GUIDATA](#agobiopsia-epatica-ceus-guidata)
-  - [AGOBIOPSIA ECOGUIDATA SEDI PROFONDE](#agobiopsia-ecoguidata-sedi-profonde)
-  - [DRENAGGIO PERCUTAENO ECOGUIDATO](#drenaggio-percutaeno-ecoguidato)
+  - [**CONSULENZA RADIOLOGICA**](#consulenza-radiologica)
+  - [**AGOBIOPSIA EPATICA CEUS-GUIDATA**](#agobiopsia-epatica-ceus-guidata)
+  - [**AGOBIOPSIA ECOGUIDATA SEDI PROFONDE**](#agobiopsia-ecoguidata-sedi-profonde)
+  - [**DRENAGGIO PERCUTAENO ECOGUIDATO**](#drenaggio-percutaeno-ecoguidato)
   - [INDICAZIONI](#indicazioni)
   - [CONTROINDICAZIONI](#controindicazioni)
   - [PROCEDURA](#procedura)
-  - [PARACENTESI ECOGUIDATA](#paracentesi-ecoguidata)
+  - [**PARACENTESI ECOGUIDATA**](#paracentesi-ecoguidata)
     - [INDICAZIONI](#indicazioni-1)
       - [Diagnostiche:](#diagnostiche)
       - [Terapeutiche:](#terapeutiche)
@@ -36,15 +36,14 @@
       - [Esami sul liquido ascitico](#esami-sul-liquido-ascitico)
     - [COMPLICAZIONI](#complicazioni)
     - [REFERTO PROCEDURA](#referto-procedura)
-  - [DRENAGGIO PERCUTANEO TC GUIDATO](#drenaggio-percutaneo-tc-guidato)
-  - [POSIZIONAMENTO/RIMOZIONE PICC](#posizionamentorimozione-picc)
-  - [RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA](#radiofrequenza-percutanea-lesione-nodulare-epatica)
-  - [BIOPSIA LINFONODALE ECOGUIDATA](#biopsia-linfonodale-ecoguidata)
-  - [AGOBIOPSIA TORACICA ECOGUIDATA](#agobiopsia-toracica-ecoguidata)
-  - [AGOBIOPSIA ECOGUIDATA](#agobiopsia-ecoguidata)
-  - [AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI](#agobiopsia-ecoguidata-tessuti-superficiali)
-  - [AGO BIOPSIA POLMONARE TC GUIDATA](#ago-biopsia-polmonare-tc-guidata)
-  - [BIOPSIA TC GUIDATA](#biopsia-tc-guidata)
+  - [**DRENAGGIO PERCUTANEO TC GUIDATO**](#drenaggio-percutaneo-tc-guidato)
+  - [**POSIZIONAMENTO/RIMOZIONE PICC**](#posizionamentorimozione-picc)
+  - [**RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA**](#radiofrequenza-percutanea-lesione-nodulare-epatica)
+  - [**BIOPSIA LINFONODALE ECOGUIDATA**](#biopsia-linfonodale-ecoguidata)
+  - [**AGOBIOPSIA TORACICA ECOGUIDATA**](#agobiopsia-toracica-ecoguidata)
+  - [**AGOBIOPSIA ECOGUIDATA**](#agobiopsia-ecoguidata)
+  - [**AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI**](#agobiopsia-ecoguidata-tessuti-superficiali)
+  - [**AGO BIOPSIA POLMONARE TC GUIDATA**](#ago-biopsia-polmonare-tc-guidata)
     - [MATERIALE](#materiale-1)
     - [PROCEDURA](#procedura-2)
     - [REFERTO - AGOBIOPSIA TORACICA TC GUIDATA](#referto---agobiopsia-toracica-tc-guidata)
@@ -58,12 +57,17 @@
     - [Indicazioni](#indicazioni-2)
     - [Controindicazioni](#controindicazioni-2)
     - [Procedure](#procedure)
+  - [**POSIZIONAMENTO HOHN**](#posizionamento-hohn)
+    - [Catetere di Hohn](#catetere-di-hohn)
+    - [MATERIALI](#materiali)
+    - [PROCEDURA POSIZIONAMENTO](#procedura-posizionamento)
+  - [POSIZIONAMENTO PORT](#posizionamento-port)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
 - - -
 
-## CONSULENZA RADIOLOGICA
+## **CONSULENZA RADIOLOGICA**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -71,7 +75,7 @@
 
 ---
 
-## AGOBIOPSIA EPATICA CEUS-GUIDATA
+## **AGOBIOPSIA EPATICA CEUS-GUIDATA**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -79,7 +83,7 @@
 
 ---
 
-## AGOBIOPSIA ECOGUIDATA SEDI PROFONDE
+## **AGOBIOPSIA ECOGUIDATA SEDI PROFONDE**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -87,7 +91,7 @@
 
 ---
 
-## DRENAGGIO PERCUTAENO ECOGUIDATO
+## **DRENAGGIO PERCUTAENO ECOGUIDATO**
 
 ## INDICAZIONI
 Qualsiasi raccolta fluida anomala accessibile:
@@ -133,7 +137,7 @@ si consiglia **emocromo** di controllo **tra circa due ore**.
 
 ---
 
-## PARACENTESI ECOGUIDATA
+## **PARACENTESI ECOGUIDATA**
 
 ### INDICAZIONI
 
@@ -272,7 +276,7 @@ e si collega il sistema alla **sacca Danese**.
 
 ---
 
-## DRENAGGIO PERCUTANEO TC GUIDATO
+## **DRENAGGIO PERCUTANEO TC GUIDATO**
 
 Con **guida TC** ed **approccio laterale**
 è stato eseguito **dreanaggio** della nota **raccolta retro cardiaca sinistra polmonare omolaterale**
@@ -290,7 +294,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## POSIZIONAMENTO/RIMOZIONE PICC
+## **POSIZIONAMENTO/RIMOZIONE PICC**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -298,7 +302,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA
+## **RADIOFREQUENZA PERCUTANEA LESIONE NODULARE EPATICA**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -306,7 +310,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## BIOPSIA LINFONODALE ECOGUIDATA
+## **BIOPSIA LINFONODALE ECOGUIDATA**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -314,7 +318,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## AGOBIOPSIA TORACICA ECOGUIDATA
+## **AGOBIOPSIA TORACICA ECOGUIDATA**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -322,7 +326,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## AGOBIOPSIA ECOGUIDATA
+## **AGOBIOPSIA ECOGUIDATA**
 
 
 
@@ -332,7 +336,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI
+## **AGOBIOPSIA ECOGUIDATA TESSUTI SUPERFICIALI**
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
@@ -340,9 +344,7 @@ Si rimane a disposizione dei colleghi Curanti per qualsiasi chiarimento,
 
 ---
 
-## AGO BIOPSIA POLMONARE TC GUIDATA
-
-## BIOPSIA TC GUIDATA
+## **AGO BIOPSIA POLMONARE TC GUIDATA**
 
 - valutare **PT**, **INR**, **piastirine**
 - valutare **tampone covid**
@@ -643,7 +645,52 @@ Se un'aspirazione con ago sottile non restituisce materiale diagnostico, può es
 
 Il mantenimento del comfort del paziente dipende da molteplici fattori, tra cui l'appropriata somministrazione dell'anestesia locale, la riduzione al minimo del numero di campioni e l'ottenimento di materiale sufficiente per evitare di dover richiamare il paziente. Gli ultimi due sono spesso in conflitto tra loro.
 
+## **POSIZIONAMENTO HOHN**
 
+### Catetere di Hohn
+Catetere venoso centrale (CVC) **non tunnellizzato** in **silicone**.
+
+**VANTAGGI**:
+
+- maggior **facilità** e **rapidità** di **posizionamento**
+
+**SVANTAGGI**:
+
+- facilità di **rimozione accidentale**
+- maggior rischio di **infezione**
+- necessita di **medicazione periodiche**
+
+### MATERIALI
+
+- guanti sterili
+- telo sterile
+- telo forato sterile
+- lidocaina 8mL + 2mL bicarbonato
+- siringa 10mL
+- ago 20 per asprazione (bianco)
+- ago 22 per inizione (nero)
+- Kit Catetere Hohn
+- bisturi
+- fisiologica sterile 500mL per contenitore catetere
+-  
+
+### PROCEDURA POSIZIONAMENTO
+
+
+
+<div style="text-align: right">
+<a href="#radiologia-interventistica">⬆️</a>
+</div>
+
+---
+
+## POSIZIONAMENTO PORT
+
+<div style="text-align: right">
+<a href="#radiologia-interventistica">⬆️</a>
+</div>
+
+---
 
 ## BIBLIOGRAFIA
 
