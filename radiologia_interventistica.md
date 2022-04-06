@@ -61,7 +61,7 @@
     - [MATERIALI](#materiali)
     - [PROCEDURA POSIZIONAMENTO](#procedura-posizionamento)
   - [POSIZIONAMENTO PORT](#posizionamento-port)
-  - [**CONSULENZA RADIOLOGICA**](#consulenza-radiologica)
+  - [**CONSULENZE RADIOLOGICHE**](#consulenze-radiologiche)
     - [2022/04/05 \| NODULO POLMONARE LID + NODULO TIROIDEO / LINFONODO &rarr; RT](#20220405--nodulo-polmonare-lid--nodulo-tiroideo--linfonodo--rt)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
@@ -704,7 +704,7 @@ L'assistente di sala ha solitamente predispone e assiste nel preparare il piano 
 
 ---
 
-## **CONSULENZA RADIOLOGICA**
+## **CONSULENZE RADIOLOGICHE**
 
 
 ### 2022/04/05 \| NODULO POLMONARE LID + NODULO TIROIDEO / LINFONODO &rarr; RT 
@@ -714,8 +714,9 @@ L'assistente di sala ha solitamente predispone e assiste nel preparare il piano 
 - TC TOR (21/3/2022) = nota nodularità a margini polilobulati e lievemente sfrangiati e spiculati a livello del segmento apicale del LID del diamtero di 15 mm con enhancement mdc.
 - PET post-TC = lesione LID ipercaptante (SUV 3.7) come anche verosimili linfoadenomegalie paratracheali alla base del collo (SUV 8.46).
 
-> Massa polmonare singola di 15mm &rarr; T1b } SI &rarr; RT & FU
-> Massa polmonare singola di 15mm + linfonodo sovraclaveare &rarr; T1b + N2 } SIIIA &rarr; chemio?
+> Massa polmonare singola di 15mm &rarr; T1b } SI &rarr; chirurgia se possibile altrimenti RT (RT ablativa stereotassica - SABR) & solo dopo FU
+> 
+> Massa polmonare singola di 15mm + linfonodo sovraclaveare &rarr; T1b + N2 } SIIIA &rarr; CHT / CHT+RT
 
 Pz affetto da enfisema (BPCO)
 ricoverato in medicina per riacutizzazione di patologia ad ora stabile con O2 a 2L
@@ -744,6 +745,8 @@ Se non è un linfonodo allora avviare alla radioterapia se invece è sospetto fa
 *Disponibili a chiarimenti,*
 
 ---
+
+###
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
