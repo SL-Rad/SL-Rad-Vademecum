@@ -15,8 +15,6 @@
 - - -
 
 - [RADIOLOGIA INTERVENTISTICA](#radiologia-interventistica)
-  - [**CONSULENZA RADIOLOGICA**](#consulenza-radiologica)
-    - [2022/04/05 \| NODULO POLMONARE LID + NODULO TIROIDEO / LINFONODO &rarr; RT](#20220405--nodulo-polmonare-lid--nodulo-tiroideo--linfonodo--rt)
   - [**AGOBIOPSIA EPATICA CEUS-GUIDATA**](#agobiopsia-epatica-ceus-guidata)
   - [**AGOBIOPSIA ECOGUIDATA SEDI PROFONDE**](#agobiopsia-ecoguidata-sedi-profonde)
   - [**DRENAGGIO PERCUTAENO ECOGUIDATO**](#drenaggio-percutaeno-ecoguidato)
@@ -63,59 +61,12 @@
     - [MATERIALI](#materiali)
     - [PROCEDURA POSIZIONAMENTO](#procedura-posizionamento)
   - [POSIZIONAMENTO PORT](#posizionamento-port)
+  - [**CONSULENZA RADIOLOGICA**](#consulenza-radiologica)
+    - [2022/04/05 \| NODULO POLMONARE LID + NODULO TIROIDEO / LINFONODO &rarr; RT](#20220405--nodulo-polmonare-lid--nodulo-tiroideo--linfonodo--rt)
   - [BIBLIOGRAFIA](#bibliografia)
   - [NOTE](#note)
 
 - - -
-
-## **CONSULENZA RADIOLOGICA**
-
-
-### 2022/04/05 \| NODULO POLMONARE LID + NODULO TIROIDEO / LINFONODO &rarr; RT 
-
-2022/04/05
-- Richiesta di FNA TC guidata per nodulo polmonare LID (+ nodularità collo)
-- TC TOR (21/3/2022) = nota nodularità a margini polilobulati e lievemente sfrangiati e spiculati a livello del segmento apicale del LID del diamtero di 15 mm con enhancement mdc.
-- PET post-TC = lesione LID ipercaptante (SUV 3.7) come anche verosimili linfoadenomegalie paratracheali alla base del collo (SUV 8.46).
-
-> Massa polmonare singola di 15mm &rarr; T1b } SI &rarr; RT & FU
-> Massa polmonare singola di 15mm + linfonodo sovraclaveare &rarr; T1b + N2 } SIIIA &rarr; chemio?
-
-Pz affetto da enfisema (BPCO)
-ricoverato in medicina per riacutizzazione di patologia ad ora stabile con O2 a 2L
-
-> L'enfisema è un fattore di rischio per PNX post-biopsia polmonare
-
-Non indicazione a biopsia endoscopistica
-
-2022/04/05
-Non indicazione alla biopsia ma da mantenere in folLow-up come da indicazioni NCCN?
-> Le linee guida NCCN 3/2022 non danno mai indicazione a follow-up diretto ma valutare prima la possibilità di una radioterpia (RT) anche senza biopsia.
-
-- trovare indicazioni e riportarle
-
-Valutare in TC se quello che viene segnato come linfonodo non è piuttosto un nodulo tiroideo o un vaso.
-
-Se non è un linfonodo allora avviare alla radioterapia se invece è sospetto fare ecografia e nel caso bioptare il linfonodo e se positivo per tumore allora automatiamente stadio IIIA ed avviare alla chemioterapia.
-
-**REFERTO CONSULENZA**
-*Esaminata la documentazione del Paziente.*
-
-*Quanto alla lesione polmonare nel segmento apicale del lobo inferiore del polmone destro, si concorda con il giudizio dello Specialista Pneumologo di significativo rischio di pneumotorace in caso di una agobiopsia transtoracica TC-guidata; è inoltre da valutarsi la "riserva" respiratoria per stabilire la fattibilità di una resezione in caso di assai verosimile neoplasia primitiva in stadio IA (T1b, N0); qualora il Paziente sia da considerarsi a priori inoperabile, potrebbe essere utile una consulenza Specialistica di Radioterapia (possibile un trattamento senza tipizzazione?).*
-
-*Relativamente alla circoscritta e intensa ipercaptazione alla base del collo alla PET, in sede pretracheale, il reperto coincide con un nodulo parzialmente calcifico indissociabile dal margine inferiore dell'istmo tiroideo e pertanto con origine attribuibile in prima ipotesi a tale organo (non distinguibile un nodo di struma da una neoplasia ben differenziata, ma reperto in ogni caso al momento irrilevante).*
-
-*Disponibili a chiarimenti,*
-
----
-
-
-
-<div style="text-align: right">
-<a href="#radiologia-interventistica">⬆️</a>
-</div>
-
----
 
 ## **AGOBIOPSIA EPATICA CEUS-GUIDATA**
 
@@ -746,6 +697,53 @@ L'assistente di sala ha solitamente predispone e assiste nel preparare il piano 
 ---
 
 ## POSIZIONAMENTO PORT
+
+<div style="text-align: right">
+<a href="#radiologia-interventistica">⬆️</a>
+</div>
+
+---
+
+## **CONSULENZA RADIOLOGICA**
+
+
+### 2022/04/05 \| NODULO POLMONARE LID + NODULO TIROIDEO / LINFONODO &rarr; RT 
+
+2022/04/05
+- Richiesta di FNA TC guidata per nodulo polmonare LID (+ nodularità collo)
+- TC TOR (21/3/2022) = nota nodularità a margini polilobulati e lievemente sfrangiati e spiculati a livello del segmento apicale del LID del diamtero di 15 mm con enhancement mdc.
+- PET post-TC = lesione LID ipercaptante (SUV 3.7) come anche verosimili linfoadenomegalie paratracheali alla base del collo (SUV 8.46).
+
+> Massa polmonare singola di 15mm &rarr; T1b } SI &rarr; RT & FU
+> Massa polmonare singola di 15mm + linfonodo sovraclaveare &rarr; T1b + N2 } SIIIA &rarr; chemio?
+
+Pz affetto da enfisema (BPCO)
+ricoverato in medicina per riacutizzazione di patologia ad ora stabile con O2 a 2L
+
+> L'enfisema è un fattore di rischio per PNX post-biopsia polmonare
+
+Non indicazione a biopsia endoscopistica
+
+2022/04/05
+Non indicazione alla biopsia ma da mantenere in folLow-up come da indicazioni NCCN?
+> Le linee guida NCCN 3/2022 non danno mai indicazione a follow-up diretto ma valutare prima la possibilità di una radioterpia (RT) anche senza biopsia.
+
+- trovare indicazioni e riportarle
+
+Valutare in TC se quello che viene segnato come linfonodo non è piuttosto un nodulo tiroideo o un vaso.
+
+Se non è un linfonodo allora avviare alla radioterapia se invece è sospetto fare ecografia e nel caso bioptare il linfonodo e se positivo per tumore allora automatiamente stadio IIIA ed avviare alla chemioterapia.
+
+**REFERTO CONSULENZA**
+*Esaminata la documentazione del Paziente.*
+
+*Quanto alla lesione polmonare nel segmento apicale del lobo inferiore del polmone destro, si concorda con il giudizio dello Specialista Pneumologo di significativo rischio di pneumotorace in caso di una agobiopsia transtoracica TC-guidata; è inoltre da valutarsi la "riserva" respiratoria per stabilire la fattibilità di una resezione in caso di assai verosimile neoplasia primitiva in stadio IA (T1b, N0); qualora il Paziente sia da considerarsi a priori inoperabile, potrebbe essere utile una consulenza Specialistica di Radioterapia (possibile un trattamento senza tipizzazione?).*
+
+*Relativamente alla circoscritta e intensa ipercaptazione alla base del collo alla PET, in sede pretracheale, il reperto coincide con un nodulo parzialmente calcifico indissociabile dal margine inferiore dell'istmo tiroideo e pertanto con origine attribuibile in prima ipotesi a tale organo (non distinguibile un nodo di struma da una neoplasia ben differenziata, ma reperto in ogni caso al momento irrilevante).*
+
+*Disponibili a chiarimenti,*
+
+---
 
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
