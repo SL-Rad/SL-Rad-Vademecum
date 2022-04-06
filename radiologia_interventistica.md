@@ -69,6 +69,12 @@
 
 ## **CONSULENZA RADIOLOGICA**
 
+ 
+Esaminata la documentazione del Paziente.
+Quanto alla lesione polmonare nel segmento apicale del lobo inferiore del polmone destro, si concorda con il giudizio dello Specialista Pneumologo di significativo rischio di pneumotorace in caso di una agobiopsia transtoracica TC-guidata; è inoltre da valutarsi la "riserva" respiratoria per stabilire la fattibilità di una resezione in caso di assai verosimile neoplasia primitiva in stadio IA (T1b, N0); qualora il Paziente sia da considerarsi a priori inoperabile, potrebbe essere utile una consulenza Specialistica di Radioterapia (possibile un trattamento senza tipizzazione?).
+Relativamente alla circoscritta e intensa ipercaptazione alla base del collo alla PET, in sede pretracheale, il reperto coincide con un nodulo parzialmente calcifico indissociabile dal margine inferiore dell'istmo tiroideo e pertanto con origine attribuibile in prima ipotesi a tale organo (non distinguibile un nodo di struma da una neoplasia ben differenziata, ma reperto in ogni caso al momento irrilevante).
+Disponibili a chiarimenti,
+
 <div style="text-align: right">
 <a href="#radiologia-interventistica">⬆️</a>
 </div>
