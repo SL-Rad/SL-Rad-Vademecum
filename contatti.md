@@ -101,10 +101,6 @@
 |        | ORTOPEDIA - REPARTO                                    |           6626 - 6671            |
 |        | ORTOPEDIA - AMBULATORI                                 |        7232 - 7233 - 6336        |
 |        |                                                        |                                  |
-|        |                                                        |                                  |
-|        |                                                        |                                  |
-|        |                                                        |                                  |
-|        |                                                        |                                  |
 
 
 
